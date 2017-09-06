@@ -30110,8 +30110,8 @@
 127.0.0.1 ad.admitad.com
 127.0.0.1 clk.taptica.com 
 127.0.0.1 r4xga.x.incapdns.net
-mobopromo.biz 
-7elements.affise.com
-7elements.go2affise.com 
-ads.mediasmart.es
-ads-1202260457.us-east-1.elb.amazonaws.com
+127.0.0.1 mobopromo.biz 
+127.0.0.1 7elements.affise.com
+127.0.0.1 7elements.go2affise.com 
+127.0.0.1 ads.mediasmart.es
+127.0.0.1 ads-1202260457.us-east-1.elb.amazonaws.com
