@@ -1,0 +1,35 @@
+##StevenBlack's list
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+##MalwareDomains
+https://mirror1.malwaredomains.com/files/justdomains
+
+##Cameleon
+http://sysctl.org/cameleon/hosts
+
+##Zeustracker
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+
+##Disconnect.me Tracking
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+
+##Disconnect.me Ads
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+
+##Hosts-file.net
+https://hosts-file.net/ad_servers.txt
+
+https://lists.malwarepatrol.net/cgi/getfile?receipt=?????&product=8&list=dansguardian
+https://lists.malwarepatrol.net/cgi/getfile?receipt=?????&product=8&list=smoothwall
+https://lists.malwarepatrol.net/cgi/getfile?receipt=?????&product=8&list=symantec_websecurity
+https://hosts-file.net/grm.txt
+https://hosts-file.net/hjk.txt
+https://hosts-file.net/mmt.txt
+https://hosts-file.net/pha.txt
+https://hosts-file.net/psh.txt
+https://hosts-file.net/pup.txt
+https://hosts-file.net/wrz.txt
+https://hosts-file.net/exp.txt
+https://hosts-file.net/emd.txt
+https://hosts-file.net/fsa.txt
+https://raw.githubusercontent.com/IcedComputer/Pi-Hole/11f8efa611e86bdbc126a9c06e4d347e359b87d6/Hosts
