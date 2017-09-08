@@ -1,0 +1,3 @@
+sudo cat /var/log/pihole.log | grep query | cut -d" " -f 7 | sort | uniq | sort -n > file1
+sudo cat /etc/pihole/gravity.list | grep query | cut -d" " -f 2 | sort | uniq > file2
+comm -23 file1 file2
