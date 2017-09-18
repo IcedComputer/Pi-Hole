@@ -32,4 +32,5 @@ https://hosts-file.net/wrz.txt
 https://hosts-file.net/exp.txt
 https://hosts-file.net/emd.txt
 https://hosts-file.net/fsa.txt
-https://raw.githubusercontent.com/IcedComputer/Pi-Hole/11f8efa611e86bdbc126a9c06e4d347e359b87d6/Hosts
+https://raw.githubusercontent.com/IcedComputer/Pi-Hole/master/Hosts
+https://raw.githubusercontent.com/IcedComputer/Pi-Hole/master/MyBlocking
