@@ -267,4 +267,8 @@
 127.0.0.1 opinionstage.com
 127.0.0.1 www.opinionstage.com
 127.0.0.1 www-google-analytics.l.google.com
-127.0.0.1 www.google-analytics.com 
+127.0.0.1 www.google-analytics.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 pagead.l.doubleclick.net
+127.0.0.1 px.sp0tliteads.com
+
