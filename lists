@@ -16,9 +16,12 @@ https://lists.malwarepatrol.net/cgi/getfile?receipt=f1503885440&product=8&list=s
 https://mirror1.malwaredomains.com/files/justdomains
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Hosts
 https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/MyBlocking
+https://raw.githubusercontent.com/IcedComputer/Pi-Hole/master/Hosts
+https://raw.githubusercontent.com/IcedComputer/Pi-Hole/master/MyBlocking
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
@@ -28,11 +31,10 @@ https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://v.firebog.net/hosts/Airelle-hrsk.txt
+https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/Prigent-Malware.txt
+https://v.firebog.net/hosts/static/SamsungSmart.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 http://sysctl.org/cameleon/hosts
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-https://v.firebog.net/hosts/Airelle-hrsk.txt
-https://v.firebog.net/hosts/Easyprivacy.txt
-https://v.firebog.net/hosts/static/SamsungSmart.txt
-
