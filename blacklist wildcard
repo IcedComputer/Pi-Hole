@@ -103,5 +103,6 @@ address=/yieldmo.com/8.8.8.8
 address=/yimg.com/8.8.8.8
 address=/ytimg.com/8.8.8.8
 address=/zentrick.com/8.8.8.8
-
+address=/metric.gstatic.com/8.8.8.8
+address=/doubleverify.com/8.8.8.8
 
