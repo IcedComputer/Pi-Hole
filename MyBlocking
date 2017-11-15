@@ -444,4 +444,8 @@
 127.0.0.1 ads.revjet.com
 127.0.0.1 ads.yieldmo.com
 127.0.0.1 telemetryhost235.cloudapp.net
+127.0.0.1 v10.vortex-win.data.microsoft.com
+127.0.0.1 settings-win.data.microsoft.com
+127.0.0.1 watson.telemetry.microsoft.com
+127.0.0.1 oca.telemetry.microsoft.com
 
