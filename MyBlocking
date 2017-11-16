@@ -447,4 +447,11 @@
 127.0.0.1 settings-win.data.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 oca.telemetry.microsoft.com
+127.0.0.1 native.sharethrough.com
+127.0.0.1 assets.bounceexchange.com
+127.0.0.1 ads.rubiconproject.com
+127.0.0.1 beacon.krxd.net
+127.0.0.1 events.bouncex.net
+127.0.0.1 images.outbrain.com
+
 
