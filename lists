@@ -34,7 +34,10 @@ https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/Prigent-Malware.txt
 https://v.firebog.net/hosts/static/SamsungSmart.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
-http://sysctl.org/cameleon/hosts
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
 https://gist.githubusercontent.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/raw/87378f77179722c227b7813faddab53df6a38708/blacklist.txt
+https://adaway.org/hosts.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+http://sysctl.org/cameleon/hosts
