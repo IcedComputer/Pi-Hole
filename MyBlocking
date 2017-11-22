@@ -191,7 +191,6 @@
 127.0.0.1 ps.pndsn.com
 127.0.0.1 pwapi.washingtonpost.com
 127.0.0.1 r4xga.x.incapdns.net
-127.0.0.1 redirector.gvt1.com
 127.0.0.1 registry.api.cnn.io
 127.0.0.1 ritsoperrol.ru
 127.0.0.1 rules2.aatkit.com
@@ -509,3 +508,9 @@
 127.0.0.1 nexus-websocket-a.intercom.io
 127.0.0.1 static.intercomassets.com
 127.0.0.1 js.intercomcdn.com
+127.0.0.1 cdn.headwayapp.co
+127.0.0.1 headway-widget.net
+127.0.0.1 logrocket.auth0.com
+127.0.0.1 con.tent.network
+127.0.0.1 js.pusher.com
+127.0.0.1 js.hs-scripts.com
