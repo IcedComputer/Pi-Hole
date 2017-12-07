@@ -262,6 +262,8 @@
 127.0.0.1 www.summerhamster.com
 127.0.0.1 summerhamster.com
 127.0.0.1 ec2-52-27-8-169.us-west-2.compute.amazonaws.com # same as www.summerhamster.com
+127.0.0.1 bc.pdx.sp-prod.net # same as www.summerhamster.com
+127.0.0.1 bc.sp-prod.net # same as www.summerhamster.com
 127.0.0.1 www.torpedo7.co.nz
 127.0.0.1 www.turnerjobs.com
 127.0.0.1 yandex.ru
