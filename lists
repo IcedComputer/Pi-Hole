@@ -8,6 +8,7 @@ https://hosts-file.net/hjk.txt
 https://hosts-file.net/mmt.txt
 https://hosts-file.net/pha.txt
 #https://hosts-file.net/psh.txt #invalid
+https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/fixes #replacement
 https://hosts-file.net/pup.txt
 https://hosts-file.net/wrz.txt
 https://lists.malwarepatrol.net/cgi/getfile?receipt=f1503885440&product=8&list=dansguardian
