@@ -1,3 +1,7 @@
+## MyBlocking
+## A list of tracking sites, malicious sites and other things that likely need to be blocked
+## Updated 14 DEC 2017
+
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
 127.0.0.1 109114.synergyxpress.com
@@ -530,7 +534,6 @@
 127.0.0.1 www.everyads.com
 127.0.0.1 www.example.net
 127.0.0.1 www.example.org
-127.0.0.1 www.express.co.uk
 127.0.0.1 www.ezmob.com
 127.0.0.1 www.fingertipads.com
 127.0.0.1 www.getdrip.com
