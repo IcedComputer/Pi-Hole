@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 18 DEC 2017
+## Updated 19 DEC 2017
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -627,3 +627,4 @@
 127.0.0.1 market.android.com
 127.0.0.1 beacons-blackholed.gcp.gvt2.com
 127.0.0.1 www.thg.ru
+127.0.0.1 www.refinancemortgagerates.org
