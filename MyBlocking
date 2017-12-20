@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 19 DEC 2017
+## Updated 20 DEC 2017
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -642,3 +642,6 @@
 127.0.0.1 cf.iadsdk.apple.com
 127.0.0.1 mobile.eum-appdynamics.com
 127.0.0.1 c.uzjvh.com
+127.0.0.1 68.media.tumblr.com
+127.0.0.1 tumblr.zendesk.com
+127.0.0.1 newsweek.tumblr.com
