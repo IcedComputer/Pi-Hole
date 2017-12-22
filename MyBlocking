@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 20 DEC 2017
+## Updated 22 DEC 2017
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -683,4 +683,4 @@
 127.0.0.1 viper.analytics.carbonite.com
 127.0.0.1 creative-analytics.crossinstall.io
 127.0.0.1 viewcount-1964976613.us-east-1.elb.amazonaws.com
-
+127.0.0.1 www.bitporno.com
