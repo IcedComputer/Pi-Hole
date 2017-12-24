@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 22 DEC 2017
+## Updated 24 DEC 2017
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -692,3 +692,5 @@
 127.0.0.1 0aqpqdju.me
 127.0.0.1 www.mwxurdlzjbuvh.bid
 127.0.0.1 www.ammuburyqlhsjx.bid
+127.0.0.1 badges.altmetric.com
+127.0.0.1 metrics.fe.apple-dns.net
