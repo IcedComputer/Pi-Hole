@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 24 DEC 2017
+## Updated 26 DEC 2017
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -699,3 +699,10 @@
 127.0.0.1 click.appsamurai.com
 127.0.0.1 device-messaging-na.amazon.com
 127.0.0.1 rainbowanalytics-a.wpdigital.net
+127.0.0.1 amazonadsi-a.akamaihd.net
+127.0.0.1 bestbuy.ca.assist.247-inc.net
+127.0.0.1 ads.www.amazon.com
+127.0.0.1 kinstruments-measurements.s3-external-1.amazonaws.com
+127.0.0.1 noily-on.date
+127.0.0.1 bowel-dj.date
+127.0.0.1 cloky-if.date
