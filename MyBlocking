@@ -715,3 +715,7 @@
 127.0.0.1 ciaanalytics.wellsfargo.com
 127.0.0.1 analytics.civicplus.com
 127.0.0.1 analytics.foresee.com
+127.0.0.1 static.foresee.com
+127.0.0.1 gateway.foresee.com
+127.0.0.1 health.foresee.com
+127.0.0.1 brain.foresee.com
