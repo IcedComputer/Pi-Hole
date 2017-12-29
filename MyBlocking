@@ -712,3 +712,6 @@
 127.0.0.1 api.altmetric.com
 127.0.0.1 metrics.fidelity.com
 127.0.0.1 smetrics.sdcvisit.com
+127.0.0.1 ciaanalytics.wellsfargo.com
+127.0.0.1 analytics.civicplus.com
+127.0.0.1 analytics.foresee.com
