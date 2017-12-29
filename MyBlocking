@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 26 DEC 2017
+## Updated 28 DEC 2017
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -706,3 +706,9 @@
 127.0.0.1 noily-on.date
 127.0.0.1 bowel-dj.date
 127.0.0.1 cloky-if.date
+127.0.0.1 174.223.1.137.us.cby3.208371751.pixel.archive.is
+127.0.0.1 track.neuro-id.com
+127.0.0.1 metrics1.citibank.com
+127.0.0.1 api.altmetric.com
+127.0.0.1 metrics.fidelity.com
+127.0.0.1 smetrics.sdcvisit.com
