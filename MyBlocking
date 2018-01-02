@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 31 DEC 2017
+## Updated 02 JAN 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -755,3 +755,4 @@
 127.0.0.1 photorankstatics-a.akamaihd.net
 127.0.0.1 metrics.protectmyid.com
 127.0.0.1 www.fmprc.gov.cn
+127.0.0.1 cdn.roiq-vice.ranker.com
