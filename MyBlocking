@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 02 JAN 2018
+## Updated 03 JAN 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -765,3 +765,21 @@
 127.0.0.1 content.balihoo.com
 127.0.0.1 balihoo.aclients.com
 127.0.0.1 edge.adcolony.top.comcast.net
+127.0.0.1 adservex.media.net
+127.0.0.1 pxlscpgecom-a.akamaihd.net
+127.0.0.1 cdn.atlanticinsights.com
+127.0.0.1 jw.salon.com
+127.0.0.1 pxlscpgecom-a.akamaihd.net
+127.0.0.1 emails.insidehornet.com
+127.0.0.1 app-3qcmwoxuw2.marketingautomation.services
+127.0.0.1 jabox.ru
+127.0.0.1 catrg.peer39.com
+127.0.0.1 peer39.com
+127.0.0.1 wildcard.peer39.com.edgekey.net
+127.0.0.1 wildcard.media.net.edgekey.net
+127.0.0.1 qsearch-a.akamaihd.net
+127.0.0.1 dt.scpge.com
+127.0.0.1 vjs.zencdn.net
+127.0.0.1 cdn.speedcurve.com
+127.0.0.1 untidyquestion.com
+127.0.0.1 global.proper.io
