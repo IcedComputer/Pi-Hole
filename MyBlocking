@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 06 JAN 2018
+## Updated 07 JAN 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -785,3 +785,4 @@
 127.0.0.1 6tsbe1zs.me
 127.0.0.1 a0a28d3c97a4e566.com
 127.0.0.1 b-graph.facebook.com
+127.0.0.1 myplan-washington-edu-ads.ltm.uw.edu
