@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 09 JAN 2018
+## Updated 10 JAN 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -789,3 +789,6 @@
 127.0.0.1 anvhls-jite.cdn.anvato.net
 127.0.0.1 xd.engagesciences.com
 127.0.0.1 ws.batch.com
+127.0.0.1 analytics.ssbbartgroup.com
+127.0.0.1 stats.zotabox.com
+127.0.0.1 staging.greatagent.net
