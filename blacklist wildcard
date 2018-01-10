@@ -495,3 +495,6 @@ address=/xpanama.net/8.8.8.8
 address=/zadserver.com/8.8.8.8
 address=/zedo.com/8.8.8.8
 address=/zenmxapps.com/8.8.8.8
+address=/.xyz/8.8.8.8
+address=/.ru/8.8.8.8
+address=/.cn/8.8.8.8
