@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 19 JAN 2018
+## Updated 23 JAN 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -800,3 +800,6 @@
 127.0.0.1 www.queuemetrics-live.com
 127.0.0.1 metrics.potterybarn.com
 127.0.0.1 log-ingestion.samsungacr.com
+127.0.0.1 info.cspserver.net
+127.0.0.1 selfsigned.ueiwsp.com
+127.0.0.1 echo.internetat.tv
