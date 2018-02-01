@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 30 JAN 2018
+## Updated 1 FEB 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -806,4 +806,6 @@
 127.0.0.1 dyn-beacon.akamaized.net
 127.0.0.1 smetrics.wm.com
 127.0.0.1 marketing-webhooks.generalassemb.ly
+127.0.0.1 messaging-notifications.api.nytimes.com
+127.0.0.1 us-east-1-decisionapi.lift.acquia.com
 
