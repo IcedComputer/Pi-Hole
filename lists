@@ -8,7 +8,7 @@ https://hosts-file.net/hjk.txt
 https://hosts-file.net/mmt.txt
 https://hosts-file.net/pha.txt
 #https://hosts-file.net/psh.txt
-https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/fixes
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/fixes
 https://hosts-file.net/pup.txt
 https://hosts-file.net/wrz.txt
 https://lists.malwarepatrol.net/cgi/getfile?receipt=f1503885440&product=8&list=dansguardian
@@ -19,8 +19,8 @@ https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
-https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Hosts
-https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/MyBlocking
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/Hosts
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/MyBlocking
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
@@ -41,11 +41,11 @@ https://gist.githubusercontent.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/ra
 https://adaway.org/hosts.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/OtherBlocks
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/OtherBlocks
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/iosadlist.txt
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
-https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/ForeignHost
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/ForeignHost
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
