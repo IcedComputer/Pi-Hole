@@ -497,8 +497,7 @@ address=/releaseyourreturns.com/8.8.8.8
 #TLD
 #other
 address=/.xyz/8.8.8.8
-address=/.ru/8.8.8.8
-address=/.cn/8.8.8.8
+address=/.mil/8.8.8.8
 address=/.country/8.8.8.8
 address=/.stream/8.8.8.8
 address=/.gdn/8.8.8.8
@@ -544,6 +543,9 @@ address=/.tushu/8.8.8.8
 address=/.wanggou/8.8.8.8
 address=/.wang/8.8.8.8
 #country
+address=/.ru/8.8.8.8
+address=/.br/8.8.8.8
+address=/.cn/8.8.8.8
 address=/.gq/8.8.8.8
 address=/.ua/8.8.8.8
 address=/.tw/8.8.8.8
