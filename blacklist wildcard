@@ -1,3 +1,7 @@
+## PiHole Blacklist of Domains ##
+## Does not include many TLD ##
+## Last Updated 05 FEB 2018 ##
+
 address=/aakit.com/8.8.8.8
 address=/adclickservice.com/8.8.8.8
 address=/adcolony.com/8.8.8.8
