@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 6 FEB 2018
+## Updated 8 FEB 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -815,3 +815,9 @@
 127.0.0.1 prod-sb-appanalytics-us1.servicebus.windows.net
 127.0.0.1 click.gm-email.mar0.net
 127.0.0.1 img.bleacherreport.net
+127.0.0.1 service.gracenote.com
+127.0.0.1 data.tmsapi.com
+127.0.0.1 feeds.tmsapi.com
+127.0.0.1 status.api.gracenote.com
+127.0.0.1 odg-ovd-production-api-1241227770.us-west-2.elb.amazonaws.com
+127.0.0.1 gn5449-oc-alertra-lb-elb-118551561.us-west-2.elb.amazonaws.comm
