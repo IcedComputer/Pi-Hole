@@ -822,3 +822,5 @@
 127.0.0.1 odg-ovd-production-api-1241227770.us-west-2.elb.amazonaws.com
 127.0.0.1 gn5449-oc-alertra-lb-elb-118551561.us-west-2.elb.amazonaws.com
 127.0.0.1 film.austinappliancesolutions.us
+127.0.0.1 sanalytics.verizon.com
+127.0.0.1 smetrics.hmhco.com
