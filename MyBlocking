@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 9 FEB 2018
+## Updated 20 FEB 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -824,3 +824,4 @@
 127.0.0.1 film.austinappliancesolutions.us
 127.0.0.1 sanalytics.verizon.com
 127.0.0.1 smetrics.hmhco.com
+127.0.0.1 klkviral.org
