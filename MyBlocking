@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 01 MAR 2018
+## Updated 07 MAR 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -850,3 +850,8 @@
 127.0.0.1 tag.segmetrics.io
 127.0.0.1 analytics.food.com
 127.0.0.1 sanalytics.autozone.com
+127.0.0.1 sentitlement2.mobile.att.net
+127.0.0.1 analytics.etailz.com
+127.0.0.1 by.marketinghub.opentext.com
+127.0.0.1 smetrics.elsevier.com
+127.0.0.1 smetrics.potterybarn.com
