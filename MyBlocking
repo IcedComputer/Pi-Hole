@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 19 MAR 2018
+## Updated 26 MAR 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -858,3 +858,4 @@
 127.0.0.1 www.imageliners.com
 127.0.0.1 imageliners.com
 127.0.0.1 reports-crashlytics-900287362.us-east-1.elb.amazonaws.com
+127.0.0.1 collector-product-insight.thomsonreuters.com
