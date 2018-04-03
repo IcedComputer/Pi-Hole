@@ -3,6 +3,7 @@
 # I just do not want them on my network(s)
 
 127.0.0.1 amazon.cn
+127.0.0.1 amazon.ca
 127.0.0.1 amazon.co.jp
 127.0.0.1 amazon.com.br
 127.0.0.1 amazon.com.mx
