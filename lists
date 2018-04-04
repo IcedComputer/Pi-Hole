@@ -58,9 +58,6 @@ https://v.firebog.net/hosts/Prigent-Phishing.txt
 https://v.firebog.net/hosts/static/SamsungSmart.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-http://127.0.0.1/bootlist.txt
-http://127.0.0.1/openphish_feed.txt
-http://127.0.0.1/phishtank_feed.txt
 https://hostsfile.org/Downloads/hosts.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/Spotifynulled.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Canvas-Font-Fingerprinting-pages/master/Canvas.txt
@@ -74,3 +71,7 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/h
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+http://127.0.0.1/bootlist.txt
+http://127.0.0.1/openphish_feed.txt
+http://127.0.0.1/phishtank_feed.txt
+http://127.0.0.1/alist.txt
