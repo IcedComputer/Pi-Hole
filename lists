@@ -75,4 +75,4 @@ http://127.0.0.1/bootlist.txt
 http://127.0.0.1/openphish_feed.txt
 http://127.0.0.1/phishtank_feed.txt
 http://127.0.0.1/alist.txt
-http://127.0.0.1/ezlist.txt
+#http://127.0.0.1/ezlist.txt
