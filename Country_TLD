@@ -1,5 +1,5 @@
 ## List of Country TLD ##
-## Updated on 04 APRIL 2018 ##
+## Updated on 10 APRIL 2018 ##
 address=/.ac/8.8.8.8
 address=/.ad/8.8.8.8
 address=/.ae/8.8.8.8
@@ -229,7 +229,7 @@ address=/.tk/8.8.8.8
 address=/.tl/8.8.8.8
 address=/.tm/8.8.8.8
 address=/.tn/8.8.8.8
-#address=/.to/8.8.8.8
+address=/.to/8.8.8.8
 address=/.tp/8.8.8.8
 address=/.tr/8.8.8.8
 address=/.tt/8.8.8.8
