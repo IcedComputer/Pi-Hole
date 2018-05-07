@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 06 MAY 2018
+## Updated 07 MAY 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -895,3 +895,4 @@
 127.0.0.1 a.thumbs.redditmedia.com
 127.0.0.1 e.reddit.com
 127.0.0.1 d.reddit.com
+127.0.0.1 ams-ads-creative-assets-na.s3.amazonaws.com
