@@ -2,6 +2,10 @@
 # A list of likely valid domains (non-ad / non-malicious)
 # I just do not want them on my network(s)
 
+127.0.0.1 www.amazon.it
+127.0.0.1 www.amazon.fr
+127.0.0.1 www.amazon.co.uk
+127.0.0.1 www.amazon.ca
 127.0.0.1 amazon.cn
 127.0.0.1 amazon.ca
 127.0.0.1 amazon.co.jp
