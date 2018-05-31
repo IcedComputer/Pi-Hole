@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 11 MAY 2018
+## Updated 31 MAY 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -897,4 +897,8 @@
 127.0.0.1 d.reddit.com
 127.0.0.1 ams-ads-creative-assets-na.s3.amazonaws.com
 127.0.0.1 home-hme01-stable-1827399529.us-east-1.elb.amazonaws.com
-127.0.0.1 ms-trackingapi.phenompeople.com
+127.0.0.1 yhoo.itms-trackingapi.phenompeople.com
+127.0.0.1 yhoo.it
+127.0.0.1 sstats.vizergy.com
+127.0.0.1 com.tenjin.ios.api
+127.0.0.1 a.singleplatform.com
