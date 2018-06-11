@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 04 JUNE 2018
+## Updated 11 JUNE 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -910,3 +910,4 @@
 127.0.0.1 server.fuse.analytics-engine.com
 127.0.0.1 geoip.solarleadfactory.com
 127.0.0.1 geoscripts.meredith.services
+127.0.0.1 metrics.gfycat.com
