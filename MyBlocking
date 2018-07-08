@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 30 JUNE 2018
+## Updated 08 JULY 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -918,3 +918,18 @@
 127.0.0.1 deviceinfo.capitalone.com
 127.0.0.1 devices.carnivalmobile.com
 127.0.0.1 smetrics.t-mobile.com
+127.0.0.1 adadvalue.offerstrack.net
+127.0.0.1 cdn.fosterwebmarketing.com
+127.0.0.1 click.mybest.app
+127.0.0.1 endpoint1.collection.us2.sumologic.com
+127.0.0.1 interactive.guim.co.uk
+127.0.0.1 redirect800.us
+127.0.0.1 ssl.track2mobile.com
+127.0.0.1 track.appaniac.com
+127.0.0.1 tracking.altrooz.com
+127.0.0.1 track.knlob.com
+127.0.0.1 track.rqqft.com
+127.0.0.1 track.zvhee.com
+127.0.0.1 www.cellhub.us
+127.0.0.1 yahoofinanceamscryptosf.splashthat.com
+127.0.0.1 gcs-asia-00002.content-storage-upload.googleapis.com
