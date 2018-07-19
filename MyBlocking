@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 10 JULY 2018
+## Updated 18 JULY 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -975,3 +975,5 @@
 127.0.0.1 bikelawok.com
 127.0.0.1 bhtp.in
 127.0.0.1 audiusedcar.com
+127.0.0.1 p5-dxqx4okgfbvos-jvrpldec23gxenbr-274425-i2-v6exp3-ds.metric.ipv6test.com
+127.0.0.1 ads.everquote.com
