@@ -1,6 +1,6 @@
 ## PiHole Blacklist of Domains ##
 ## Does not include many TLD ##
-## Last Updated 22 July 2018 ##
+## Last Updated 26 July 2018 ##
 address=/aakit.com/8.8.8.8
 address=/adclickservice.com/8.8.8.8
 address=/adcolony.com/8.8.8.8
@@ -502,3 +502,4 @@ address=/clients.your/8.8.8.8
 address=/voluumtrk.com/8.8.8.8
 address=/datingagencyapp.com/8.8.8.8
 address=/beemray.com/8.8.8.8
+address=/siteintercept.qualtrics.comm/8.8.8.8
