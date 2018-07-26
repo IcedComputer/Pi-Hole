@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 22 JULY 2018
+## Updated 26 JULY 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -982,3 +982,4 @@
 127.0.0.1 analytics.dnnapi.com
 127.0.0.1 metrics.allrecipes.com
 127.0.0.1 target.mixi.media
+127.0.0.1 be.wtf
