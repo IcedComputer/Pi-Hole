@@ -1,6 +1,6 @@
 ## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
-## Updated 26 JULY 2018
+## Updated 02 AUG 2018
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -985,3 +985,4 @@
 127.0.0.1 be.wtf
 127.0.0.1 clickserv.basis.net
 127.0.0.1 assets.guim.co.uk
+127.0.0.1 pixel.open-x.net
