@@ -1,5 +1,3 @@
-## Regex Blacklist ##
-## Last Updated 14 AUG 208 ##
 #########
 (^|\.)10bet\.com$
 (^|\.)22web\.org$
@@ -91,6 +89,8 @@
 (^|\.)avrtcal\.com$
 (^|\.)awesomeforyou\.club$
 (^|\.)awesomeom\.com$
+(^|\.)[a-z]*adserver\.com$
+(^|\.)[a-z]*track(er|ing)?[0-9]*[-.]
 (^|\.)badgeville\.com$
 ^banners?[-.]
 (^|\.)batmobil?\.net$
@@ -181,8 +181,8 @@
 (^|\.)dev-ads-soft-web\.top$
 (^|\.)diomedis\.online$
 (^|\.)dmndtrk\.com$
-(^|\.)doubleclickbygoogle\.com$
 (^|\.)doubleclick\.
+(^|\.)doubleclickbygoogle\.com$
 (^|\.)doublepimp\.com$
 (^|\.)doubleverify\.com$
 (^|\.)dsipsw\.net$
@@ -281,6 +281,7 @@
 (^|\.)l2\.io$
 (^|\.)language\.herokuapp\.com$
 (^|\.)lapalingo\.com$
+## Last Updated 14 AUG 208 ##
 (^|\.)lenovomm\.com$
 (^|\.)leovegas\.com$
 (^|\.)letreach\.com$
@@ -398,6 +399,7 @@
 (^|\.)rayjump\.com$
 (^|\.)reallifecam\.com$
 (^|\.)real-prizes\.de$
+## Regex Blacklist ##
 (^|\.)releaseyourreturns\.com$
 (^|\.)reporo\.net$
 (^|\.)research\.de$
@@ -420,6 +422,7 @@
 (^|\.)sexybabesx\.com$
 (^|\.)sftapi\.com$
 (^|\.)sharethis\.com$
+(^|\.)silverpush\.com?$
 (^|\.)sind\.da$
 (^|\.)siteintercept\.
 (^|\.)site(meter|count)\.com$
@@ -427,6 +430,7 @@
 (^|\.)sleeknote\.com$
 (^|\.)smaato\.net$
 (^|\.)smartlook\.com$
+(^|\.)s?metrics?[-.]
 (^|\.)smoozed\.rocks$
 (^|\.)snapads\.com$
 (^|\.)sociomantic\.com$
@@ -463,11 +467,13 @@
 (^|\.)tango-deg\.com$
 (^|\.)tapa(d|s)\.((com)|(net))$
 (^|\.)taplytics\.com$
+(^|\.)target(ing|serving)[-.]
 (^|\.)tatacliq\.com$
 (^|\.)tausend-euro-gutschein\.de$
 (^|\.)tbccint\.com$
 (^|\.)tclclouds\.com$
 (^|\.)teads\.tv$
+(^|\.)telemetry[-.]
 (^|\.)thebestoffer\.gq$
 (^|\.)thefuncoolstuff\.com$
 (^|\.)thruport\.com
@@ -479,7 +485,6 @@
 (^|\.)topt\.ruck-autos\.rocks$
 (^|\.)topt\.ruckssite\.com$
 (^|\.)touchcommerce\.com$
-(^|\.)[a-z]*track(er|ing)?[0-9]*[-.]
 (^|\.)tradedoubler\.com
 (^|\.)traff(ic)?[-.]
 (^|\.)trafficfactory\.biz$
@@ -520,7 +525,6 @@
 (^|\.)wishpond\.com$
 (^|\.)wistia\.net$
 (^|\.)wizardofodds\.com$
-(^|\.)silverpush\.com?$
 (^|\.)wzrkt\.com$
 (^|\.)xdates18\.com$
 (^|\.)xg4ken\.com$
@@ -533,12 +537,8 @@
 (^|\.)yimg\.com$
 (^|\.)yotpo\.com$
 (^|\.)yumenetworks\.com$
-(^|\.)[a-z]*adserver\.com$
 (^|\.)zedo\.com$
 (^|\.)zenmxapps\.com$
 (^|\.)zentrick\.com$
 (^|\.)zeroredirect1\.com$
 (^|\.)zopim\.com$
-(^|\.)s?metrics?[-.]
-(^|\.)target(ing|serving)[-.]
-(^|\.)telemetry[-.]
