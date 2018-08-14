@@ -1,3 +1,5 @@
+
+(^|\.)10bet\.com$
 (^|\.)22web\.org$
 (^|\.)247realmedia\.com
 (^|\.)2cnt\.net
@@ -195,6 +197,7 @@
 (^|\.)diomedis\.online$
 (^|\.)directadtrack\.com$
 (^|\.)dmndtrk\.com$
+## Does not include many TLD ##
 (^|\.)doubleclickbygoogle\.com$
 (^|\.)doubleclick\.com$
 (^|\.)doubleclick\.net
@@ -240,6 +243,7 @@
 (^|\.)g2a\.com$
 (^|\.)geenapptrack\.com$
 (^|\.)gemius\.pl
+(^|\.)geomob+ad24\.com$
 (^|\.)geomobad24\.com$
 (^|\.)geomobbad24\.com$
 (^|\.)geovisite\.com
@@ -306,6 +310,7 @@
 (^|\.)l2\.io$
 (^|\.)language\.herokuapp\.com$
 (^|\.)lapalingo\.com$
+## Last Updated 14 AUG 2018 ##
 (^|\.)lenovomm\.com$
 (^|\.)leovegas\.com$
 (^|\.)letreach\.com$
@@ -366,6 +371,7 @@
 (^|\.)nativendo\.com$
 (^|\.)nativendo\.de$
 (^|\.)networkadvertising\.org$
+##new
 (^|\.)new-free-offer\.in$
 (^|\.)nextage\.com$
 (^|\.)nikopik\.com$
@@ -401,6 +407,7 @@
 (^|\.)personaly\.click$
 (^|\.)pfundertrk\.me$
 (^|\.)pick-up-rewards\.club$
+## PiHole Regex Blacklist of Domains ##
 (^|\.)pinterest\.com$
 (^|\.)pipelinemarketing\.com$
 ^pixels?[-.]
@@ -581,6 +588,7 @@
 (^|\.)wistia\.net$
 (^|\.)wizardofodds\.com$
 (^|\.)www\.silverpush\.co$
+(^|\.)www\.silverpush\.com?$
 (^|\.)wzrkt\.com$
 (^|\.)xdates18\.com$
 (^|\.)xg4ken\.com$
@@ -600,5 +608,4 @@
 (^|\.)zenmxapps\.com$
 (^|\.)zentrick\.com$
 (^|\.)zeroredirect1\.com
-(^|\.)10bet\.com$
 (^|\.)zopim\.com$
