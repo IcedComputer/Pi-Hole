@@ -18,6 +18,7 @@ https://icedcomputer.github.io/Personal-Pi-Hole-configs/Hosts
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/MyBlocking
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/OtherBlocks
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/f2bblocks
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/uslocal
 https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
 https://lists.malwarepatrol.net/cgi/getfile?receipt=f1503885440&product=8&list=dansguardian
 https://lists.malwarepatrol.net/cgi/getfile?receipt=f1503885440&product=8&list=smoothwall
@@ -38,7 +39,6 @@ https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.t
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
-https://raw.githubusercontent.com/smokingwheels/NSABlocklist/master/HOSTS
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
