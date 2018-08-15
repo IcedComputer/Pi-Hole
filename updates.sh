@@ -20,12 +20,13 @@ sudo wget -O $TEMPDIR/regex.country 'https://raw.githubusercontent.com/IcedCompu
 wait
 sudo wget -O $TEMPDIR/regex.oTLD 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/oTLD_regex'
 wait
+sudo wget -O $TEMPDIR/regex.uslocal 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/uslocal'
 }
 
 function modify()
 {
 
-sudo cat $TEMPDIR/regex.download $TEMPDIR/regex.country $TEMPDIR/regex.oTLD | grep -v '#' | sort | uniq > $TEMPDIR/regex.list
+sudo cat $TEMPDIR/regex.download $TEMPDIR/regex.country $TEMPDIR/regex.oTLD $TEMPDIR/regex.uslocal | grep -v '#' | sort | uniq > $TEMPDIR/regex.list
 wait
 }
 
@@ -46,6 +47,7 @@ function clean()
 sudo rm -f $TEMPDIR/regex.download
 sudo rm -f $TEMPDIR/regex.country
 sudo rm -f $TEMPDIR/regex.oTLD
+sudo rm -f $TEMPDIR/regex.uslocal
 }
 
 function scripts()
