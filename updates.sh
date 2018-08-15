@@ -52,6 +52,8 @@ function scripts()
 {
 sudo bash /scripts/Finished/ListUpdater.sh
 wait
+sudo killall -SIGHUP pihole-FTL
+wait
 sudo pihole -g
 }
 
