@@ -4,9 +4,6 @@
 
 TEMPDIR=/scripts/temp
 PIDIR=/etc/pihole
-IPSTRING='s$/10.5.5.4/g'
-F2BDIR=/etc/fail2ban
-BACKUP=/scripts/Archive/ip.permabanlist
 
 #download files
 function download()
