@@ -1,5 +1,5 @@
 ## Regex Blacklist ##
-## Last Updated 1 AUG 208 ##
+## Last Updated 15 AUG 208 ##
 #########
 (^|\.)10bet\.com$
 (^|\.)22web\.org$
@@ -521,4 +521,8 @@
 (^|\.)digitalmarketing\.
 (^|\.)market(ing)?automations?[-_\.]
 (^|\.)[a-z]*cannabis[a-z]*[-_\.]
+(^|\.)free-counter.co.uk$
+(^|\.)cqcounter.com$
+(^|\.)hittail.com$
+(^|\.)fwmrm.net$
 ##EOF

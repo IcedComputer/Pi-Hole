@@ -1,7 +1,10 @@
 ## Random Other TLD ##
-## Updated 16 August 2018 ##
+## Updated 15 August 2018 ##
+#####
+
 (^|\.)xyz$
 (^|\.)mil$
+(^|\.)ic.gov$
 (^|\.)country$
 (^|\.)stream$
 (^|\.)gdn$
@@ -20,6 +23,7 @@
 (^|\.)party$
 (^|\.)work$
 (^|\.)moscow$
+(^|\.)london$
 (^|\.)xn--d1acj3b$
 (^|\.)xn--j1aef$
 (^|\.)xn--80asehdb$
@@ -52,3 +56,17 @@
 (^|\.)jetzt$
 (^|\.)reise$
 (^|\.)win$
+(^|\.)bid$
+(^|\.)vip$
+(^|\.)date$
+(^|\.)trade$
+(^|\.)accountants$
+(^|\.)shop$
+(^|\.)info$
+(^|\.)tel$
+(^|\.)yokohama$
+(^|\.)top$
+(^|\.)faith$
+(^|\.)rocks$
+(^|\.)space$
+(^|\.)site$
