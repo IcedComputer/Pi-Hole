@@ -1,5 +1,5 @@
 ## Regex Blacklist ##
-## Last Updated 14 AUG 208 ##
+## Last Updated 1 AUG 208 ##
 #########
 (^|\.)10bet\.com$
 (^|\.)22web\.org$
@@ -45,7 +45,7 @@
 (^|\.)ads?((cale)|(cat))[-_\.]
 (^|\.)adse?rv(e(rs?)?|ices?)?[0-9]*[-_\.]
 (^|\.)adsp\.ruce\.com$
-(^|\.)adtech\.
+(^|\.)adtech((us)|(jp))?[-_\.]
 (^|\.)adups\.((com)|(net))$
 (^|\.)adventurefeeds\.com$
 (^|\.)[a-z]*advert(s|is(ing|ements?))?[0-9]*[-_\.]
@@ -295,6 +295,7 @@
 (^|\.)mee?trics\.net$
 (^|\.)midasplayer\.com
 (^|\.)mitlukashermann\.com$
+(^|\.)mitlukashermann\.com$
 (^|\.)mktoresp\.com$
 (^|\.)mnet-ad\.net$
 (^|\.)moatads\.com$
@@ -338,7 +339,7 @@
 (^|\.)outbrain\.com$
 (^|\.)paperg\.com$
 (^|\.)parrable\.com$
-(^|\.)pcmclks\.com$
+(^|\.)((pub)|(pcm))?clks\.com$
 (^|\.)peerius\.com$
 (^|\.)personaly\.click$
 (^|\.)pfundertrk\.me$
@@ -356,7 +357,6 @@
 (^|\.)pornmd\.phncdn\.com$
 (^|\.)preisauswahl\.club$
 (^|\.)pro-market\.net$
-(^|\.)pubclk\.com$
 (^|\.)pubmatic\.com$
 (^|\.)pubnative\.net$
 (^|\.)pubnub\.com$
@@ -401,7 +401,8 @@
 (^|\.)sleeknote\.com$
 (^|\.)smaato\.net$
 (^|\.)smartlook\.com$
-(^|\.)s?metrics?[-_\.]
+(^|\.)s?(eg)?metrics?[-_\.]
+(^|\.)clientmetrics?[-_\.]
 (^|\.)smoozed\.rocks$
 (^|\.)sociomantic\.com$
 (^|\.)soflopxl\.com$
@@ -459,7 +460,7 @@
 (^|\.)trafficfactory\.biz$
 (^|\.)trafficjunky\.net$
 (^|\.)trafficstars\.com$
-(^|\.)trakingpixel\.
+(^|\.)((moat)|(traking))?pixel\.
 (^|\.)triplebyte\.com$
 (^|\.)tsyndicate\.com$
 (^|\.)turn\.com$
@@ -514,4 +515,10 @@
 (^|\.)(mobile)?apptrack(ing)?[-_\.]
 (^|\.)[0-9]*\.ecom\.attccc\.com$
 (^|\.)location(-services?)?[-_\.]
+(^|\.)connect\.facebook\.
+(^|\.)monetizer?\[-_\.]
+(^|\.)foresee\.com$
+(^|\.)digitalmarketing\.
+(^|\.)market(ing)?automations?[-_\.]
+(^|\.)[a-z]*cannabis[a-z]*[-_\.]
 ##EOF
