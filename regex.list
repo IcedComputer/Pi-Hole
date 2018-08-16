@@ -529,5 +529,5 @@
 (^|\.)tradedoubler.com$
 (^|\.)oascentral[-_\.]
 (^|\.)...police\.((com)|(net))$
-(^|\.)xn--[a-z0-9]*[-_\.]
+(^|\.)xn--[a-z0-9]*
 ##EOF
