@@ -458,7 +458,7 @@
 (^|\.)tradedoubler\.com
 (^|\.)traff(ic)?[-_\.]
 (^|\.)trafficfactory\.biz$
-(^|\.)trafficjunky\.net$
+(^|\.)trafficjunky\.((net)|(com))$
 (^|\.)trafficstars\.com$
 (^|\.)((moat)|(traking))?pixel\.
 (^|\.)triplebyte\.com$
@@ -521,9 +521,13 @@
 (^|\.)digitalmarketing\.
 (^|\.)market(ing)?automations?[-_\.]
 (^|\.)[a-z]*cannabis[a-z]*[-_\.]
-(^|\.)free-counter.co.uk$
-(^|\.)cqcounter.com$
-(^|\.)hittail.com$
-(^|\.)fwmrm.net$
-(^|\.)esomniture.com$
+(^|\.)free-counter\.co\.uk$
+(^|\.)cqcounter\.com$
+(^|\.)hittail\.com$
+(^|\.)esomniture\.com$
+(^|\.)112\.2o7\.net$
+(^|\.)tradedoubler.com$
+(^|\.)oascentral[-_\.]
+(^|\.)...police\.((com)|(net))$
+(^|\.)xn--[a-z]+[-_\.]
 ##EOF
