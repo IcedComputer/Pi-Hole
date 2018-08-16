@@ -4,7 +4,7 @@
 ping
 (^|\.)xyz$
 (^|\.)mil$
-(^|\.)ic.GOV$$
+(^|\.)ic.gov$
 (^|\.)country$
 (^|\.)stream$
 (^|\.)gdn$
