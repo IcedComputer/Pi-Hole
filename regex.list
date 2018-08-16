@@ -169,8 +169,7 @@
 (^|\.)diomedis\.online$
 (^|\.)dmndtrk\.com$
 (^|\.)doubleclick(bygoogle)?\.
-(^|\.)doublepimp\.com$
-(^|\.)doubleverify\.com$
+(^|\.)double((pimp)|(verify))\.com$
 (^|\.)dsipsw\.net$
 (^|\.)duapps\.com$
 (^|\.)dynamicyield\.com
@@ -223,8 +222,7 @@
 (^|\.)heroacademia2\.com$
 (^|\.)herokussl\.com$
 (^|\.)heyzap\.com$
-(^|\.)hitbox\.com$
-(^|\.)hittail\.com$
+(^|\.)hit((box)|(tail))\.com$
 (^|\.)hotjar\.com$
 (^|\.)hoverr\.media$
 (^|\.)hs(collected)?forms\.net$
@@ -530,4 +528,5 @@
 (^|\.)oascentral[-_\.]
 (^|\.)...police\.((com)|(net))$
 (^|\.)xn--[a-z0-9]*
+(^|\.)onion[-_\.]
 ##EOF
