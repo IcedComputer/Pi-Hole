@@ -485,8 +485,7 @@
 (^|\.)viralapps\.((club)|(org))$
 (^|\.)visuual\.net$
 (^|\.)vizury\.com$
-(^|\.)voluum\.bid$
-(^|\.)voluumtrk[0-9]*\.com$
+(^|\.)voluum(trk)?[0-9]*\.((bid)|(com))$
 (^|\.)vosteran\.com$
 (^|\.)watchaot2\.com$
 (^|\.)wct\.click$
