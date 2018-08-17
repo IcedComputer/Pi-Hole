@@ -1,0 +1,11 @@
+raw.githubusercontent.com
+gist.githubusercontent.com
+sysctl.org
+icedcomputer.github.io
+mail.google.com
+accounts.google.com
+upload.wikimedia.org
+ichnaea.netflix.com
+i.imgur.com
+127.0.0.1
+youtu.be
