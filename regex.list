@@ -3,7 +3,7 @@
 #########
 (^|\.)((boom)|(dynamo)|(edu))|(ket)|(max)|(moat)|(pop)|(snap)|(te))ads?\.[-_\.]
 (^|\.)((in)|(kr)|(ks))mobi(le)?\.((com)|(net))$
-(^|\.)((moat)|(traking))?pixel\.
+(^|\.)((moat)|(traking))?pixel[-_\.]
 (^|\.)((pay)|(quant))?count(ers?)?[0-9]*[-_\.]
 (^|\.)((pub)|(pcm))?clks\.com$
 (^|\.)(mobile)?apptrack(ing)?[-_\.]
@@ -27,7 +27,7 @@
 (^|\.)9appsinstall\.com$
 (^|\.)[0-9]*\.ecom\.attccc\.com$
 (^|\.)[0-9]*s?analytics?[-_\.]
-(^|\.)[a-z]*adserver\.com$
+(^|\.)[a-z]*[-_\.]?adserver[-_\.]
 (^|\.)[a-z]*advert(s|is(ing|ements?))?[0-9]*[-_\.]
 (^|\.)[a-z]*cannabis[a-z]*[-_\.]
 (^|\.)[a-z]*track(er|ing)?[0-9]*[-_\.]
@@ -81,14 +81,7 @@
 (^|\.)ampproject\.net$
 (^|\.)angsrvr\.com$
 (^|\.)animeteatr\.ru$
-(^|\.)appbrain\.com$
-(^|\.)applovin\.com$
-(^|\.)apprevolve\.com$
-(^|\.)appsee\.com$
-(^|\.)appsflyer\.com$
-(^|\.)appspot\.com$
-(^|\.)apptentive\.com$
-(^|\.)apptimize\.com$
+(^|\.)apps?((brain)|(lovin)|(pot)|(flyer)|(ee)|(resolve)|(tentive)|(timize))\.com$
 (^|\.)asalemedia\.com$
 (^|\.)askatopsuvsok\.live$
 (^|\.)ati-host\.net$
@@ -153,7 +146,7 @@
 (^|\.)comumx\.site$
 (^|\.)connect\.facebook\.
 (^|\.)consensu\.org
-(^|\.)content\.ad$$
+(^|\.)content\.ad$
 (^|\.)convertro\.com$
 (^|\.)convio\.net$
 (^|\.)corrosif\.science$
@@ -196,7 +189,6 @@
 (^|\.)epiphanyai\.com$
 (^|\.)ersatzteilecenter\.de$
 (^|\.)esomniture\.com$
-(^|\.)esomniture\.com$
 (^|\.)etfyguytdr\.com$
 (^|\.)everesttech\.net$
 (^|\.)exacttarget\.com$
@@ -208,8 +200,7 @@
 (^|\.)flurry\.com$
 (^|\.)focalink\.com$
 (^|\.)footprintdns\.com$
-(^|\.)force\.com$
-(^|\.)foresee\.com$
+(^|\.)for((ce)|(see))\.com$
 (^|\.)free-counter\.co\.uk$
 (^|\.)freshmarketer\.com$
 (^|\.)friendlyduck\.com$
@@ -223,7 +214,7 @@
 (^|\.)geovisite\.com
 (^|\.)getchrome\.com$
 (^|\.)getjaco\.com$
-(^|\.)getpromo2017\.info$
+(^|\.)getpromo2[0-9][0-9][0-9]\.info$
 (^|\.)getsitecontrol\.com$
 (^|\.)gettally\.com$
 (^|\.)gigya\.com$
@@ -238,7 +229,6 @@
 (^|\.)herokussl\.com$
 (^|\.)heyzap\.com$
 (^|\.)hit((box)|(tail))\.com$
-(^|\.)hittail\.com$
 (^|\.)hotjar\.com$
 (^|\.)hoverr\.media$
 (^|\.)hs(collected)?forms\.net$
@@ -253,8 +243,7 @@
 (^|\.)innovid\.com$
 (^|\.)inspectlet\.com$
 (^|\.)intellitxt\.com$
-(^|\.)intercom\.io$
-(^|\.)intercomassets\.com$
+(^|\.)intercom(assets)?\.((io)|(com))$
 (^|\.)interwetten\.com$
 (^|\.)intro\.de$
 (^|\.)invocacdn\.com$
@@ -310,7 +299,6 @@
 (^|\.)mee?trics\.net$
 (^|\.)midasplayer\.com
 (^|\.)mitlukashermann\.com$
-(^|\.)mitlukashermann\.com$
 (^|\.)mktoresp\.com$
 (^|\.)mnet-ad\.net$
 (^|\.)moatads\.com$
@@ -327,8 +315,7 @@
 (^|\.)mouseflow\.com$
 (^|\.)mpression\.net$
 (^|\.)mydas\.mobi$
-(^|\.)nativendo\.com$
-(^|\.)nativendo\.de$
+(^|\.)nativendo\.((com)|(de))$
 (^|\.)new-free-offer\.in$
 (^|\.)nextage\.com$
 (^|\.)nikopik\.com$
@@ -427,10 +414,8 @@
 (^|\.)specificclick\.net$
 (^|\.)specificmedia\.com$
 (^|\.)sponsorpay\.com$
-(^|\.)spot\.im$
-(^|\.)spotad\.com?$
-(^|\.)springer\.com$
-(^|\.)springserve\.com$
+(^|\.)spot(ad)?\.((im)|(com))$
+(^|\.)spring((er)|(serve))\.com$
 (^|\.)spylog\.com$
 (^|\.)stake7\.com$
 (^|\.)stargames\.com$
@@ -472,7 +457,6 @@
 (^|\.)topt\.ruckssite\.com$
 (^|\.)touchcommerce\.com$
 (^|\.)tradedoubler.com$
-(^|\.)tradedoubler\.com
 (^|\.)traff(ic)?[-_\.]
 (^|\.)trafficfactory\.biz$
 (^|\.)trafficjunky\.((net)|(com))$
@@ -519,8 +503,7 @@
 (^|\.)xn--kostme-6ya\.com$
 (^|\.)xpanama\.net$
 (^|\.)yandex\.((com)|(ru))$
-(^|\.)yieldmo\.com$
-(^|\.)yieldoptimizer\.com$
+(^|\.)yield((mo)|(optimizer))\.com$
 (^|\.)yimg\.com$
 (^|\.)yotpo\.com$
 (^|\.)yumenetworks\.com$
