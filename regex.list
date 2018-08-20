@@ -130,7 +130,7 @@
 (^|\.)cjt1\.net$
 (^|\.)ckk-45\.net$
 (^|\.)clearbit\.com$
-(^|\.)clicks?((iocdn)|(gear)|(tale)|(winks))?[-_\.]
+(^|\.)clicks?((iocdn)|(gear)|(tale)|(winks)|(tream))?[-_\.]
 (^|\.)clientmetrics?[-_\.]
 (^|\.)clients\.your$
 (^|\.)clksite\.com$
@@ -401,7 +401,7 @@
 (^|\.)silverpush\.com?$
 (^|\.)sind\.da$
 (^|\.)site(meter|count)\.com$
-(^|\.)siteintercept\.
+(^|\.)siteintercept[-_\.]
 (^|\.)skimresources\.com$
 (^|\.)sleeknote\.com$
 (^|\.)smaato\.net$
@@ -453,14 +453,11 @@
 (^|\.)tipico\.((be)|(com)|(de))$
 (^|\.)tmsapi\.com$
 (^|\.)topsuvspro\.com$
-(^|\.)topt\.ruck-autos\.rocks$
-(^|\.)topt\.ruckssite\.com$
+(^|\.)topt\.rucks?((-autos)|(site))\.((rocks)|(com))$
 (^|\.)touchcommerce\.com$
 (^|\.)tradedoubler.com$
 (^|\.)traff(ic)?[-_\.]
-(^|\.)trafficfactory\.biz$
-(^|\.)trafficjunky\.((net)|(com))$
-(^|\.)trafficstars\.com$
+(^|\.)traffic((junky)|(stars)|(factory))\.((net)|(com)|(biz))$
 (^|\.)triplebyte\.com$
 (^|\.)tsyndicate\.com$
 (^|\.)turn\.com$
@@ -499,7 +496,7 @@
 (^|\.)xg4ken\.com$
 (^|\.)xiti\.com$
 (^|\.)xn--[a-z0-9]*
-(^|\.)xn--kostme-6ya\.com$
+(^|\.)xn--[a-z0-9]*[-_\.]
 (^|\.)xpanama\.net$
 (^|\.)yandex\.((com)|(ru))$
 (^|\.)yield((mo)|(optimizer))\.com$
