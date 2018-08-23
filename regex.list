@@ -27,6 +27,7 @@
 (^|\.)9appsinstall\.com$
 (^|\.)[0-9]*\.ecom\.attccc\.com$
 (^|\.)[0-9]*s?analytics?[-_\.]
+(^|\.)[a-z0-9]*keygen(erator)?[-_\.]
 (^|\.)[a-z]*[-_\.]?adserver[-_\.]
 (^|\.)[a-z]*advert(s|is(ing|ements?))?[0-9]*[-_\.]
 (^|\.)[a-z]*cannabis[a-z]*[-_\.]
@@ -195,7 +196,9 @@
 (^|\.)exosrv\.com$
 (^|\.)ezcybersearch\.com$
 (^|\.)fastclick\.net$
+(^|\.)fin((spy)|(fisher))[-_\.]
 (^|\.)firebaseio\.com$
+(^|\.)flexispy[-_\.]
 (^|\.)flirtcafe\.de$
 (^|\.)flurry\.com$
 (^|\.)focalink\.com$
@@ -380,6 +383,7 @@
 (^|\.)research\.de$
 (^|\.)resultsmedia\.com$
 (^|\.)retargetly\.com$
+(^|\.)retina-?x[-_\.]
 (^|\.)returnpath\.net$
 (^|\.)rlcontrol\.de$
 (^|\.)royalvegascasino\.com$
@@ -416,7 +420,10 @@
 (^|\.)sponsorpay\.com$
 (^|\.)spot(ad)?\.((im)|(com))$
 (^|\.)spring((er)|(serve))\.com$
+(^|\.)spy(f|p)h?one[-_\.]
+(^|\.)spyhuman[-_\.]
 (^|\.)spylog\.com$
+(^|\.)spymasterpro[-_\.]
 (^|\.)stake7\.com$
 (^|\.)stargames\.com$
 (^|\.)startapp(exchange|network|service)\.com
@@ -452,6 +459,7 @@
 (^|\.)tipbet\.com$
 (^|\.)tipico\.((be)|(com)|(de))$
 (^|\.)tmsapi\.com$
+(^|\.)to70.org$
 (^|\.)topsuvspro\.com$
 (^|\.)topt\.rucks?((-autos)|(site))\.((rocks)|(com))$
 (^|\.)touchcommerce\.com$
@@ -509,4 +517,3 @@
 (^|\.)zeroredirect1\.com$
 (^|\.)zopim\.com$
 ^www-?[a-z]+\.com$
-(^|\.)[a-z0-9]*keygen(erator)?[-_\.]
