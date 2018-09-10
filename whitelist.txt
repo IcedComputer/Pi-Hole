@@ -12,10 +12,13 @@ google.com
 hosts-file.net
 hostsfile.org
 i.imgur.com
+i.vimeocdn.com
 icedcomputer.github.io
 ichnaea.netflix.com
 isc.sans.edu
 lists.malwarepatrol.net
+login.live.com
+mail-attachment.googleusercontent.com
 mail.google.com
 mirror.cedia.org.ec
 mirror1.malwaredomains.com
@@ -27,6 +30,7 @@ s3.amazonaws.com
 sysctl.org
 upload.wikimedia.org
 v.firebog.net
+www.bizjournals.com
 www.google.com
 www.malwaredomainlist.com
 youtu.be
