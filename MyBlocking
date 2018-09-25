@@ -1,5 +1,5 @@
-## MyBlocking
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
+## MyBlocking
 ## Updated 16 AUG 2018
 
 127.0.0.1 067.cz
@@ -440,6 +440,7 @@
 127.0.0.1 luckylending.com
 127.0.0.1 luna1.co
 127.0.0.1 lwf.cc.gslb.ic.ac.uk
+127.0.0.1 m-metrics.capitalone.com
 127.0.0.1 m2.nsimg.net
 127.0.0.1 mab.chartbeat.com
 127.0.0.1 macys.ugc.bazaarvoice.com
@@ -496,6 +497,7 @@
 127.0.0.1 narusnex.info
 127.0.0.1 native.sharethrough.com
 127.0.0.1 navigetionate.com 
+127.0.0.1 news-youm7.com 
 127.0.0.1 news.iadsdk.apple.com
 127.0.0.1 newsweek.tumblr.com
 127.0.0.1 nexage.com
@@ -525,6 +527,8 @@
 127.0.0.1 p5-dxqx4okgfbvos-jvrpldec23gxenbr-274425-i2-v6exp3-ds.metric.ipv6test.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pages.emailrestaurant.com
+127.0.0.1 pal2me.net
+127.0.0.1 pal4u.net
 127.0.0.1 panama2-scanagente-s1cxu3nc0bhm-1292925718.us-east-1.elb.amazonaws.com
 127.0.0.1 paydayloaneveryday.com
 127.0.0.1 pbdeals.com
@@ -598,6 +602,7 @@
 127.0.0.1 service.gracenote.com
 127.0.0.1 service.weather.microsoft.com
 127.0.0.1 settings-win.data.microsoft.com
+127.0.0.1 shop8d.net
 127.0.0.1 sidsidebottom.com
 127.0.0.1 sitebooster.com
 127.0.0.1 slashdot.com
@@ -735,6 +740,7 @@
 127.0.0.1 wildcard.peer39.com.edgekey.net
 127.0.0.1 win1710.ipv6.microsoft.com
 127.0.0.1 wingoads.com
+127.0.0.1 workingulf.net
 127.0.0.1 wqnym.adsb4all.com
 127.0.0.1 wradish.com
 127.0.0.1 ws.api.drift.com
@@ -890,9 +896,6 @@
 127.0.0.1 zahonynet.hu
 127.0.0.1 zenit.io
 127.0.0.1 zillow.zendesk.com
-127.0.0.1 pal4u.net
-127.0.0.1 pal2me.net
-127.0.0.1 shop8d.net
-127.0.0.1 workingulf.net
-127.0.0.1 news-youm7.com 
+
+
 
