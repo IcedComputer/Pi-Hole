@@ -1,4 +1,4 @@
-## Last Updated 16 AUG 208 ##
+## Last Updated 22 Oct 2018 ##
 ## Regex Blacklist ##
 #########
 (^|\.)((boom)|(dynamo)|(edu))|(ket)|(max)|(moat)|(pop)|(snap)|(te))ads?\.[-_\.]
@@ -131,6 +131,7 @@
 (^|\.)cjt1\.net$
 (^|\.)ckk-45\.net$
 (^|\.)clearbit\.com$
+(^|\.)clevertap\.com$
 (^|\.)clicks?((iocdn)|(gear)|(tale)|(winks)|(tream))?[-_\.]
 (^|\.)clientmetrics?[-_\.]
 (^|\.)clients\.your$
