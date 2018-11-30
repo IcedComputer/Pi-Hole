@@ -519,4 +519,5 @@
 (^|\.)zopim\.com$
 (^|\.)hipstarclub\.com$
 (^|\.)luckstarclub\.com$
+(^|\.)smartasset.com$
 ^www-?[a-z]+\.com$
