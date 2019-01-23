@@ -929,4 +929,8 @@
 127.0.0.1 cnd.cookielaw.com
 127.0.0.1 geolocation.onetrust.com
 127.0.0.1 ot-geolocation-prod.trafficmanager.net
+127.0.0.1 collector-pxhyx10rg3.perimeterx.net
+127.0.0.1 phillateemis.iad-03.braze.com
+127.0.0.1 firebasedynamiclinks-ipv4.googleapis.com
+127.0.0.1 firebasedynamiclinks-ipv6.googleapis.com
 
