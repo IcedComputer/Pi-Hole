@@ -933,4 +933,7 @@
 127.0.0.1 phillateemis.iad-03.braze.com
 127.0.0.1 firebasedynamiclinks-ipv4.googleapis.com
 127.0.0.1 firebasedynamiclinks-ipv6.googleapis.com
-
+127.0.0.1 device-metrics-us.amazon.com
+127.0.0.1 device-metrics-us-2.amazon.com
+127.0.0.1 load.sjc1.exelator.com
+127.0.0.1 rules.quantcount.com
