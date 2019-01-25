@@ -527,3 +527,10 @@
 (^|\.)ibm.xtify.com$
 (^|\.)online-metrix.net$
 (^|\.)livepersonk.akadns.net$
+(^|\.)exelator.com$
+(^|\.)getsidecar.com$
+(^|\.)mobileanalytics[-_\.]
+(^|\.)quantcount.com$
+-analytics?[-_\.]
+(^|\.)mobileanalytics[-_\.]
+(^|\.)site-analytics[-_\.]
