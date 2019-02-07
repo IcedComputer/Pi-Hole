@@ -534,3 +534,4 @@
 -analytics?[-_\.]
 (^|\.)mobileanalytics[-_\.]
 (^|\.)deltadna.com$
+(^|\.)sia.mttnow.com$
