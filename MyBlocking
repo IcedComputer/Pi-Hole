@@ -1,6 +1,6 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 16 AUG 2018
+## Updated 24 Feb 2019
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -939,4 +939,6 @@
 127.0.0.1 oda.markitondemand.com
 127.0.0.1 apple.comscoreresearch.com
 127.0.0.1 use.fontawesome.com
-
+127.0.0.1 digprjsurvey.amazon.com
+127.0.0.1 geoip.alm.com
+127.0.0.1 js-api.bytegain.com

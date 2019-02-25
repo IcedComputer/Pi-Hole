@@ -1,6 +1,7 @@
 #ForeignHost
 # A list of likely valid domains (non-ad / non-malicious)
 # I just do not want them on my network(s)
+# Updated 24 Feb 2019
 
 127.0.0.1 abc13.com
 127.0.0.1 ac.opentable.com
@@ -286,3 +287,4 @@
 127.0.0.1 za.linkedin.com
 127.0.0.1 zh.m.yelp.com.hk
 127.0.0.1 zh.yelp.com.hk
+127.0.0.1 af-music-prod.betc.fr

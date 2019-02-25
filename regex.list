@@ -1,7 +1,7 @@
-## Last Updated 22 Oct 2018 ##
+## Last Updated 24 Feb 2019 ##
 ## Regex Blacklist ##
 #########
-(^|\.)((boom)|(dynamo)|(edu))|(ket)|(max)|(moat)|(pop)|(snap)|(te))ads?\.[-_\.]
+(^|\.)((boom)|(dynamo))|(ket)|(max)|(moat)|(pop)|(snap)|(te))ads?\.[-_\.]
 (^|\.)((in)|(kr)|(ks))mobi(le)?\.((com)|(net))$
 (^|\.)((moat)|(traking))?pixel[-_\.]
 (^|\.)((pay)|(quant))?count(ers?)?[0-9]*[-_\.]
@@ -31,7 +31,7 @@
 (^|\.)[a-z]*[-_\.]?adserver[-_\.]
 (^|\.)[a-z]*advert(s|is(ing|ements?))?[0-9]*[-_\.]
 (^|\.)[a-z]*cannabis[a-z]*[-_\.]
-(^|\.)[a-z]*track(er|ing)?[0-9]*[-_\.]
+(^|\.)[a-z]*-?track(er|ing)?[0-9]*[-_\.]
 (^|\.)aakit\.com$
 (^|\.)acrcloud\.com$
 (^|\.)ad(x|v)?[0-9]*[-_\.]
@@ -537,3 +537,7 @@
 (^|\.)glassboxcdn.com$
 (^|\.)glassboxcloud.com$
 (^|\.)distiltag.com$
+(^|\.)chinaunicom[-_\.]
+(^|\.)locators\.
+(^|\.)inner-active\.mobi[-_\.]
+(^|\.)-?geoycpi-uno[-_\.]
