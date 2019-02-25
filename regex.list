@@ -540,4 +540,4 @@
 (^|\.)chinaunicom[-_\.]
 (^|\.)locators\.
 (^|\.)inner-active\.mobi[-_\.]
-(^|\.)-?geoycpi-uno[-_\.]
+(^|\.|-)geoycpi-uno[-_\.]
