@@ -1,6 +1,6 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 24 Feb 2019
+## Updated 25 May 2019
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -997,3 +997,11 @@
 127.0.0.1 instabooter.com
 127.0.0.1 polystress.com
 127.0.0.1 zstress.net
+127.0.0.1 m-metrics-prod-waf-metrictoggle.aws-stsd.capitalonegslbex.com
+127.0.0.1 marketing-image-production.s3.amazonaws.com
+127.0.0.1 tagan.adlightning.com
+127.0.0.1 amzn.asia
+127.0.0.1 amz.onl
+
+
+
