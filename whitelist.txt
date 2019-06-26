@@ -3,6 +3,7 @@
 accounts.google.com
 adaway.org
 ads-e-darwin.hulustream.com
+angel.co
 api-global.netflix.com
 appleid.apple.com
 attestation.xboxlive.com
@@ -20,7 +21,9 @@ dl.delivery.mp.microsoft.com
 dl.ubnt.com
 docs.google.com
 drive.google.com
+dropbox.com
 eds.xboxlive.com
+encrypted-tbn0.gstatic.com
 g.live.com
 gist.githubusercontent.com
 github
@@ -43,6 +46,7 @@ mail-attachment.googleusercontent.com
 mail.google.com
 mirror.cedia.org.ec
 mirror1.malwaredomains.com
+mirrors.cat.pdx.edu
 notify.xboxlive.com
 npr-news.streaming.adswizz.com
 officeclient.microsoft.com
@@ -66,9 +70,12 @@ tsfe.trafficshaping.dsp.mp.microsoft.com
 upload.wikimedia.org
 v.firebog.net
 www.bizjournals.com
+www.dropbox.com
+www.ecdinterface.philips.com
 www.google.com
 www.instagram.com
 www.malwaredomainlist.com
+www.malwarepatrol.net
 www.msftncsi.com
 www.netflix.com
 www.pornhub.com
