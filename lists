@@ -80,3 +80,15 @@ https://v.firebog.net/hosts/Prigent-Phishing.txt
 https://v.firebog.net/hosts/static/SamsungSmart.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+## new tests
+https://www.squidblacklist.org/downloads/dg-malicious.acl
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
+https://v.firebog.net/hosts/Shalla-mal.txt
+https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://v.firebog.net/hosts/static/w3kbl.txt
+https://www.squidblacklist.org/downloads/dg-ads.acl
