@@ -89,3 +89,7 @@ xsts.auth.xboxlive.com
 xtube.com
 youtu.be
 zeustracker.abuse.ch
+earthquaketrack.com
+flightaware.com
+marinetraffic.com
+myshiptracking.com
