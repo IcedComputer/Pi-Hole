@@ -60,7 +60,7 @@
 (^|\.)adsafeprotected\.com$
 (^|\.)adse?rv(e(rs?)?|ices?)?[0-9]*[-_\.]
 (^|\.)adsp\.ruce\.com$
-(^|\.)adswizz.com$
+(^|\.)adswizz\.com$
 (^|\.)adtech((us)|(jp))?[-_\.]
 (^|\.)adups\.((com)|(net))$
 (^|\.)adventurefeeds\.com$
@@ -178,14 +178,14 @@
 (^|\.)dev-ads-soft-web\.top$
 (^|\.)digitalmarketing\.
 (^|\.)diomedis\.online$
-(^|\.)distiltag.com$
+(^|\.)distiltag\.com$
 (^|\.)dmndtrk\.com$
 (^|\.)double((pimp)|(verify))\.com$
 (^|\.)doubleclick(bygoogle)?\.
 (^|\.)dsipsw\.net$
 (^|\.)duapps\.com$
 (^|\.)dynamicyield\.com
-(^|\.)dynatrace-managed.com$
+(^|\.)dynatrace-managed\.com$
 (^|\.)dynatrace\.com
 (^|\.)easylist\.club$
 (^|\.)edelight\.biz$
@@ -201,7 +201,7 @@
 (^|\.)etfyguytdr\.com$
 (^|\.)everesttech\.net$
 (^|\.)exacttarget\.com$
-(^|\.)exelator.com$
+(^|\.)exelator\.com$
 (^|\.)exosrv\.com$
 (^|\.)ezcybersearch\.com$
 (^|\.)fastclick\.net$
@@ -231,8 +231,8 @@
 (^|\.)getsitecontrol\.com$
 (^|\.)gettally\.com$
 (^|\.)gigya\.com$
-(^|\.)gimbal.com$
-(^|\.)glassbox(cdn|cloud)?.com$
+(^|\.)gimbal\.com$
+(^|\.)glassbox(cdn|cloud)?\.com$
 (^|\.)go2affise\.com$
 (^|\.)go2cloud\.org$
 (^|\.)gpsonextra\.net$
@@ -251,7 +251,7 @@
 (^|\.)hs-scripts\.com$
 (^|\.)hsleadflows\.net$
 (^|\.)hypestat\.com$
-(^|\.)ibm.xtify.com$
+(^|\.)ibm\.xtify\.com$
 (^|\.)impressionmonster\.com$
 (^|\.)imprev\.net
 (^|\.)imrworldwide\.com
@@ -261,7 +261,7 @@
 (^|\.)inspectlet\.com$
 (^|\.)intellitxt\.com$
 (^|\.)intercom(assets)?\.((io)|(com))$
-(^|\.)internetbrands.com$
+(^|\.)internetbrands\.com$
 (^|\.)interwetten\.com$
 (^|\.)intro\.de$
 (^|\.)invocacdn\.com$
@@ -479,11 +479,11 @@
 (^|\.)tipbet\.com$
 (^|\.)tipico\.((be)|(com)|(de))$
 (^|\.)tmsapi\.com$
-(^|\.)to70.org$
+(^|\.)to70\.org$
 (^|\.)topsuvspro\.com$
 (^|\.)topt\.rucks?((-autos)|(site))\.((rocks)|(com))$
 (^|\.)touchcommerce\.com$
-(^|\.)tradedoubler.com$
+(^|\.)tradedoubler\.com$
 (^|\.)traff(ic)?[-_\.]
 (^|\.)traffic((junky)|(stars)|(factory))\.((net)|(com)|(biz))$
 (^|\.)triplebyte\.com$
@@ -546,5 +546,31 @@
 ^www-?[a-z]+\.com$
 
 ### New trial items
-(^|\.)xpressunblock.com$
+(^|\.) litix\.io$
+(^|\.)2mdn\.net$
+(^|\.)adrise\.tv$
+(^|\.)adsrvr\.org$
+(^|\.)aragoncreek\.com$
+(^|\.)bfmio\.com$
+(^|\.)bidswitch\.net$
+(^|\.)conviva\.com$
+(^|\.)demdex\.net$
+(^|\.)digitru\.st$
+(^|\.)ewscloud\.com$
+(^|\.)ifood\.tv$
+(^|\.)imrworldwide\.com$
+(^|\.)innovid\.com$
+(^|\.)irchan\.com$
+(^|\.)junctiontv\.net$
+(^|\.)kargo\.com$
+(^|\.)lightcast\.com$
+(^|\.)mtvnservices\.com$
+(^|\.)myspotlight\.tv$
+(^|\.)omtrdc\.net$
+(^|\.)sharethrough\.com$
+(^|\.)titantv\.com$
+(^|\.)tremorhub\.com$
+(^|\.)wsi\.com$
+(^|\.)xpressunblock\.com$
+(^|\.)youboranqs01\.com$
 (^|\.|-)dns-leaks[-_\.]
