@@ -91,7 +91,7 @@ https://www.squidblacklist.org/downloads/dg-ads.acl
 https://www.squidblacklist.org/downloads/dg-malicious.acl
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 ## new tests
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.risk/list.txt 
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.risk/list.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-tracking/list.txt
