@@ -1,6 +1,6 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 09 Oct 2019
+## Updated 15 Oct 2019
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -1009,4 +1009,5 @@
 127.0.0.1 zillow.zendesk.com
 127.0.0.1 zstress.net
 127.0.0.1 zxcvvcxv.com
+127.0.0.1 xv-dns-leaks-debian-production-1236358895.us-east-1.elb.amazonaws.com
 
