@@ -1012,3 +1012,5 @@
 127.0.0.1 xv-dns-leaks-debian-production-1236358895.us-east-1.elb.amazonaws.com
 127.0.0.1 d3a510xmpll7o6.cloudfront.net
 127.0.0.1 cdn01.net
+127.0.0.1 dlt-beacon.dynatrace-managed.com
+127.0.0.1 d3p8zr0ffa9t17.cloudfront.net
