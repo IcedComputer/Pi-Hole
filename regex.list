@@ -546,7 +546,7 @@
 ^www-?[a-z]+\.com$
 
 ### New trial items
-(^|\.) litix\.io$
+(^|\.)litix\.io$
 (^|\.)2mdn\.net$
 (^|\.)adrise\.tv$
 (^|\.)adsrvr\.org$

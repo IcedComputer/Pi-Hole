@@ -1,6 +1,6 @@
 ## PiHole Blacklist of Domains ##
 ## Does not include many TLD ##
-## Last Updated 26 July 2018 ##
+## Last Updated 15 Oct 2019 ##
 
 address=/10bet.com/8.8.8.8
 address=/22web.org/8.8.8.8
@@ -503,3 +503,12 @@ address=/zedo.com/8.8.8.8
 address=/zenmxapps.com/8.8.8.8
 address=/zentrick.com/8.8.8.8
 address=/zopim.com/8.8.8.8
+address=/giraffic.com/8.8.8.8
+address=/pavv.co.kr/8.8.8.8
+address=/internetat.tv/8.8.8.8
+address=/samsungotn.net/8.8.8.8
+address=/samsungrm.net/8.8.8.8
+address=/demdex.net/8.8.8.8
+address=/bidswitch.net/8.8.8.8
+address=/xpressunblock.com/8.8.8.8
+address=/youboranqs01.com/8.8.8.8
