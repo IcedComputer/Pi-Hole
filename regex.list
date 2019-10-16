@@ -578,4 +578,5 @@
 (^|\.)xpressunblock\.com$
 (^|\.)youboranqs01\.com$
 (^|\.|-)dns-leaks[-_\.]
-(^|\.)(0+)?apple(s)?(0+)?\.com$
+(^|\.)(0+)?apple(s)?0+\.com$
+(^|\.)0+apple(s)?(0+)?\.com$
