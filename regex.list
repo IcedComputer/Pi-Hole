@@ -546,7 +546,6 @@
 ^www-?[a-z]+\.com$
 
 ### New trial items
-(^|\.)litix\.io$
 (^|\.)2mdn\.net$
 (^|\.)adrise\.tv$
 (^|\.)adsrvr\.org$
@@ -557,16 +556,21 @@
 (^|\.)demdex\.net$
 (^|\.)digitru\.st$
 (^|\.)ewscloud\.com$
+(^|\.)giraffic\.com$
 (^|\.)ifood\.tv$
 (^|\.)imrworldwide\.com$
 (^|\.)innovid\.com$
+(^|\.)internetat\.tv$
 (^|\.)irchan\.com$
 (^|\.)junctiontv\.net$
 (^|\.)kargo\.com$
 (^|\.)lightcast\.com$
+(^|\.)litix\.io$
 (^|\.)mtvnservices\.com$
 (^|\.)myspotlight\.tv$
 (^|\.)omtrdc\.net$
+(^|\.)pavv\.co\.kr$
+(^|\.)samsung(otn|grm)\.net$
 (^|\.)sharethrough\.com$
 (^|\.)titantv\.com$
 (^|\.)tremorhub\.com$
@@ -574,3 +578,4 @@
 (^|\.)xpressunblock\.com$
 (^|\.)youboranqs01\.com$
 (^|\.|-)dns-leaks[-_\.]
+(^|\.)(0+)?apple(s)?(0+)?\.com$
