@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## Updated 15 Oct 2019
+
 #Vars
 
 TEMPDIR=/scripts/temp
@@ -21,6 +23,9 @@ function download()
 	wget -O $TEMPDIR/regex.oTLD 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/oTLD_regex'
 	wait
 	wget -O $TEMPDIR/regex.uslocal 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/uslocal'
+	wait
+	#download an updated update.sh, but keep in temp
+	wget -O $TEMPDIR/updates.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/updates.sh'
 }
 
 function modify()
@@ -38,6 +43,7 @@ function move()
 	mv $TEMPDIR/adlists.list $PIDIR/adlists.list
 	#Wildcards (03-pihole-wildcard.conf)
 	mv $TEMPDIR/regex.list  $PIDIR/regex.list
+
 
 }
 
