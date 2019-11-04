@@ -1,6 +1,6 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 16 Oct 2019
+## Updated 03 Nov 2019
 #
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -1015,3 +1015,8 @@
 127.0.0.1 zillow.zendesk.com
 127.0.0.1 zstress.net
 127.0.0.1 zxcvvcxv.com
+
+### New trial items
+127.0.0.1 s.salecycle.com
+127.0.0.1 www.immigrationdirect.com
+127.0.0.1 uscis.com 

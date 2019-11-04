@@ -1,4 +1,4 @@
-## Last Updated 16 Oct 2019 ##
+## Last Updated 03 Nov 2019 ##
 ## Regex Blacklist ##
 #########
 (^|\.)((boom)|(dynamo)|(ket)|(max)|(moat)|(pop)|(snap)|(te))ads?[-_\.]
@@ -576,3 +576,7 @@
 (^|\.|-)dns-leaks[-_\.]
 ^(www\.)?itunes-[:alnum:]*\.
 ^www-?[:alpha:]+\.com$
+
+### New trial items 2
+(^|\.)salecycle\.com$
+(^|\.)yieldify\.com$
