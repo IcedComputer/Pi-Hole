@@ -1,6 +1,6 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 03 Nov 2019
+## Updated 30 Nov 2019
 #
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -672,6 +672,7 @@
 127.0.0.1 rtbp-pixel.us.metanetwork.net
 127.0.0.1 rules2.aatkit.com
 127.0.0.1 s-adobeanalytics.vice.com
+127.0.0.1 s.salecycle.com
 127.0.0.1 s.w-x.co
 127.0.0.1 s3-1.amazonaws.com
 127.0.0.1 s4.pornolub.xyz
@@ -817,6 +818,7 @@
 127.0.0.1 us3.admin.mailchimp.com
 127.0.0.1 us7.admin.mailchimp.com
 127.0.0.1 usa.cloud.netacuity.com
+127.0.0.1 uscis.com 
 127.0.0.1 use.fontawesome.com
 127.0.0.1 use.typekit.net
 127.0.0.1 usermatch.krxd.net
@@ -929,6 +931,7 @@
 127.0.0.1 www.iicdn.com
 127.0.0.1 www.imageliners.com
 127.0.0.1 www.imageliners.com
+127.0.0.1 www.immigrationdirect.com
 127.0.0.1 www.kargo.com
 127.0.0.1 www.kidsafeseal.com
 127.0.0.1 www.kiip.me
@@ -1016,7 +1019,7 @@
 127.0.0.1 zstress.net
 127.0.0.1 zxcvvcxv.com
 
-### New trial items
-127.0.0.1 s.salecycle.com
-127.0.0.1 www.immigrationdirect.com
-127.0.0.1 uscis.com 
+##New Trial Items
+127.0.0.1 Rsload.net
+127.0.0.1 U.teknik.io
+127.0.0.1 Cowner.net
