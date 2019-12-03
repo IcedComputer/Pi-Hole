@@ -294,6 +294,7 @@
 127.0.0.1 device-messaging-na.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 device-metrics-us.amazon.com
+127.0.0.1 device-metrics-us2.amazon.com
 127.0.0.1 deviceinfo.capitalone.com
 127.0.0.1 devices.carnivalmobile.com
 127.0.0.1 digprjsurvey.amazon.com

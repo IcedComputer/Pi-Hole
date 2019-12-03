@@ -110,7 +110,7 @@
 (^|\.)bonniercorp\.com$
 (^|\.)branch\.io$
 (^|\.)bravenet\.com?$
-(^|\.)braze.com$
+(^|\.)braze\.((com)|(eu))$
 (^|\.)bricknet\.com$
 (^|\.)broad-90\.xyz$
 (^|\.)bwin\.com$
