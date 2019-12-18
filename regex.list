@@ -1,4 +1,4 @@
-## Last Updated 15 Oct 2019 ##
+## Last Updated 02 Dec 2019 ##
 ## Regex Blacklist ##
 #########
 (^|\.)((boom)|(dynamo)|(ket)|(max)|(moat)|(pop)|(snap)|(te))ads?[-_\.]
@@ -39,8 +39,7 @@
 (^|\.)adclickservice\.com$
 (^|\.)adcolony\.com$
 (^|\.)addressinggifts\.in$
-(^|\.)adfonic\.net$
-(^|\.)adform\.net$
+(^|\.)adfo((nic)|(rm))\.net$
 (^|\.)adfront\.org$
 (^|\.)adiquity\.com$
 (^|\.)adition\.com$
@@ -49,9 +48,7 @@
 (^|\.)adkmob\.com$
 (^|\.)adluxe\.ru$
 (^|\.)adnxs\.com$
-(^|\.)adocean\.pl
-(^|\.)adohana\.com$
-(^|\.)adotmob\.com$
+(^|\.)ado((cean)|(hana)|(tmob))\.((pl)|(com))$
 (^|\.)adrise\.tv$
 (^|\.)adroll\.com$
 (^|\.)adrunnr\.com$
@@ -113,7 +110,7 @@
 (^|\.)bonniercorp\.com$
 (^|\.)branch\.io$
 (^|\.)bravenet\.com?$
-(^|\.)braze.com$
+(^|\.)braze\.((com)|(eu))$
 (^|\.)bricknet\.com$
 (^|\.)broad-90\.xyz$
 (^|\.)bwin\.com$
@@ -147,7 +144,7 @@
 (^|\.)cointraffic\.io$
 (^|\.)com-iii\.org$
 (^|\.)com-o\.xyz$
-(^|\.)comscoreresearch.com$
+(^|\.)comscoreresearch\.com$
 (^|\.)comumx\.site$
 (^|\.)connect\.facebook\.
 (^|\.)consensu\.org
@@ -224,12 +221,9 @@
 (^|\.)gemius\.pl$
 (^|\.)geomob+ad24\.com$
 (^|\.)geovisite\.com
-(^|\.)getchrome\.com$
-(^|\.)getjaco\.com$
+(^|\.)get((chrome)|(jaco)|(tally))\.com$
 (^|\.)getpromo2[0-9][0-9][0-9]\.info$
-(^|\.)getsidecar.com$
-(^|\.)getsitecontrol\.com$
-(^|\.)gettally\.com$
+(^|\.)getsi((decar)|(tecontrol).com$
 (^|\.)gigya\.com$
 (^|\.)gimbal\.com$
 (^|\.)glassbox(cdn|cloud)?\.com$
@@ -325,10 +319,8 @@
 (^|\.)moatads\.com$
 (^|\.)mobfox\.com$
 (^|\.)mobileanalytics[-_\.]
-(^|\.)mobileclickoffer\.com$
-(^|\.)mobileoffertype\.com$
-(^|\.)mobogenie\.com$
-(^|\.)mobopromo\.biz$
+(^|\.)mobile(click)?offer(type)?\.com$
+(^|\.)mobo((genie)|(promo)\.((com)|(biz))$
 (^|\.)moengage\.com$
 (^|\.)monetizer?\[-_\.]
 (^|\.)mookie1\.com$
@@ -543,9 +535,12 @@
 (^|\.|-)stat(s|istics)?[0-9]*[-_\.]
 (^|\.|-)stats?(counter|event)\.com$
 (^|\.|-)telemetry[-_\.]
-^www-?[a-z]+\.com$
+
 
 ### New trial items
+(^|\.)(0+)?apple(s)?0+\.com$
+(^|\.)0+apple(s)?(0+)?\.com$
+(^|\.)000webhostapp\.com$
 (^|\.)2mdn\.net$
 (^|\.)adrise\.tv$
 (^|\.)adsrvr\.org$
@@ -554,6 +549,7 @@
 (^|\.)bidswitch\.net$
 (^|\.)conviva\.com$
 (^|\.)demdex\.net$
+(^|\.)dfhdsfhhfdhdf5s6h5\.blogspot[-_\.]
 (^|\.)digitru\.st$
 (^|\.)ewscloud\.com$
 (^|\.)giraffic\.com$
@@ -578,5 +574,9 @@
 (^|\.)xpressunblock\.com$
 (^|\.)youboranqs01\.com$
 (^|\.|-)dns-leaks[-_\.]
-(^|\.)(0+)?apple(s)?0+\.com$
-(^|\.)0+apple(s)?(0+)?\.com$
+^(www\.)?itunes-[:alnum:]*\.
+^www-?[:alpha:]+\.com$
+
+### New trial items 2
+(^|\.)salecycle\.com$
+(^|\.)yieldify\.com$

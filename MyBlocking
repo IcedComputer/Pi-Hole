@@ -1,7 +1,7 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 15 Oct 2019
-
+## Updated 30 Nov 2019
+#
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
 127.0.0.1 0aqpqdju.me
@@ -129,6 +129,7 @@
 127.0.0.1 app.segmetrics.io
 127.0.0.1 apple.comscoreresearch.com
 127.0.0.1 apple.comscoreresearch.com
+127.0.0.1 apples.com
 127.0.0.1 apps.bazaarvoice.com
 127.0.0.1 appsamurai.wpengine.com
 127.0.0.1 appsamuraicomblog.disqus.com
@@ -214,6 +215,7 @@
 127.0.0.1 cdn.roiq-vice.ranker.com
 127.0.0.1 cdn.speedcurve.com
 127.0.0.1 cdn.trackjs.com
+127.0.0.1 cdn01.net
 127.0.0.1 cdn01.smartling.com
 127.0.0.1 cdn1.inner-active.mobi
 127.0.0.1 cdn2.inner-active.mobi
@@ -278,6 +280,8 @@
 127.0.0.1 cseo-secure-hardware-telem.servicebus.windows.net
 127.0.0.1 customer.api.drift.com
 127.0.0.1 d.reddit.com
+127.0.0.1 d3a510xmpll7o6.cloudfront.net
+127.0.0.1 d3p8zr0ffa9t17.cloudfront.net
 127.0.0.1 data.dianomi.com
 127.0.0.1 data.tmsapi.com
 127.0.0.1 databooter.com
@@ -290,6 +294,7 @@
 127.0.0.1 device-messaging-na.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 device-metrics-us.amazon.com
+127.0.0.1 device-metrics-us2.amazon.com
 127.0.0.1 deviceinfo.capitalone.com
 127.0.0.1 devices.carnivalmobile.com
 127.0.0.1 digprjsurvey.amazon.com
@@ -298,6 +303,7 @@
 127.0.0.1 directeducationcenter.com
 127.0.0.1 discovercard.ugc.bazaarvoice.com
 127.0.0.1 dl.phncdn.com
+127.0.0.1 dlt-beacon.dynatrace-managed.com
 127.0.0.1 doublepimpssl.com
 127.0.0.1 download.prizesbook.online
 127.0.0.1 downloads.mailchimp.com
@@ -667,6 +673,7 @@
 127.0.0.1 rtbp-pixel.us.metanetwork.net
 127.0.0.1 rules2.aatkit.com
 127.0.0.1 s-adobeanalytics.vice.com
+127.0.0.1 s.salecycle.com
 127.0.0.1 s.w-x.co
 127.0.0.1 s3-1.amazonaws.com
 127.0.0.1 s4.pornolub.xyz
@@ -812,6 +819,7 @@
 127.0.0.1 us3.admin.mailchimp.com
 127.0.0.1 us7.admin.mailchimp.com
 127.0.0.1 usa.cloud.netacuity.com
+127.0.0.1 uscis.com 
 127.0.0.1 use.fontawesome.com
 127.0.0.1 use.typekit.net
 127.0.0.1 usermatch.krxd.net
@@ -924,6 +932,7 @@
 127.0.0.1 www.iicdn.com
 127.0.0.1 www.imageliners.com
 127.0.0.1 www.imageliners.com
+127.0.0.1 www.immigrationdirect.com
 127.0.0.1 www.kargo.com
 127.0.0.1 www.kidsafeseal.com
 127.0.0.1 www.kiip.me
@@ -994,6 +1003,7 @@
 127.0.0.1 x.ss2.us
 127.0.0.1 xd.engagesciences.com
 127.0.0.1 xk4-a.tlnk.io
+127.0.0.1 xv-dns-leaks-debian-production-1236358895.us-east-1.elb.amazonaws.com
 127.0.0.1 y.analytics.yahoo.com
 127.0.0.1 yahoo.uservoice.com
 127.0.0.1 yahoofinanceamscryptosf.splashthat.com
@@ -1009,8 +1019,8 @@
 127.0.0.1 zillow.zendesk.com
 127.0.0.1 zstress.net
 127.0.0.1 zxcvvcxv.com
-127.0.0.1 xv-dns-leaks-debian-production-1236358895.us-east-1.elb.amazonaws.com
-127.0.0.1 d3a510xmpll7o6.cloudfront.net
-127.0.0.1 cdn01.net
-127.0.0.1 dlt-beacon.dynatrace-managed.com
-127.0.0.1 d3p8zr0ffa9t17.cloudfront.net
+
+##New Trial Items
+127.0.0.1 Rsload.net
+127.0.0.1 U.teknik.io
+127.0.0.1 Cowner.net

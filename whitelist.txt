@@ -98,3 +98,4 @@ xsts.auth.xboxlive.com
 xtube.com
 youtu.be
 zeustracker.abuse.ch
+cdn.jsdelivr.net
