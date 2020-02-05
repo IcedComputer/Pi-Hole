@@ -1,4 +1,4 @@
-## Last Updated 02 Dec 2019 ##
+## Last Updated 04 Feb 2020 ##
 ## Regex Blacklist ##
 #########
 (^|\.)((boom)|(dynamo)|(ket)|(max)|(moat)|(pop)|(snap)|(te))ads?[-_\.]
