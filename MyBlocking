@@ -1,7 +1,6 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 22 Jan 2020
-#
+## Updated 09 Mar 2020
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
 127.0.0.1 0aqpqdju.me
@@ -22,8 +21,11 @@
 127.0.0.1 6tsbe1zs.me
 127.0.0.1 7elements.affise.com
 127.0.0.1 8e81f51f.api.splkmobile.com
+127.0.0.1 Cowner.net
 127.0.0.1 Login.fa151.com
 127.0.0.1 My.vip.ypuxidun.com
+127.0.0.1 Rsload.net
+127.0.0.1 U.teknik.io
 127.0.0.1 a.erogaliv.com
 127.0.0.1 a.kulkerbolda.com
 127.0.0.1 a.singleplatform.com
@@ -367,6 +369,7 @@
 127.0.0.1 film.austinappliancesolutions.us
 127.0.0.1 firebasedynamiclinks-ipv4.googleapis.com
 127.0.0.1 firebasedynamiclinks-ipv6.googleapis.com
+127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 fixdevice.biz
 127.0.0.1 flagshipapi.boomtownroi.com
@@ -1004,6 +1007,7 @@
 127.0.0.1 xd.engagesciences.com
 127.0.0.1 xk4-a.tlnk.io
 127.0.0.1 xv-dns-leaks-debian-production-1236358895.us-east-1.elb.amazonaws.com
+127.0.0.1 xx.dc-1.net
 127.0.0.1 y.analytics.yahoo.com
 127.0.0.1 yahoo.uservoice.com
 127.0.0.1 yahoofinanceamscryptosf.splashthat.com
@@ -1019,10 +1023,3 @@
 127.0.0.1 zillow.zendesk.com
 127.0.0.1 zstress.net
 127.0.0.1 zxcvvcxv.com
-
-##New Trial Items
-127.0.0.1 Rsload.net
-127.0.0.1 U.teknik.io
-127.0.0.1 Cowner.net
-127.0.0.1 xx.dc-1.net
-127.0.0.1 firebaselogging-pa.googleapis.com
