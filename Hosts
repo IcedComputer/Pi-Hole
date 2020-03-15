@@ -1,6 +1,6 @@
 # pi-hole
 #my largely static list
-# Last Updated: 15 Aug 2015
+# Last Updated: 14 Mar 2020
 
 127.0.0.1 ammyy.com
 127.0.0.1 www.ammyy.com
@@ -6718,7 +6718,6 @@
 127.0.0.1 crosspixel.demdex.net
 127.0.0.1 crtl.aimatch.com
 127.0.0.1 crtv.mate1.com
-127.0.0.1 www.crunchbase.com
 127.0.0.1 crushtrack.com
 127.0.0.1 www.crushtrack.com
 127.0.0.1 crv.clickad.pl
