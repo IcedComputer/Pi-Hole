@@ -1,4 +1,4 @@
-## Last Updated 09 Mar 2020 ##
+## Last Updated 31 Mar 2020 ##
 ## Regex Blacklist ##
 #########
 (^|\.)((boom)|(dynamo)|(ket)|(max)|(moat)|(pop)|(snap)|(te))ads?[-_\.]
@@ -15,7 +15,6 @@
 (^|\.)22web\.org$
 (^|\.)247realmedia\.com$
 (^|\.)2cnt\.net$
-(^|\.)2mdn\.net$
 (^|\.)2mdn\.net$
 (^|\.)2o7\.net$
 (^|\.)302br\.net$
@@ -575,3 +574,15 @@
 (^|\.|-)telemetry[-_\.]
 ^(www\.)?itunes-[:alnum:]*\.
 ^www-?[:alpha:]+\.com$
+
+## New Entries
+(^|\.)logfiles(.*)\.zoom\.us
+.*\.g[0-9]+\..*
+^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com
+(^|\.|-)clicks\.beap(.\*)?
+(^|\.|-)flashtalking\.
+(^|\.|-)(info|ads)\.yahoo\.com$
+(^|\.)buffpanel\.com$
+(^|\.)bugsnag\.com$
+(^|\.)redshell\.io$
+(.*\.|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
