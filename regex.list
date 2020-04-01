@@ -585,4 +585,4 @@
 (^|\.)buffpanel\.com$
 (^|\.)bugsnag\.com$
 (^|\.)redshell\.io$
-(.*\.|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
+(.*\.|^)((think)?with)?google($|((adservices|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
