@@ -14,16 +14,6 @@ https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-https://hosts-file.net/ad_servers.txt
-https://hosts-file.net/emd.txt
-https://hosts-file.net/exp.txt
-https://hosts-file.net/fsa.txt
-https://hosts-file.net/grm.txt
-https://hosts-file.net/hjk.txt
-https://hosts-file.net/mmt.txt
-https://hosts-file.net/pha.txt
-https://hosts-file.net/pup.txt
-https://hosts-file.net/wrz.txt
 https://hostsfile.org/Downloads/hosts.txt
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/ForeignHost
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/Hosts
@@ -102,3 +92,4 @@ https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts2
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts3
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/all-hosts-files.net_domains
