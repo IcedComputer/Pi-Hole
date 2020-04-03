@@ -26,6 +26,8 @@ function download()
 	wait
 	#download an updated update.sh, but keep in temp
 	wget -O $TEMPDIR/updates.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/updates.sh'
+	#download new cloudflared configs
+	wget -O $TEMPDIR/CFconfig 'https://raw.githubusercontent.com/IcedComputer/Azure-Pihole-VPN-setup/master/Configuration%20Files/CFconfig'
 }
 
 function modify()
@@ -43,6 +45,7 @@ function move()
 	mv $TEMPDIR/adlists.list $PIDIR/adlists.list
 	#Wildcards (03-pihole-wildcard.conf)
 	mv $TEMPDIR/regex.list  $PIDIR/regex.list
+	mv $TEMPDIR/CFconfig /etc/default/cloudflared
 
 
 }
@@ -54,6 +57,7 @@ function clean()
  rm -f $TEMPDIR/regex.country
  rm -f $TEMPDIR/regex.oTLD
  rm -f $TEMPDIR/regex.uslocal
+ sudo systemctl restart cloudflared
 }
 
 function scripts()
