@@ -14,7 +14,6 @@ https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://hosts-file.net/ad_servers.txt
 https://hosts-file.net/emd.txt
 https://hosts-file.net/exp.txt
@@ -77,7 +76,6 @@ https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detec
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.risk/list.txt
 https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -97,3 +95,10 @@ https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://www.squidblacklist.org/downloads/dg-ads.acl
 https://www.squidblacklist.org/downloads/dg-malicious.acl
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+
+## New Test Lists as of 03-April-2020
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts0
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts1
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts2
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts3
+https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
