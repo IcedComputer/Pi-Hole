@@ -1,6 +1,6 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 09 Mar 2020
+## Updated 07 April 2020
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
 127.0.0.1 0aqpqdju.me
@@ -1040,3 +1040,15 @@
 127.0.0.1 icloud.com-site-log.in
 127.0.0.1 officesuited.com
 127.0.0.1 officemtr.com
+127.0.0.1 http.ps
+127.0.0.1 autocapital.pw
+127.0.0.1 vastyhealthcarefoundation.com
+127.0.0.1 web-listings.net
+127.0.0.1 weblistingservices.com
+127.0.0.1 webservicescorp.net
+127.0.0.1 weblistingsinc.net
+127.0.0.1 web-listingsinc.com
+127.0.0.1 websiteservicescorp.com
+127.0.0.1 weblistingsreports.net
+127.0.0.1 servicenow-godaddy.com
+127.0.0.1 pr0gramm.com
