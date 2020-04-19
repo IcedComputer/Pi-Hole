@@ -35,6 +35,8 @@ function modify()
 
 	cat $TEMPDIR/regex.download $TEMPDIR/regex.country $TEMPDIR/regex.oTLD $TEMPDIR/regex.uslocal | grep -v '#' | sort | uniq > $TEMPDIR/regex.list
 	wait
+	bash /scripts/Finished/whitelist.sh
+	wait
 }
 
 
