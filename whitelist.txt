@@ -54,6 +54,7 @@ marinetraffic.com
 mirror.cedia.org.ec
 mirror1.malwaredomains.com
 mirrors.cat.pdx.edu
+mobile.twitter.com
 myshiptracking.com
 notify.xboxlive.com
 npr-news.streaming.adswizz.com
@@ -63,7 +64,6 @@ oneclient.sfx.ms
 onedrive.live.com
 outlook.live.com
 pgl.yoyo.org
-pornhub.com
 pro.coinbase.com
 prod.imgur.map.fastlylb.net
 ransomwaretracker.abuse.ch
@@ -78,6 +78,7 @@ t.umblr.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
+twitter.com
 upload.wikimedia.org
 v.firebog.net
 www.bizjournals.com
@@ -90,14 +91,11 @@ www.malwaredomainlist.com
 www.malwarepatrol.net
 www.msftncsi.com
 www.netflix.com
-www.pornhub.com
 www.xboxlive.com
-www.xtube.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xbolive.com
 xsts.auth.xboxlive.com
-xtube.com
 youtu.be
 zeustracker.abuse.ch
