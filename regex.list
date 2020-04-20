@@ -53,7 +53,6 @@
 (^|\.)adnxs\.com$
 (^|\.)ado((cean)|(hana)|(tmob))\.((pl)|(com))$
 (^|\.)adrise\.tv$
-(^|\.)adrise\.tv$
 (^|\.)adroll\.com$
 (^|\.)adrunnr\.com$
 (^|\.)ads?((cale)|(cat))[-_\.]
@@ -107,7 +106,6 @@
 (^|\.)beemray\.com$
 (^|\.)bet((365)|(rad)|(way)|(sson)|(-at-home))?\.com$
 (^|\.)beyondhosting\.net$
-(^|\.)bfmio\.com$
 (^|\.)bfmio\.com$
 (^|\.)bidmachine\.com?$
 (^|\.)bidswitch\.net$
@@ -181,7 +179,6 @@
 (^|\.)decibelinsight\.net$
 (^|\.)deltadna.com$
 (^|\.)deluxeoffer\.com?$
-(^|\.)demdex\.net$
 (^|\.)demdex\.net$
 (^|\.)dev-ads-soft-web\.top$
 (^|\.)dfhdsfhhfdhdf5s6h5\.blogspot[-_\.]
@@ -269,7 +266,6 @@
 (^|\.)indeed\.com$
 (^|\.)info-apps\.xyz$
 (^|\.)innovid\.com$
-(^|\.)innovid\.com$
 (^|\.)inspectlet\.com$
 (^|\.)intellitxt\.com$
 (^|\.)intercom(assets)?\.((io)|(com))$
@@ -291,7 +287,6 @@
 (^|\.)justclick\.ru$
 (^|\.)kaffnet\.com$
 (^|\.)kargo\.com$
-(^|\.)kargo\.com$
 (^|\.)kingsoft-office-service\.com$
 (^|\.)konsumentenumfrage\.de$
 (^|\.)kontrolnaya-rabota\.ru$
@@ -306,9 +301,7 @@
 (^|\.)lgsmartad\.com$
 (^|\.)lgtvsdp\.com$
 (^|\.)liftoff\.io$
-(^|\.)ligadx\.com$
-(^|\.)ligatus\.com$
-(^|\.)lightcast\.com$
+(^|\.)liga?((dx)|(tus)|(htcast))\.com$
 (^|\.)likebtn\.com$
 (^|\.)linguotica\.com$
 (^|\.)litix\.io$
@@ -348,8 +341,7 @@
 (^|\.)moengage\.com$
 (^|\.)monetizer?\[-_\.]
 (^|\.)mookie1\.com$
-(^|\.)moportals\.com$
-(^|\.)mopub\.com$
+(^|\.)mop((ortals)|(ub))\.com$
 (^|\.)mouseflow\.com$
 (^|\.)mpression\.net$
 (^|\.)mtvnservices\.com$
@@ -371,7 +363,6 @@
 (^|\.)oewabox\.at$
 (^|\.)offersdelivery\.com$
 (^|\.)olivesoftware\.com$
-(^|\.)omtrdc\.net$
 (^|\.)omtrdc\.net$
 (^|\.)onelink\.me$
 (^|\.)onesignal\.com$
@@ -401,7 +392,6 @@
 (^|\.)polyfill\.io$
 (^|\.)poptm\.com$
 (^|\.)popupad\.net$
-(^|\.)pornmd\.com$
 (^|\.)pornmd\.phncdn\.com$
 (^|\.)preisauswahl\.club$
 (^|\.)pro-market\.net$
@@ -413,8 +403,7 @@
 (^|\.)pushsissmc\.com$
 (^|\.)qlitics\.com$
 (^|\.)qualtrics\.com$
-(^|\.)quantcount.com$
-(^|\.)quantummetric\.com$
+(^|\.)quant((count)|(ummetric)).com$
 (^|\.)quasargaming?\.com$
 (^|\.)quebec-bin\.com$
 (^|\.)rayjump\.com$
@@ -454,8 +443,7 @@
 (^|\.)skimresources\.com$
 (^|\.)sleeknote\.com$
 (^|\.)smaato\.net$
-(^|\.)smartasset.com$
-(^|\.)smartlook\.com$
+(^|\.)smart((asset)|(look)).com$
 (^|\.)smoozed\.rocks$
 (^|\.)sociomantic\.com$
 (^|\.)soflopxl\.com$
@@ -549,8 +537,6 @@
 (^|\.)xdates18\.com$
 (^|\.)xg4ken\.com$
 (^|\.)xiti\.com$
-(^|\.)xn--[a-z0-9]*
-(^|\.)xn--[a-z0-9]*[-_\.]
 (^|\.)xpanama\.net$
 (^|\.)xpressunblock\.com$
 (^|\.)yandex\.((com)|(ru))$
@@ -560,10 +546,7 @@
 (^|\.)yotpo\.com$
 (^|\.)youboranqs01\.com$
 (^|\.)yumenetworks\.com$
-(^|\.)zedo\.com$
-(^|\.)zenmxapps\.com$
-(^|\.)zentrick\.com$
-(^|\.)zeroredirect1\.com$
+(^|\.)zen?((mxapps)|(trick)|(do)|(roredirect1))\.com$
 (^|\.)zopim\.com$
 (^|\.|-)(mobile)?analytics?[-_\.]
 (^|\.|-)dns-leaks[-_\.]
