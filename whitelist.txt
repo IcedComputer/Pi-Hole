@@ -98,4 +98,5 @@ xflight.xboxlive.com
 xkms.xbolive.com
 xsts.auth.xboxlive.com
 youtu.be
+youtube.com
 zeustracker.abuse.ch
