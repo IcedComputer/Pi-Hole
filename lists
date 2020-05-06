@@ -5,8 +5,8 @@
 #https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
 http://127.0.0.1/alist.txt
 http://127.0.0.1/bootlist.txt
-http://127.0.0.1/openphish_feed.txt
-http://127.0.0.1/phishtank_feed.txt
+#http://127.0.0.1/openphish_feed.txt
+#http://127.0.0.1/phishtank_feed.txt
 https://adaway.org/hosts.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://gist.githubusercontent.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/raw/87378f77179722c227b7813faddab53df6a38708/blacklist.txt
@@ -93,3 +93,4 @@ https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts3
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/all-hosts-files.net_domains
+https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
