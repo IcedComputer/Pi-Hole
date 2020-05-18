@@ -92,6 +92,7 @@ www.malwarepatrol.net
 www.msftncsi.com
 www.netflix.com
 www.xboxlive.com
+www.youtu.be
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
