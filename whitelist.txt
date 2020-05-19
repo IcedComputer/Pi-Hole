@@ -101,3 +101,5 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube.com
 zeustracker.abuse.ch
+www.duluthtrading.com
+sso.godaddy.com
