@@ -1,4 +1,4 @@
-## Last Updated 18 DEC 2019 ##
+## Last Updated 21 May 2020 ##
 ## Blacklist Fake News Websites ##
 #########
 ## From 3.218.216.245

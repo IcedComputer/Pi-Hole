@@ -1,6 +1,7 @@
-## Last Updated 31 Mar 2020 ##
+## Last Updated 21 May 2020 ##
 ## Regex Blacklist ##
 #########
+(.*\.|^)((think)?with)?google($|((adservices|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
 (^|\.)((boom)|(dynamo)|(ket)|(max)|(moat)|(pop)|(snap)|(te))ads?[-_\.]
 (^|\.)((in)|(kr)|(ks))mobi(le)?\.((com)|(net))$
 (^|\.)((moat)|(traking))?pixel[-_\.]
@@ -119,6 +120,8 @@
 (^|\.)braze\.((com)|(eu))$
 (^|\.)bricknet\.com$
 (^|\.)broad-90\.xyz$
+(^|\.)buffpanel\.com$
+(^|\.)bugsnag\.com$
 (^|\.)bwin\.com$
 (^|\.)c-rewards\.com$
 (^|\.)c1exchange\.com$
@@ -310,6 +313,7 @@
 (^|\.)localytics\.com$
 (^|\.)location(-services?)?[-_\.]
 (^|\.)locators?\.
+(^|\.)logfiles(.*)\.zoom\.us
 (^|\.)logrocket\.com$
 (^|\.)lot-1-u\.com$
 (^|\.)love4single\.com$
@@ -409,6 +413,7 @@
 (^|\.)rayjump\.com$
 (^|\.)real-prizes\.de$
 (^|\.)reallifecam\.com$
+(^|\.)redshell\.io$
 (^|\.)releaseyourreturns\.com$
 (^|\.)reporo\.net$
 (^|\.)research\.de$
@@ -548,24 +553,17 @@
 (^|\.)yumenetworks\.com$
 (^|\.)zen?((mxapps)|(trick)|(do)|(roredirect1))\.com$
 (^|\.)zopim\.com$
+(^|\.|-)(info|ads)\.yahoo\.com$
 (^|\.|-)(mobile)?analytics?[-_\.]
+(^|\.|-)clicks\.beap(.\*)?
 (^|\.|-)dns-leaks[-_\.]
+(^|\.|-)flashtalking\.
 (^|\.|-)geoycpi-uno[-_\.]
 (^|\.|-)inner-active\.mobi[-_\.]
 (^|\.|-)stat(s|istics)?[0-9]*[-_\.]
 (^|\.|-)stats?(counter|event)\.com$
 (^|\.|-)telemetry[-_\.]
-^(www\.)?itunes-[:alnum:]*\.
-^www-?[:alpha:]+\.com$
-
-## New Entries
-(^|\.)logfiles(.*)\.zoom\.us
 .*\.g[0-9]+\..*
 ^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com
-(^|\.|-)clicks\.beap(.\*)?
-(^|\.|-)flashtalking\.
-(^|\.|-)(info|ads)\.yahoo\.com$
-(^|\.)buffpanel\.com$
-(^|\.)bugsnag\.com$
-(^|\.)redshell\.io$
-(.*\.|^)((think)?with)?google($|((adservices|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
+^(www\.)?itunes-[:alnum:]*\.
+^www-?[:alpha:]+\.com$

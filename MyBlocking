@@ -1,12 +1,13 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 07 April 2020
+## Updated 21 May 2020
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
 127.0.0.1 0aqpqdju.me
 127.0.0.1 109114.synergyxpress.com
 127.0.0.1 189229.measurementapi.com
 127.0.0.1 192.168.112.2O7.net
+127.0.0.1 1x1.a-mo.net
 127.0.0.1 2.ecom.attccc.com 
 127.0.0.1 20754664p.rfihub.com
 127.0.0.1 247rtb.com
@@ -121,6 +122,7 @@
 127.0.0.1 api.at.getsocial.io
 127.0.0.1 api.buddyplatform.com
 127.0.0.1 api.drift.com
+127.0.0.1 api.permutive.com
 127.0.0.1 api.shopstyle.com
 127.0.0.1 api.whycompete.com
 127.0.0.1 app-3qcmwoxuw2.marketingautomation.services
@@ -129,6 +131,10 @@
 127.0.0.1 app-sj10.marketo.com
 127.0.0.1 app-sjh.marketo.com
 127.0.0.1 app.segmetrics.io
+127.0.0.1 apple.com-findlocation.id
+127.0.0.1 apple.com-isupport.in
+127.0.0.1 apple.com-sign.in
+127.0.0.1 apple.com-support.id
 127.0.0.1 apple.comscoreresearch.com
 127.0.0.1 apple.comscoreresearch.com
 127.0.0.1 apples.com
@@ -145,6 +151,7 @@
 127.0.0.1 assets.vidora.com
 127.0.0.1 audiusedcar.com
 127.0.0.1 augur.io
+127.0.0.1 autocapital.pw
 127.0.0.1 axiatraders.com
 127.0.0.1 b-graph.facebook.com
 127.0.0.1 b.measuread.com
@@ -222,6 +229,7 @@
 127.0.0.1 cdn1.inner-active.mobi
 127.0.0.1 cdn2.inner-active.mobi
 127.0.0.1 cdn2.phunware.com
+127.0.0.1 cdnpps.us
 127.0.0.1 cdsgg.com
 127.0.0.1 celltrackingapps.com
 127.0.0.1 centralcoasttogether.com
@@ -270,6 +278,7 @@
 127.0.0.1 controleng.com
 127.0.0.1 conversation.api.drift.com
 127.0.0.1 convertro.com
+127.0.0.1 corp.com
 127.0.0.1 cortex.vidora.com
 127.0.0.1 cp.abbp1.com
 127.0.0.1 cps-static.rovicorp.com
@@ -409,6 +418,7 @@
 127.0.0.1 googletagmanager.com
 127.0.0.1 goprimer.com
 127.0.0.1 grandonmedia.com
+127.0.0.1 graph-custom.whisk.com
 127.0.0.1 guessinfosys.com
 127.0.0.1 gwallet.com
 127.0.0.1 happy.hipstarclub.com
@@ -432,9 +442,12 @@
 127.0.0.1 hoxdownload.eu
 127.0.0.1 hstatic.criteo.net
 127.0.0.1 ht-small.centrofiles.com
+127.0.0.1 http.ps
 127.0.0.1 hubeicoal-safety.gov.cn
 127.0.0.1 i.vimeocdn.com
 127.0.0.1 ib-ibi.com
+127.0.0.1 icloud.com-site-log.in
+127.0.0.1 icontent.us
 127.0.0.1 idiagnostics.apple.com
 127.0.0.1 iicdn.com
 127.0.0.1 imageliners.com
@@ -500,6 +513,7 @@
 127.0.0.1 levels1.com	
 127.0.0.1 liberty4nj.org
 127.0.0.1 lilybrook.ru
+127.0.0.1 linkojager.org
 127.0.0.1 linktest.50mango.com
 127.0.0.1 littjohnwihap.ru
 127.0.0.1 loadbalancer.visitor-analytics.io
@@ -554,6 +568,7 @@
 127.0.0.1 mobilefuse.com
 127.0.0.1 mobilemajority.disqus.com
 127.0.0.1 mobilestrike-r0sw2caio29cd5q9thq.netdna-ssl.com
+127.0.0.1 monetizus.com
 127.0.0.1 mortgageapi.zillow.com
 127.0.0.1 mortgagerates.icanbuy.com
 127.0.0.1 mp-app.info
@@ -599,6 +614,8 @@
 127.0.0.1 oda.markitondemand.com
 127.0.0.1 odg-ovd-production-api-1241227770.us-west-2.elb.amazonaws.com
 127.0.0.1 offergold.online
+127.0.0.1 officemtr.com
+127.0.0.1 officesuited.com
 127.0.0.1 oggr.ru
 127.0.0.1 oilandgaseng.com
 127.0.0.1 olive.hosting
@@ -638,6 +655,7 @@
 127.0.0.1 portal.startapp.com
 127.0.0.1 portals-static.startapp.com
 127.0.0.1 powertradeprofit.com
+127.0.0.1 pr0gramm.com
 127.0.0.1 premium.96.wix.com
 127.0.0.1 prepaidoptions.mobi
 127.0.0.1 prf.hn
@@ -709,8 +727,10 @@
 127.0.0.1 servers.skiptherealitors.com
 127.0.0.1 service.gracenote.com
 127.0.0.1 service.weather.microsoft.com
+127.0.0.1 servicenow-godaddy.com
 127.0.0.1 settings-win.data.microsoft.com
 127.0.0.1 shop8d.net
+127.0.0.1 shwarts.tv
 127.0.0.1 sidsidebottom.com
 127.0.0.1 sitebooster.com
 127.0.0.1 siteimproveanalytics.com
@@ -761,6 +781,7 @@
 127.0.0.1 tag.segmetrics.io
 127.0.0.1 tagan.adlightning.com
 127.0.0.1 tags.us.onscroll.com
+127.0.0.1 talainine.com
 127.0.0.1 talkable.com
 127.0.0.1 tapestrylabs.com
 127.0.0.1 tapgerine.com
@@ -781,6 +802,7 @@
 127.0.0.1 theonlinebusiness.com
 127.0.0.1 thermofisher.com
 127.0.0.1 thinkgaming.com
+127.0.0.1 thisadsfor.us
 127.0.0.1 tile-service.weather.microsoft.com
 127.0.0.1 time.owlrememberchess.com
 127.0.0.1 titangelx.com
@@ -835,6 +857,7 @@
 127.0.0.1 v12group.com
 127.0.0.1 v60nf4oj-07af2d997294c9d13728bc088a0be951d09e9403-sac.d.aa.online-metrix.net
 127.0.0.1 v60nf4oj-11f646baa1b82fb1b8eebc76ad842f05d96a06e1-sac.d.aa.online-metrix.net
+127.0.0.1 vastyhealthcarefoundation.com
 127.0.0.1 videotracker.washingtonpost.com
 127.0.0.1 viewcount-1964976613.us-east-1.elb.amazonaws.com
 127.0.0.1 violetataylor.ru
@@ -849,8 +872,15 @@
 127.0.0.1 waterfilter.in.ua
 127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 weather.api.cnn.io
+127.0.0.1 web-listings.net
+127.0.0.1 web-listingsinc.com
+127.0.0.1 weblistingservices.com
+127.0.0.1 weblistingsinc.net
+127.0.0.1 weblistingsreports.net
 127.0.0.1 webmail.csum.edu
 127.0.0.1 webpanel.sk
+127.0.0.1 webservicescorp.net
+127.0.0.1 websiteservicescorp.com
 127.0.0.1 widget.intercom.io
 127.0.0.1 widgets.tree.com
 127.0.0.1 wilcarobbe.com
@@ -1023,35 +1053,3 @@
 127.0.0.1 zillow.zendesk.com
 127.0.0.1 zstress.net
 127.0.0.1 zxcvvcxv.com
-
-## new items
-127.0.0.1 graph-custom.whisk.com
-127.0.0.1 linkojager.org
-127.0.0.1 thisadsfor.us
-127.0.0.1 icontent.us
-127.0.0.1 cdnpps.us
-127.0.0.1 monetizus.com
-127.0.0.1 talainine.com
-127.0.0.1 corp.com
-127.0.0.1 apple.com-support.id
-127.0.0.1 apple.com-findlocation.id
-127.0.0.1 apple.com-sign.in
-127.0.0.1 apple.com-isupport.in
-127.0.0.1 icloud.com-site-log.in
-127.0.0.1 officesuited.com
-127.0.0.1 officemtr.com
-127.0.0.1 http.ps
-127.0.0.1 autocapital.pw
-127.0.0.1 vastyhealthcarefoundation.com
-127.0.0.1 web-listings.net
-127.0.0.1 weblistingservices.com
-127.0.0.1 webservicescorp.net
-127.0.0.1 weblistingsinc.net
-127.0.0.1 web-listingsinc.com
-127.0.0.1 websiteservicescorp.com
-127.0.0.1 weblistingsreports.net
-127.0.0.1 servicenow-godaddy.com
-127.0.0.1 pr0gramm.com
-127.0.0.1 shwarts.tv
-127.0.0.1 api.permutive.com
-127.0.0.1 1x1.a-mo.net
