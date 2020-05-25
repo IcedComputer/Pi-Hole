@@ -1,14 +1,15 @@
 #http://127.0.0.1/ezlist.txt
+#http://127.0.0.1/openphish_feed.txt
+#http://127.0.0.1/phishtank_feed.txt
 #https://hosts-file.net/psh.txt
 #https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
 #https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/moaAB.txt
 #https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
 http://127.0.0.1/alist.txt
 http://127.0.0.1/bootlist.txt
-#http://127.0.0.1/openphish_feed.txt
-#http://127.0.0.1/phishtank_feed.txt
 https://adaway.org/hosts.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 https://gist.githubusercontent.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/raw/87378f77179722c227b7813faddab53df6a38708/blacklist.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
@@ -17,8 +18,10 @@ https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://hostsfile.org/Downloads/hosts.txt
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/ForeignHost
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/Hosts
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/MalBlock
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/MyBlocking
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/OtherBlocks
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/all-hosts-files.net_domains
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/f2bblocks
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/fixes
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/old_pre-regex
@@ -65,6 +68,10 @@ https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-trac
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.risk/list.txt
 https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts0
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts1
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts2
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts3
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
@@ -84,13 +91,5 @@ https://v.firebog.net/hosts/static/w3kbl.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://www.squidblacklist.org/downloads/dg-ads.acl
 https://www.squidblacklist.org/downloads/dg-malicious.acl
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-
-## New Test Lists as of 03-April-2020
-https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts0
-https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts1
-https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts2
-https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts3
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-https://icedcomputer.github.io/Personal-Pi-Hole-configs/all-hosts-files.net_domains
-https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist

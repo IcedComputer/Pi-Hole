@@ -1,4 +1,4 @@
-## Last Updated 18 DEC 2019 ##
+## Last Updated 21 May 2020 ##
 ## Blacklist Fake News Websites ##
 #########
 ## From 3.218.216.245
@@ -501,4 +501,25 @@ www.wciowanews.com
 www.wcminnesotanews.com
 www.westdsmnews.com
 www.westtwincities.com
+
+## Fake COVID-19
+Reopenmississippi.com
+Reopenoc.com
+Reopensc.com
+cleveland.com
+dorrbrotherscams.com
+minnesotagunrights.org
+reopenamericanbusiness.com
+reopeningchurch.com
+reopeniowa.com
+reopenmn.com
+reopennc.com
+reopenny.com
+reopenoureconomy.com
+reopenpa.com
+reopensociety.com
+reopentexasnow.com
+reopenva.com
+reopenwi.com
+
 
