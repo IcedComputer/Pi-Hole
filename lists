@@ -89,7 +89,7 @@ https://v.firebog.net/hosts/Shalla-mal.txt
 https://v.firebog.net/hosts/static/SamsungSmart.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
-https://www.squidblacklist.org/downloads/dg-ads.acl
-https://www.squidblacklist.org/downloads/dg-malicious.acl
+#https://www.squidblacklist.org/downloads/dg-ads.acl
+#https://www.squidblacklist.org/downloads/dg-malicious.acl
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
