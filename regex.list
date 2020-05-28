@@ -567,3 +567,6 @@
 ^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com
 ^(www\.)?itunes-[:alnum:]*\.
 ^www-?[:alpha:]+\.com$
+
+## New
+(^|\.)contentabc.com$
