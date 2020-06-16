@@ -49,7 +49,8 @@ function move()
 	mv $TEMPDIR/adlists.list $PIDIR/adlists.list
 	#Wildcards (03-pihole-wildcard.conf)
 	mv $TEMPDIR/regex.list  $PIDIR/regex.list
-	mv $TEMPDIR/CFconfig /etc/default/cloudflared
+	mv $TEMPDIR/CFconfig /scripts/Finished/cloudflared
+	
 
 
 }
