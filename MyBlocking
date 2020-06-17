@@ -1,6 +1,7 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 27 May 2020
+## Updated 16 June 2020
+
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
 127.0.0.1 0aqpqdju.me
@@ -136,13 +137,15 @@
 127.0.0.1 apple.com-sign.in
 127.0.0.1 apple.com-support.id
 127.0.0.1 apple.comscoreresearch.com
-127.0.0.1 apple.comscoreresearch.com
 127.0.0.1 apples.com
 127.0.0.1 apps.bazaarvoice.com
 127.0.0.1 appsamurai.wpengine.com
 127.0.0.1 appsamuraicomblog.disqus.com
 127.0.0.1 ar1d.net
 127.0.0.1 areabis.com
+127.0.0.1 as.2020mustang.com
+127.0.0.1 as.catsnbootsncats2020.com
+127.0.0.1 as.sexad.net
 127.0.0.1 assets-jpcust.jwpsrv.com
 127.0.0.1 assets.bounceexchange.com
 127.0.0.1 assets.guim.co.uk
@@ -162,6 +165,7 @@
 127.0.0.1 badlandsarts.com	
 127.0.0.1 balancer.wixdns.net
 127.0.0.1 balihoo.aclients.com
+127.0.0.1 bangcreatives.com
 127.0.0.1 bc.pdx.sp-prod.net
 127.0.0.1 bc.sp-prod.net
 127.0.0.1 bdbzq.com
@@ -278,6 +282,7 @@
 127.0.0.1 controleng.com
 127.0.0.1 conversation.api.drift.com
 127.0.0.1 convertro.com
+127.0.0.1 corp-mktg.s3.amazonaws.com
 127.0.0.1 corp.com
 127.0.0.1 cortex.vidora.com
 127.0.0.1 cp.abbp1.com
@@ -398,6 +403,7 @@
 127.0.0.1 gdaxbtc.com
 127.0.0.1 geo-applefinance-cache.internal.query.g03.yahoodns.net
 127.0.0.1 geo-prod.do.dsp.mp.microsoft.com
+127.0.0.1 geo.mktg.2u.com
 127.0.0.1 geo.paypalobjects.com.akadns.net
 127.0.0.1 geoced.smartadserver.com
 127.0.0.1 geoip.alm.com
@@ -444,13 +450,13 @@
 127.0.0.1 ht-small.centrofiles.com
 127.0.0.1 http.ps
 127.0.0.1 hubeicoal-safety.gov.cn
+127.0.0.1 i.bangassets.com
 127.0.0.1 i.vimeocdn.com
 127.0.0.1 ib-ibi.com
 127.0.0.1 icloud.com-site-log.in
 127.0.0.1 icontent.us
 127.0.0.1 idiagnostics.apple.com
 127.0.0.1 iicdn.com
-127.0.0.1 imageliners.com
 127.0.0.1 imageliners.com
 127.0.0.1 img.bidsopt.com
 127.0.0.1 img.bleacherreport.net
@@ -588,6 +594,7 @@
 127.0.0.1 narusnex.info
 127.0.0.1 native.sharethrough.com
 127.0.0.1 navigetionate.com 
+127.0.0.1 new.as.sexad.net
 127.0.0.1 news-youm7.com 
 127.0.0.1 news.iadsdk.apple.com
 127.0.0.1 newsweek.tumblr.com
@@ -729,6 +736,7 @@
 127.0.0.1 service.weather.microsoft.com
 127.0.0.1 servicenow-godaddy.com
 127.0.0.1 settings-win.data.microsoft.com
+127.0.0.1 sexad.net
 127.0.0.1 shop8d.net
 127.0.0.1 shwarts.tv
 127.0.0.1 sidsidebottom.com
@@ -790,6 +798,7 @@
 127.0.0.1 targeting.tgam.arcpublishing.com
 127.0.0.1 targeting.washpost.nile.works
 127.0.0.1 tashabsolutions.xyz
+127.0.0.1 taxi.mktg.2u.com
 127.0.0.1 tealdennen.com	
 127.0.0.1 telemetry-in.battle.net
 127.0.0.1 telemetry.allrecipes.com
@@ -840,6 +849,7 @@
 127.0.0.1 untidyquestion.com
 127.0.0.1 urlfilter2.vmn.net
 127.0.0.1 us-east-1-decisionapi.lift.acquia.com
+127.0.0.1 us-east-adsrv.rtbsuperhub.com
 127.0.0.1 us1.mailchimp.com
 127.0.0.1 us3.admin.mailchimp.com
 127.0.0.1 us7.admin.mailchimp.com
@@ -853,6 +863,7 @@
 127.0.0.1 uswest-analytics.constant.co
 127.0.0.1 ut.iadsdk.apple.com
 127.0.0.1 uy81rb.wraug5vv72b28fch.pro
+127.0.0.1 v.vfgtb.com
 127.0.0.1 v10.vortex-win.data.microsoft.com
 127.0.0.1 v12group.com
 127.0.0.1 v60nf4oj-07af2d997294c9d13728bc088a0be951d09e9403-sac.d.aa.online-metrix.net
@@ -918,6 +929,7 @@
 127.0.0.1 www.autonet.ca
 127.0.0.1 www.azfamily.com
 127.0.0.1 www.backgroundtask.eu
+127.0.0.1 www.bangcreatives.com
 127.0.0.1 www.bb.com.br
 127.0.0.1 www.bbthat.com
 127.0.0.1 www.bidsopt.com
@@ -963,7 +975,6 @@
 127.0.0.1 www.hubeicoal-safety.gov.cn
 127.0.0.1 www.huntmads.com
 127.0.0.1 www.iicdn.com
-127.0.0.1 www.imageliners.com
 127.0.0.1 www.imageliners.com
 127.0.0.1 www.immigrationdirect.com
 127.0.0.1 www.kargo.com
@@ -1053,18 +1064,3 @@
 127.0.0.1 zillow.zendesk.com
 127.0.0.1 zstress.net
 127.0.0.1 zxcvvcxv.com
-
-## New
-127.0.0.1 www.bangcreatives.com
-127.0.0.1 bangcreatives.com
-127.0.0.1 i.bangassets.com
-127.0.0.1 us-east-adsrv.rtbsuperhub.com
-127.0.0.1 as.2020mustang.com
-127.0.0.1 v.vfgtb.com
-127.0.0.1 as.sexad.net
-127.0.0.1 new.as.sexad.net
-127.0.0.1 sexad.net
-127.0.0.1 as.catsnbootsncats2020.com
-127.0.0.1 corp-mktg.s3.amazonaws.com
-127.0.0.1 geo.mktg.2u.com
-127.0.0.1 taxi.mktg.2u.com
