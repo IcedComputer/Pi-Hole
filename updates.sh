@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## Updated 16 June 2020
+## Updated 17 June 2020
 
 #Vars
 
@@ -33,6 +33,15 @@ function download()
 
 }
 
+function v5download()
+{
+	## for version 5.0+
+	# Get Updaters
+	curl -o $FINISHED/regex_db_updater.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Version%205%20Updaters/regex_db_updater.sh'
+	curl -o $FINISHED/whitelist_db_update.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Version%205%20Updaters/whitelist_db_update.sh'
+	curl -o $FINISHED/adlist.sql 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Version%205%20Updaters/adlists.sql'
+}
+
 function modify()
 {
 	## Create Regex 
@@ -50,7 +59,6 @@ function move()
 	mv $TEMPDIR/regex.list  $PIDIR/regex.list
 	mv $TEMPDIR/CFconfig /scripts/Finished/cloudflared
 	
-
 }
 
 #cleanup
@@ -94,12 +102,18 @@ function whitelists()
 
 }
 
-
+function v5Updates()
+{
+	sqlite3 $PIDIR/gravity.db < $FINISHED/adlists.sql
+	bash $FINISHED/whitelist_db_update.sh
+	bash $FINISHED/regex_db_updater.sh
+}
 
 download
+v5download
 modify
 move
 clean
 scripts
 whitelists
-
+v5Updates
