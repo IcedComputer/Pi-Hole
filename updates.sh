@@ -35,11 +35,15 @@ function download()
 
 function v5download()
 {
-	## for version 5.0+
+	#for v5
+	
 	# Get Updaters
 	curl -o $FINISHED/regex_db_updater.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Version%205%20Updaters/regex_db_updater.sh'
+	wait
 	curl -o $FINISHED/whitelist_db_update.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Version%205%20Updaters/whitelist_db_update.sh'
-	curl -o $FINISHED/adlist.sql 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Version%205%20Updaters/adlists.sql'
+	wait
+	curl -o $FINISHED/adlists.sql 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Version%205%20Updaters/adlists.sql'
+	wait
 }
 
 function modify()
@@ -104,7 +108,7 @@ function whitelists()
 
 function v5Updates()
 {
-	sqlite3 /etc/pihole/gravity.db < /scripts/Finished/adlists.sql
+	sqlite3 $PIDIR/gravity.db < $FINISHED/adlists.sql
 	bash $FINISHED/whitelist_db_update.sh
 	bash $FINISHED/regex_db_updater.sh
 }
