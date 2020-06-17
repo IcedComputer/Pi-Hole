@@ -104,7 +104,7 @@ function whitelists()
 
 function v5Updates()
 {
-	sqlite3 $PIDIR/gravity.db < $FINISHED/adlists.sql
+	sqlite3 /etc/pihole/gravity.db < /scripts/Finished/adlists.sql
 	bash $FINISHED/whitelist_db_update.sh
 	bash $FINISHED/regex_db_updater.sh
 }
