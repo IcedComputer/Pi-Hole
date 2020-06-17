@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## Updated 15 Oct 2019
+## Updated 16 June 2020
 
 #Vars
 
@@ -93,7 +93,6 @@ function whitelists()
 
 	#cleanup
 	rm $TEMPDIR/*.temp
-	rm $TEMPDIR/whitelist.*
 
 }
 
