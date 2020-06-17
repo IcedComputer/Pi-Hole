@@ -1,8 +1,6 @@
 ## Random Other TLD ##
 ## Updated 19 April 2020 ##
 #####
-(^|\.)xn--[a-z0-9]*
-(^|\.)xn--[a-z0-9]*[-_\.]
 (^|\.)XN--11B4C3D$
 (^|\.)XN--1CK2E1B$
 (^|\.)XN--1QQW23A$
@@ -169,7 +167,7 @@
 (^|\.)download$
 (^|\.)faith$
 (^|\.)gdn$
-(^|\.)ic.gov$
+(^|\.)ic\.gov$
 (^|\.)info$
 (^|\.)jetzt$
 (^|\.)kim$
@@ -180,7 +178,7 @@
 (^|\.)luxe$
 (^|\.)men$
 (^|\.)mil$
-(^|\.)mil.gov$
+(^|\.)mil\.gov$
 (^|\.)mom$
 (^|\.)moscow$
 (^|\.)party$
@@ -193,6 +191,7 @@
 (^|\.)review$
 (^|\.)rocks$
 (^|\.)science$
+(^|\.)scloud$
 (^|\.)shop$
 (^|\.)shouji$
 (^|\.)site$
@@ -212,6 +211,8 @@
 (^|\.)work$
 (^|\.)xihuan$
 (^|\.)xin$
+(^|\.)xn--[a-z0-9]*
+(^|\.)xn--[a-z0-9]*[-_\.]
 (^|\.)xyz$
 (^|\.)yandex$
 (^|\.)yokohama$
