@@ -33,7 +33,7 @@ function download()
 
 }
 
-function v5download()
+function download_additional()
 {
 	#for v5
 	
@@ -106,7 +106,7 @@ function whitelists()
 
 }
 
-function v5Updates()
+function updates_additional()
 {
 	sqlite3 $PIDIR/gravity.db < $FINISHED/adlists.sql
 	bash $FINISHED/whitelist_db_update.sh
@@ -114,10 +114,10 @@ function v5Updates()
 }
 
 download
-v5download
+download_additional
 modify
 move
 clean
 scripts
 whitelists
-v5Updates
+updates_additional
