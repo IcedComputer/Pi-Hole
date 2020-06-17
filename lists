@@ -1,10 +1,3 @@
-#http://127.0.0.1/ezlist.txt
-#http://127.0.0.1/openphish_feed.txt
-#http://127.0.0.1/phishtank_feed.txt
-#https://hosts-file.net/psh.txt
-#https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
-#https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/moaAB.txt
-#https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
 http://127.0.0.1/alist.txt
 http://127.0.0.1/bootlist.txt
 https://adaway.org/hosts.txt
@@ -89,7 +82,5 @@ https://v.firebog.net/hosts/Shalla-mal.txt
 https://v.firebog.net/hosts/static/SamsungSmart.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
-#https://www.squidblacklist.org/downloads/dg-ads.acl
-#https://www.squidblacklist.org/downloads/dg-malicious.acl
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist

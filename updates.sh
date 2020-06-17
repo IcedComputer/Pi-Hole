@@ -87,6 +87,8 @@ function whitelists()
 	##Get Whitelists
 	#Public
 	curl -o $TEMPDIR/whitelist.temp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/whitelist.txt'
+	wait
+	curl -o $TEMPDIR/adlist_whitelist.txt.tmp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/addlist_whitelist.txt'
 	#On System
 	cp $PIDIR/whitelist.txt $TEMPDIR/current.wl.temp
 	
@@ -98,7 +100,7 @@ function whitelists()
 
 	##make whitelist
 		#cat $TEMPDIR/current.wl.temp $TEMPDIR/whitelist.temp $TEMPDIR/whitelist.encrypt| sort | uniq > $TEMPDIR/final.wl.temp
-	cat $TEMPDIR/current.wl.temp $TEMPDIR/whitelist.temp | sort | uniq > $TEMPDIR/final.wl.temp
+	cat $TEMPDIR/current.wl.temp $TEMPDIR/whitelist.temp $TEMPDIR/adlist_whitelist.txt.tmp | sort | uniq > $TEMPDIR/final.wl.temp
 	mv $TEMPDIR/final.wl.temp $PIDIR/whitelist.txt
 
 	#cleanup
