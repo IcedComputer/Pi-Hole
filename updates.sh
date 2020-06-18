@@ -65,12 +65,6 @@ function move()
 	
 }
 
-#cleanup
-function clean()
-{
- rm -f $TEMPDIR/regex.*
- sudo systemctl restart cloudflared
-}
 
 function scripts()
 {
@@ -103,8 +97,6 @@ function whitelists()
 	cat $TEMPDIR/current.wl.temp $TEMPDIR/whitelist.temp $TEMPDIR/adlist_whitelist.txt.tmp | sort | uniq > $TEMPDIR/final.wl.temp
 	mv $TEMPDIR/final.wl.temp $PIDIR/whitelist.txt
 
-	#cleanup
-	rm $TEMPDIR/*.temp
 
 }
 
@@ -113,6 +105,14 @@ function updates_additional()
 	sqlite3 $PIDIR/gravity.db < $FINISHED/adlists.sql
 	bash $FINISHED/whitelist_db_update.sh
 	bash $FINISHED/regex_db_updater.sh
+}
+
+#cleanup
+function clean()
+{
+ rm -f $TEMPDIR/regex.*
+ rm -f $TEMPDIR/*.temp
+ sudo systemctl restart cloudflared
 }
 
 download
