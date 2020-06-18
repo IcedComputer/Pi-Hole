@@ -116,10 +116,10 @@ function clean()
 }
 
 download
-download_additional
+#download_additional
 modify
 move
 whitelists
-updates_additional
+#updates_additional
 scripts
 clean
