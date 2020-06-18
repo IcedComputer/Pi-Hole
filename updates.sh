@@ -3,7 +3,7 @@
 ## Updated 17 June 2020
 
 #Vars
-
+FINISHED=/scripts/Finished
 TEMPDIR=/scripts/temp
 PIDIR=/etc/pihole
 
@@ -61,7 +61,7 @@ function move()
 	#adlists.list
 	mv $TEMPDIR/adlists.list $PIDIR/adlists.list
 	mv $TEMPDIR/regex.list  $PIDIR/regex.list
-	mv $TEMPDIR/CFconfig /scripts/Finished/cloudflared
+	mv $TEMPDIR/CFconfig $FINISHED/cloudflared
 	
 }
 
@@ -74,7 +74,7 @@ function clean()
 
 function scripts()
 {
- bash /scripts/Finished/ListUpdater.sh
+ bash $FINISHED/ListUpdater.sh
  wait
  killall -SIGHUP pihole-FTL
  wait
@@ -119,7 +119,7 @@ download
 download_additional
 modify
 move
-clean
-scripts
 whitelists
 updates_additional
+scripts
+clean
