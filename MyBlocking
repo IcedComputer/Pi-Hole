@@ -1,6 +1,6 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 16 June 2020
+## Updated 25 June 2020
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -1064,3 +1064,9 @@
 127.0.0.1 zillow.zendesk.com
 127.0.0.1 zstress.net
 127.0.0.1 zxcvvcxv.com
+
+## New tests as of 6/25
+127.0.0.1 appsrv.display.io
+127.0.0.1 cs1143.wpc.chicdn.net
+127.0.0.1 fcmtoken.googleapis.com
+127.0.0.1 api.parse.buddy.com
