@@ -573,3 +573,27 @@
 (^|\.|-)adsrv.rtbsuperhub.com$
 (^|\.|-)naiadsystems.com$
 (^|\.)2u.com$
+
+#new 2
+(^|\.)bytecdn\.cn$
+(^|\.)bytedance\.((com)|(net))$
+(^|\.)bytedns\.net$
+(^|\.)byteimg\.com$
+(^|\.)byteoversea\.((com)|(net))$
+(^|\.)bytetcdn\.com$
+(^|\.)hypstarcdn\.com$
+(^|\.)ibyte((dtos)|(img))\.com$
+(^|\.)ipstatp\.com$
+(^|\.)isnssdk\.com$
+(^|\.)muscdn\.com$
+(^|\.)musemuse\.cn$
+(^|\.)musical\.ly$
+(^|\.)musical\.ly\.lan$
+(^|\.)myqcloud\.com$
+(^|\.)ovscdns\.net$
+(^|\.)pstatp\.com$
+(^|\.)sgsnssdk\.com$
+(^|\.)snssdk\.com$
+(^|\.)tiktok(cdn)?\.((com)|(org))$
+(^|\.)toutiao\.com$
+(^|\.)worldfcdn\.com$
