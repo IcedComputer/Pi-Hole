@@ -1,4 +1,4 @@
-## Last Updated 27 May 2020 ##
+## Last Updated 01 July 2020 ##
 ## Regex Blacklist ##
 #########
 (.*\.|^)((think)?with)?google($|((adservices|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
@@ -576,24 +576,25 @@
 
 #new 2
 (^|\.)bytecdn\.cn$
-(^|\.)bytedance\.((com)|(net))$
+(^|\.)bytedance(\.|-)
 (^|\.)bytedns\.net$
 (^|\.)byteimg\.com$
-(^|\.)byteoversea\.((com)|(net))$
+(^|\.)byteoversea\.((com)|(net))(\.|-)?
 (^|\.)bytetcdn\.com$
 (^|\.)hypstarcdn\.com$
-(^|\.)ibyte((dtos)|(img))\.com$
+(^|\.)ibyte((dtos)|(img))\.com(\.|-)?
 (^|\.)ipstatp\.com$
-(^|\.)isnssdk\.com$
+(^|\.)isnssdk\.com(\.|-)?
 (^|\.)muscdn\.com$
 (^|\.)musemuse\.cn$
-(^|\.)musical\.ly$
-(^|\.)musical\.ly\.lan$
+(^|\.)musical\.ly(\.|-)?
 (^|\.)myqcloud\.com$
 (^|\.)ovscdns\.net$
 (^|\.)pstatp\.com$
 (^|\.)sgsnssdk\.com$
-(^|\.)snssdk\.com$
-(^|\.)tiktok(cdn)?\.((com)|(org))$
+(^|\.)tiktok((cdn)|(v))?\.((com)|(org))(\.|-)?
+(^|\.)snssdk\.com(\.|-)?
 (^|\.)toutiao\.com$
 (^|\.)worldfcdn\.com$
+(^|\.)tiktokv.com(\.|-)
+(^|\.)zwtianshangm.com
