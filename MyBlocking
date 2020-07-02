@@ -1,6 +1,6 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 25 June 2020
+## Updated 02 July 2020
 
 127.0.0.1 067.cz
 127.0.0.1 0914.global.ssl.fastly.net
@@ -1070,3 +1070,7 @@
 127.0.0.1 cs1143.wpc.chicdn.net
 127.0.0.1 fcmtoken.googleapis.com
 127.0.0.1 api.parse.buddy.com
+
+## New tests as of 7/2
+127.0.0.1 goooooooooooooooooooooooooooooooooooooooogle.com
+127.0.0.1 dns.google.com
