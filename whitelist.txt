@@ -103,3 +103,4 @@ youtube.com
 zeustracker.abuse.ch
 www.duluthtrading.com
 sso.godaddy.com
+spclient.wg.spotify.com
