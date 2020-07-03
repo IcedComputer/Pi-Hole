@@ -1,0 +1,73 @@
+# This adlist is a bit more lax than the standard list used
+# This is largely just security and basic ads
+# Last Updated 03 July 2020
+
+# TikTok (State Sponsored Malware & RAT)
+https://raw.githubusercontent.com/superover/TikTok-Blocklist/master/tiktok.txt
+https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block
+https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt
+
+# Malware & Phishing & Spam Lists
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/MalBlock
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://isc.sans.edu/feeds/suspiciousdomains_High.txt
+https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
+https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
+https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/malwarelist.txt
+https://v.firebog.net/hosts/Prigent-Malware.txt
+https://v.firebog.net/hosts/Prigent-Phishing.txt
+https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/quidsup_malicious-sites/master/domains.list
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://v.firebog.net/hosts/Shalla-mal.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
+https://mirror1.malwaredomains.com/files/justdomains
+https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
+https://www.malwaredomainlist.com/hostslist/hosts.txt
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/f2bblocks
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/all-hosts-files.net_domains
+
+# Smart TV Blocking
+https://v.firebog.net/hosts/static/SamsungSmart.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+
+# Ads
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
+https://gist.githubusercontent.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/raw/87378f77179722c227b7813faddab53df6a38708/blacklist.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/Hosts
+
+# Tracking
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/master/domains.list
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/trackers.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-tracking/list.txt
+
+## Fake News
+https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/fakenews.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+
+# Crypto Mining
+https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt
+
+
+
+
+

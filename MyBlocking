@@ -1,1077 +1,921 @@
 ## A list of tracking sites, malicious sites and other things that likely need to be blocked
 ## MyBlocking
-## Updated 02 July 2020
+## Updated 03 July 2020
 
-127.0.0.1 067.cz
-127.0.0.1 0914.global.ssl.fastly.net
-127.0.0.1 0aqpqdju.me
-127.0.0.1 109114.synergyxpress.com
-127.0.0.1 189229.measurementapi.com
-127.0.0.1 192.168.112.2O7.net
-127.0.0.1 1x1.a-mo.net
-127.0.0.1 2.ecom.attccc.com 
-127.0.0.1 20754664p.rfihub.com
-127.0.0.1 247rtb.com
-127.0.0.1 250analytics.com
-127.0.0.1 3.ecom.attccc.com 
-127.0.0.1 3k47cets51vuu9.wb22f-1c7b.stynjs.tk
-127.0.0.1 4.bp.blogspot.com
-127.0.0.1 50analytics.secureserver.net
-127.0.0.1 5490.engine.mobileapptracking.com
-127.0.0.1 68.media.tumblr.com
-127.0.0.1 69784.measurementapi.com
-127.0.0.1 6tsbe1zs.me
-127.0.0.1 7elements.affise.com
-127.0.0.1 8e81f51f.api.splkmobile.com
-127.0.0.1 Cowner.net
-127.0.0.1 Login.fa151.com
-127.0.0.1 My.vip.ypuxidun.com
-127.0.0.1 Rsload.net
-127.0.0.1 U.teknik.io
-127.0.0.1 a.erogaliv.com
-127.0.0.1 a.kulkerbolda.com
-127.0.0.1 a.singleplatform.com
-127.0.0.1 a.thumbs.redditmedia.com
-127.0.0.1 a.vidora.com
-127.0.0.1 a0a28d3c97a4e566.com
-127.0.0.1 a1.ue.analytics.yql.b.g03.yahoodns.net
-127.0.0.1 a2017-security.com
-127.0.0.1 a23281.actonsoftware.com
-127.0.0.1 aa.agkn.com
-127.0.0.1 aax.amazon-adsystem.amazon.com
-127.0.0.1 aboutads.info
-127.0.0.1 acd-cidra.com	
-127.0.0.1 activity.alibaba.com
-127.0.0.1 ad.admitad.com
-127.0.0.1 ad.cmcm.com
-127.0.0.1 ad.crwdcntrl.com
-127.0.0.1 ad.monetate.net
-127.0.0.1 ad.monetizer.co
-127.0.0.1 adadvalue.offerstrack.net
-127.0.0.1 adap.tv
-127.0.0.1 adbluedigital.com
-127.0.0.1 adbrn.com
-127.0.0.1 adcenter.mobicow.com
-127.0.0.1 adcolony-elb.go2cloud.org
-127.0.0.1 ade.googlesyndication.com
-127.0.0.1 adf-tm.everesttech.net
-127.0.0.1 adfonic.com
-127.0.0.1 admin.woobi.com
-127.0.0.1 admob.googleblog.com
-127.0.0.1 adplatform.vrtcal.com
-127.0.0.1 adpushup.typeform.com
-127.0.0.1 ads-1202260457.us-east-1.elb.amazonaws.com
-127.0.0.1 ads-adseast-vpc.yldbt.com
-127.0.0.1 ads-adseast.yldbt.com
-127.0.0.1 ads.cmcm.com
-127.0.0.1 ads.engagefront.com
-127.0.0.1 ads.everquote.com
-127.0.0.1 ads.freewheel.tv
-127.0.0.1 ads.maxads.io
-127.0.0.1 ads.nexage.akadns.net
-127.0.0.1 ads.revjet.com
-127.0.0.1 ads.rubiconproject.com
-127.0.0.1 ads.samba.tv
-127.0.0.1 ads.serving-technology001.com
-127.0.0.1 ads.sheyear.com
-127.0.0.1 ads.sonataplatform.com
-127.0.0.1 ads.viber.com
-127.0.0.1 ads.www.amazon.com
-127.0.0.1 ads2live.com
-127.0.0.1 adsapi.adsymptotic.com
-127.0.0.1 adsassets.waze.com
-127.0.0.1 adserver.umb.com
-127.0.0.1 adserver.xpanama.net
-127.0.0.1 adservex.media.net
-127.0.0.1 adservice.google.com
-127.0.0.1 adservice.google.com.ph
-127.0.0.1 adsflame.com
-127.0.0.1 adswithsalt.com
-127.0.0.1 adtech.de
-127.0.0.1 adtechjp.com
-127.0.0.1 adtechus.com
-127.0.0.1 adtekmedia.com
-127.0.0.1 advertise.foxnews.com
-127.0.0.1 advertisers.billymob.com
-127.0.0.1 advertising.amazon.com
-127.0.0.1 adx.districtm.ca
-127.0.0.1 affiliate.placed.com
-127.0.0.1 affle.com
-127.0.0.1 africhoice.website	
-127.0.0.1 airbnb.longterm-airbnb.co.uk
-127.0.0.1 alert.com–securitynotice.us
-127.0.0.1 alibabadownload.org
-127.0.0.1 alliance4media.com
-127.0.0.1 alluorine.info
-127.0.0.1 alphonso.tv
-127.0.0.1 amazonadsi-a.akamaihd.net
-127.0.0.1 amazones.com
-127.0.0.1 ameliesporthleven.com	
-127.0.0.1 amoh.2tack.info
-127.0.0.1 ampmetrics.allrecipes.com
-127.0.0.1 ams-ads-creative-assets-na.s3.amazonaws.com
-127.0.0.1 amz.onl
-127.0.0.1 amzn.asia
-127.0.0.1 anionlive.com	
-127.0.0.1 antivirus-out.net
-127.0.0.1 antivirus360.ru
-127.0.0.1 anvhls-jite.cdn.anvato.net
-127.0.0.1 ap-odc.tizenstore.com
-127.0.0.1 api-cointelegraph-com.cdn.ampproject.org
-127.0.0.1 api-profit.com
-127.0.0.1 api.altmetric.com
-127.0.0.1 api.at.getsocial.io
-127.0.0.1 api.buddyplatform.com
-127.0.0.1 api.drift.com
-127.0.0.1 api.permutive.com
-127.0.0.1 api.shopstyle.com
-127.0.0.1 api.whycompete.com
-127.0.0.1 app-3qcmwoxuw2.marketingautomation.services
-127.0.0.1 app-analytics.snapchat.com
-127.0.0.1 app-measurement.com
-127.0.0.1 app-sj10.marketo.com
-127.0.0.1 app-sjh.marketo.com
-127.0.0.1 app.segmetrics.io
-127.0.0.1 apple.com-findlocation.id
-127.0.0.1 apple.com-isupport.in
-127.0.0.1 apple.com-sign.in
-127.0.0.1 apple.com-support.id
-127.0.0.1 apple.comscoreresearch.com
-127.0.0.1 apples.com
-127.0.0.1 apps.bazaarvoice.com
-127.0.0.1 appsamurai.wpengine.com
-127.0.0.1 appsamuraicomblog.disqus.com
-127.0.0.1 ar1d.net
-127.0.0.1 areabis.com
-127.0.0.1 as.2020mustang.com
-127.0.0.1 as.catsnbootsncats2020.com
-127.0.0.1 as.sexad.net
-127.0.0.1 assets-jpcust.jwpsrv.com
-127.0.0.1 assets.bounceexchange.com
-127.0.0.1 assets.guim.co.uk
-127.0.0.1 assets.persona.ly
-127.0.0.1 assets.track.easypost.com
-127.0.0.1 assets.vidora.com
-127.0.0.1 audiusedcar.com
-127.0.0.1 augur.io
-127.0.0.1 autocapital.pw
-127.0.0.1 axiatraders.com
-127.0.0.1 b-graph.facebook.com
-127.0.0.1 b.measuread.com
-127.0.0.1 b.thumbs.redditmedia.com
-127.0.0.1 b823s.com
-127.0.0.1 badges.altmetric.com
-127.0.0.1 badges.twitch.tv
-127.0.0.1 badlandsarts.com	
-127.0.0.1 balancer.wixdns.net
-127.0.0.1 balihoo.aclients.com
-127.0.0.1 bangcreatives.com
-127.0.0.1 bc.pdx.sp-prod.net
-127.0.0.1 bc.sp-prod.net
-127.0.0.1 bdbzq.com
-127.0.0.1 be.wtf
-127.0.0.1 beacon.dropbox.com
-127.0.0.1 beacon.krxd.net
-127.0.0.1 beacons-blackholed.gcp.gvt2.com
-127.0.0.1 beacons.extremereach.io
-127.0.0.1 beacons.gcp.gvt2.com
-127.0.0.1 beginads.com
-127.0.0.1 bestbuy.ca.assist.247-inc.net
-127.0.0.1 bestonpyrolysisplant.com	
-127.0.0.1 besttrackingapps.com
-127.0.0.1 betabooter.com
-127.0.0.1 bhtp.in
-127.0.0.1 bid.contextweb.com
-127.0.0.1 bigsharkmedia.com
-127.0.0.1 bikelawok.com
-127.0.0.1 bleacherreport.com
-127.0.0.1 blog.smaato.com
-127.0.0.1 boomerangberrima.com.au
-127.0.0.1 bowel-dj.date
-127.0.0.1 bpjy.com
-127.0.0.1 bradesco.com.br
-127.0.0.1 brain.foresee.com
-127.0.0.1 buy.tinypass.com
-127.0.0.1 buzzclicks.com
-127.0.0.1 by.marketinghub.opentext.com
-127.0.0.1 c.a.epqog.com
-127.0.0.1 c.a.vghjc.com
-127.0.0.1 c.dfgyw.com
-127.0.0.1 c.hwoxt.com
-127.0.0.1 c.pfgbc.com
-127.0.0.1 c.statcounter.com
-127.0.0.1 c.uzjvh.com
-127.0.0.1 c9msvr1.com
-127.0.0.1 caixa.gov.br
-127.0.0.1 calendar-api.aviasales.ru
-127.0.0.1 cannabisacclimatized.com
-127.0.0.1 cap2017kyoto.sjdf.org
-127.0.0.1 careerpage.multiposting.fr
-127.0.0.1 cas.criteo.com
-127.0.0.1 cash1234.biz
-127.0.0.1 catrg.peer39.com
-127.0.0.1 cderlearn
-127.0.0.1 cdn.88-f.net
-127.0.0.1 cdn.adswizz.com
-127.0.0.1 cdn.atlanticinsights.com
-127.0.0.1 cdn.comparecards.com
-127.0.0.1 cdn.contactatonce.com
-127.0.0.1 cdn.digitalmarketing.citibankonline.com
-127.0.0.1 cdn.doublepimpssl.com
-127.0.0.1 cdn.engine.addroplet.com
-127.0.0.1 cdn.fosterwebmarketing.com
-127.0.0.1 cdn.gotraffic.net
-127.0.0.1 cdn.headwayapp.co
-127.0.0.1 cdn.images.express.co.uk
-127.0.0.1 cdn.inner-active.mobi
-127.0.0.1 cdn.newsapi.com.au
-127.0.0.1 cdn.roiq-vice.ranker.com
-127.0.0.1 cdn.speedcurve.com
-127.0.0.1 cdn.trackjs.com
-127.0.0.1 cdn01.net
-127.0.0.1 cdn01.smartling.com
-127.0.0.1 cdn1.inner-active.mobi
-127.0.0.1 cdn2.inner-active.mobi
-127.0.0.1 cdn2.phunware.com
-127.0.0.1 cdnpps.us
-127.0.0.1 cdsgg.com
-127.0.0.1 celltrackingapps.com
-127.0.0.1 centralcoasttogether.com
-127.0.0.1 centsiblefinance.com	
-127.0.0.1 cf.iadsdk.apple.com
-127.0.0.1 chacomedia.com
-127.0.0.1 chat.api.drift.com
-127.0.0.1 choices-or.trustarc.com
-127.0.0.1 ciaanalytics.wellsfargo.com
-127.0.0.1 cits-tracking-prod.americanexpress.com
-127.0.0.1 ck.lendingtree.com
-127.0.0.1 clean-application.com
-127.0.0.1 clickopon.com
-127.0.0.1 clickserv.basis.net
-127.0.0.1 clicxy.com
-127.0.0.1 client-analytics-service.production.stitchfix.com
-127.0.0.1 client-analytics.braintreegateway.com
-127.0.0.1 client.reactrjs.com
-127.0.0.1 clientmetrics-augmentum.kik.com
-127.0.0.1 clientmetrics.kik.com
-127.0.0.1 clk.apxadtracking.net
-127.0.0.1 clk.taptica.com
-127.0.0.1 cloky-if.date
-127.0.0.1 cloudflare.solutions
-127.0.0.1 cnd-socal.janrain.com
-127.0.0.1 cnd.cookielaw.com
-127.0.0.1 cnn.it
-127.0.0.1 collector-product-insight.thomsonreuters.com
-127.0.0.1 collector-px35v5ygcp.perimeterx.net
-127.0.0.1 collector-pxhyx10rg3.perimeterx.net
-127.0.0.1 com.gethornet.hornet
-127.0.0.1 com.tenjin.ios.api
-127.0.0.1 comcast-www.baynote.net
-127.0.0.1 comcastcom.d1.sc.omtrdc.net
-127.0.0.1 comeconnect.com
-127.0.0.1 community.amztracker.com
-127.0.0.1 con.tent.network
-127.0.0.1 config.88-f.net
-127.0.0.1 connect.facebook.com
-127.0.0.1 connect.facebook.net
-127.0.0.1 connectzone.in
-127.0.0.1 console.adpushup.com
-127.0.0.1 consumernotifynow.com
-127.0.0.1 content.balihoo.com
-127.0.0.1 control.kochava.com
-127.0.0.1 controleng.com
-127.0.0.1 conversation.api.drift.com
-127.0.0.1 convertro.com
-127.0.0.1 corp-mktg.s3.amazonaws.com
-127.0.0.1 corp.com
-127.0.0.1 cortex.vidora.com
-127.0.0.1 cp.abbp1.com
-127.0.0.1 cps-static.rovicorp.com
-127.0.0.1 creative-analytics.crossinstall.io
-127.0.0.1 creativegapminding.com
-127.0.0.1 creditcardguide.com
-127.0.0.1 crossmark-cdn.crossref.org
-127.0.0.1 crsspxl.com
-127.0.0.1 csemag.com
-127.0.0.1 cseo-secure-hardware-telem.servicebus.windows.net
-127.0.0.1 customer.api.drift.com
-127.0.0.1 d.reddit.com
-127.0.0.1 d3a510xmpll7o6.cloudfront.net
-127.0.0.1 d3p8zr0ffa9t17.cloudfront.net
-127.0.0.1 data.dianomi.com
-127.0.0.1 data.tmsapi.com
-127.0.0.1 databooter.com
-127.0.0.1 dcsocialsports.com	
-127.0.0.1 deals.slashdot.org
-127.0.0.1 defenderdevicebiz.biz
-127.0.0.1 deshmedia.com
-127.0.0.1 dev.appboy.com
-127.0.0.1 dev.visualwebsiteoptimizer.com
-127.0.0.1 device-messaging-na.amazon.com
-127.0.0.1 device-metrics-us-2.amazon.com
-127.0.0.1 device-metrics-us.amazon.com
-127.0.0.1 device-metrics-us2.amazon.com
-127.0.0.1 deviceinfo.capitalone.com
-127.0.0.1 devices.carnivalmobile.com
-127.0.0.1 digprjsurvey.amazon.com
-127.0.0.1 dikwdxi.com
-127.0.0.1 dinclinx.com
-127.0.0.1 directeducationcenter.com
-127.0.0.1 discovercard.ugc.bazaarvoice.com
-127.0.0.1 dl.phncdn.com
-127.0.0.1 dlt-beacon.dynatrace-managed.com
-127.0.0.1 doublepimpssl.com
-127.0.0.1 download.prizesbook.online
-127.0.0.1 downloads.mailchimp.com
-127.0.0.1 drawbridge.com
-127.0.0.1 dsp.adzmedia.com
-127.0.0.1 dsx.weather.com
-127.0.0.1 dt.scpge.com
-127.0.0.1 dv.phncdn.com
-127.0.0.1 dyn-beacon.akamaized.net
-127.0.0.1 dzc-v6exp3-ds.metric.ipv6test.com
-127.0.0.1 e-ssl.apsalar.com
-127.0.0.1 e.reddit.com
-127.0.0.1 easysop.net
-127.0.0.1 ec2-52-27-8-169.us-west-2.compute.amazonaws.com
-127.0.0.1 ecfsapi.fcc.gov
-127.0.0.1 echo.internetat.tv
-127.0.0.1 edge.adcolony.top.comcast.net
-127.0.0.1 edge.g.yimg.jp
-127.0.0.1 edge.quantserve.com
-127.0.0.1 edge.static-assets.top.comcast.net
-127.0.0.1 edge.steam-dns-2.top.comcast.net
-127.0.0.1 edge.steam-dns.top.comcast.net
-127.0.0.1 edigitalsurvey.com
-127.0.0.1 editprod.waterfilter.in.ua
-127.0.0.1 efax.pdfregistry.net
-127.0.0.1 effec.tv
-127.0.0.1 effective-ads.com
-127.0.0.1 efprp.com
-127.0.0.1 eggameappa.wonderlandorganicfood.com
-127.0.0.1 elixmedia.com
-127.0.0.1 email.triggermail.io
-127.0.0.1 email.vzwshop.com
-127.0.0.1 emails.insidehornet.com
-127.0.0.1 employmentcalling.com
-127.0.0.1 employmentsearchusa.com
-127.0.0.1 en.yeahmobi.com
-127.0.0.1 enatimedia.com
-127.0.0.1 endpoint1.collection.us2.sumologic.com
-127.0.0.1 engine.addroplet.com
-127.0.0.1 entitlements.jwplayer.com
-127.0.0.1 espreadc04.despreinte.local
-127.0.0.1 essencecannabisdelivery.com
-127.0.0.1 etiqeti.com
-127.0.0.1 eu-odc.tizenstore.com
-127.0.0.1 euclidanalytics.com
-127.0.0.1 events-endpoint-b-1623273513.us-east-1.elb.amazonaws.com
-127.0.0.1 events.bouncex.net
-127.0.0.1 eventtracking.hubapi.com
-127.0.0.1 exelator.com
-127.0.0.1 exostress.in
-127.0.0.1 experience.tinypass.com
-127.0.0.1 fabulousmatadorjackets.com
-127.0.0.1 face2trade.com
-127.0.0.1 fast.getsocial.io
-127.0.0.1 fastclick.net
-127.0.0.1 favywav.com
-127.0.0.1 fdsvtrwda.info
-127.0.0.1 feeds.tmsapi.com
-127.0.0.1 filecoauth.exe
-127.0.0.1 filezilla.freeandgratis.com
-127.0.0.1 film.austinappliancesolutions.us
-127.0.0.1 firebasedynamiclinks-ipv4.googleapis.com
-127.0.0.1 firebasedynamiclinks-ipv6.googleapis.com
-127.0.0.1 firebaselogging-pa.googleapis.com
-127.0.0.1 firebaselogging.googleapis.com
-127.0.0.1 fixdevice.biz
-127.0.0.1 flagshipapi.boomtownroi.com
-127.0.0.1 fnb.co.za
-127.0.0.1 followgram.me
-127.0.0.1 forgrantsmag.eu
-127.0.0.1 fox13now.com
-127.0.0.1 fox2now.com
-127.0.0.1 fox40.com
-127.0.0.1 freeinfosys.com
-127.0.0.1 freerewardcenter.com
-127.0.0.1 funeralforbird.com
-127.0.0.1 gallery.plyexchange.com
-127.0.0.1 gate.server.wajinwajin.com
-127.0.0.1 gateway.foresee.com
-127.0.0.1 gcs-asia-00002.content-storage-upload.googleapis.com
-127.0.0.1 gdaxbtc.com
-127.0.0.1 geo-applefinance-cache.internal.query.g03.yahoodns.net
-127.0.0.1 geo-prod.do.dsp.mp.microsoft.com
-127.0.0.1 geo.mktg.2u.com
-127.0.0.1 geo.paypalobjects.com.akadns.net
-127.0.0.1 geoced.smartadserver.com
-127.0.0.1 geoip.alm.com
-127.0.0.1 geoip.solarleadfactory.com
-127.0.0.1 geolocation.onetrust.com
-127.0.0.1 geoscripts.meredith.services
-127.0.0.1 geriatricsforcaregivers.com
-127.0.0.1 getamoneyadvance.com
-127.0.0.1 gfwsl.geforce.com
-127.0.0.1 gigabiteapp.com
-127.0.0.1 global.proper.io
-127.0.0.1 globalsiteanalytics.com
-127.0.0.1 gn5449-oc-alertra-lb-elb-118551561.us-west-2.elb.amazonaws.com
-127.0.0.1 go.revmobmobileadnetwork.com
-127.0.0.1 go6.mobrain.xyz
-127.0.0.1 golangwq.info
-127.0.0.1 googleadapis.l.google.com
-127.0.0.1 googletagmanager.com
-127.0.0.1 goprimer.com
-127.0.0.1 grandonmedia.com
-127.0.0.1 graph-custom.whisk.com
-127.0.0.1 guessinfosys.com
-127.0.0.1 gwallet.com
-127.0.0.1 happy.hipstarclub.com
-127.0.0.1 happy.luckstarclub.com
-127.0.0.1 headway-widget.net
-127.0.0.1 health.foresee.com
-127.0.0.1 healthguides.cnn.com
-127.0.0.1 healthguides.healthgrades.com
-127.0.0.1 heart.ocn.ne.jp
-127.0.0.1 help.salesforce.com
-127.0.0.1 highspeard.eu
-127.0.0.1 hits-i.iubenda.com
-127.0.0.1 hoffmanbroker.com
-127.0.0.1 holtclark.net
-127.0.0.1 home-hme01-stable-1827399529.us-east-1.elb.amazonaws.com
-127.0.0.1 home.tapjoy.com
-127.0.0.1 homepowerprofits.com
-127.0.0.1 hopper.onelink.me
-127.0.0.1 host.themediaads.com
-127.0.0.1 howmanypizzasdoineed.com
-127.0.0.1 hoxdownload.eu
-127.0.0.1 hstatic.criteo.net
-127.0.0.1 ht-small.centrofiles.com
-127.0.0.1 http.ps
-127.0.0.1 hubeicoal-safety.gov.cn
-127.0.0.1 i.bangassets.com
-127.0.0.1 i.vimeocdn.com
-127.0.0.1 ib-ibi.com
-127.0.0.1 icloud.com-site-log.in
-127.0.0.1 icontent.us
-127.0.0.1 idiagnostics.apple.com
-127.0.0.1 iicdn.com
-127.0.0.1 imageliners.com
-127.0.0.1 img.bidsopt.com
-127.0.0.1 img.bleacherreport.net
-127.0.0.1 imgclck.com
-127.0.0.1 imp2.ads.linkedin.com
-127.0.0.1 in.treasuredata.com
-127.0.0.1 indiaonclick.com
-127.0.0.1 info.cspserver.net
-127.0.0.1 inhealth.cnn.com
-127.0.0.1 innercultivar.com
-127.0.0.1 insights.alphonso.tv
-127.0.0.1 insta.reduct.ru
-127.0.0.1 instabooter.com
-127.0.0.1 instal.com
-127.0.0.1 instantcheckmate.com
-127.0.0.1 int.api.shoppable.co
-127.0.0.1 interactive.guim.co.uk
-127.0.0.1 intljs.rmtag.com
-127.0.0.1 intomore.com
-127.0.0.1 itau.com.br
-127.0.0.1 jabox.ru
-127.0.0.1 jailbreaksiphones.com
-127.0.0.1 jerusalem.netfirms.com
-127.0.0.1 js-api.bytegain.com
-127.0.0.1 js-ssl.bbystatic.com
-127.0.0.1 js.appboycdn.com
-127.0.0.1 js.braintreegateway.com
-127.0.0.1 js.cnbcfm.com
-127.0.0.1 js.driftt.com
-127.0.0.1 js.hs-scripts.com
-127.0.0.1 js.hscta.net
-127.0.0.1 js.hsforms.net
-127.0.0.1 js.intercomcdn.com
-127.0.0.1 js.pusher.com
-127.0.0.1 js.washingtonpost.com
-127.0.0.1 jsc.idealmedia.com
-127.0.0.1 jumptap.com
-127.0.0.1 jungletap.com
-127.0.0.1 jw.salon.com
-127.0.0.1 k5market.com
-127.0.0.1 kargo-blog-dev.disqus.com
-127.0.0.1 kargodfpnew803390365855.s.moatpixel.com
-127.0.0.1 kargovideojstag.s.moatpixel.com
-127.0.0.1 keepass.freeandgratis.com
-127.0.0.1 kelloggsdisplay532610806396.s.moatpixel.com
-127.0.0.1 kfgn8s24-b38e455b9b1034510404951388b5ca1a8aee3e44-sac.d.aa.online-metrix.net
-127.0.0.1 kimia.mobi
-127.0.0.1 kinstruments-measurements.s3-external-1.amazonaws.com
-127.0.0.1 klkviral.org
-127.0.0.1 kobenetwork.com
-127.0.0.1 koi-3qcmwoxuw2.marketingautomation.services
-127.0.0.1 koolmediaoffers.com
-127.0.0.1 kr.ixiaa.com
-127.0.0.1 krasti.us
-127.0.0.1 krg-tracker-production.elasticbeanstalk.com
-127.0.0.1 krnwhyvq.info
-127.0.0.1 krystalkeys.com	
-127.0.0.1 kujath.com
-127.0.0.1 landlordz.site
-127.0.0.1 levels1.com	
-127.0.0.1 liberty4nj.org
-127.0.0.1 lilybrook.ru
-127.0.0.1 linkojager.org
-127.0.0.1 linktest.50mango.com
-127.0.0.1 littjohnwihap.ru
-127.0.0.1 loadbalancer.visitor-analytics.io
-127.0.0.1 log-ingestion.samsungacr.com
-127.0.0.1 logrocket.auth0.com
-127.0.0.1 lt501.tritondigital.com
-127.0.0.1 luckylending.com
-127.0.0.1 luna1.co
-127.0.0.1 lwf.cc.gslb.ic.ac.uk
-127.0.0.1 m-metrics-prod-waf-metrictoggle.aws-stsd.capitalonegslbex.com
-127.0.0.1 m.soojd.com
-127.0.0.1 m2.nsimg.net
-127.0.0.1 mab.chartbeat.com
-127.0.0.1 macys.ugc.bazaarvoice.com
-127.0.0.1 madisonlogic.com
-127.0.0.1 mads.amazon.com
-127.0.0.1 madvertise.com
-127.0.0.1 mail.comeconnect.com
-127.0.0.1 mail.internal-message.app
-127.0.0.1 mail.robyla.com
-127.0.0.1 mail.yahoo.com
-127.0.0.1 mainnet.infura.io
-127.0.0.1 manage.umiqo.com
-127.0.0.1 mancortz.info
-127.0.0.1 market.android.com
-127.0.0.1 market.epom.com
-127.0.0.1 marketing-dev1-us-west-2.turbotax.preprod.a.intuit.com
-127.0.0.1 marketing-image-production.s3.amazonaws.com
-127.0.0.1 marketing-webhooks.generalassemb.ly
-127.0.0.1 marketing.dropbox.com
-127.0.0.1 marketing.triplelift.com
-127.0.0.1 marriott-booking-vacationsbymarriott-com.ezrez.net
-127.0.0.1 mas-ssr-ad.amazon.com
-127.0.0.1 mastersrecipes.com	
-127.0.0.1 media.promogogo.com
-127.0.0.1 media.propellerads.com
-127.0.0.1 mediabarterexchange.com
-127.0.0.1 mediadirectx.com
-127.0.0.1 mediaparade.net
-127.0.0.1 messaging-notifications.api.nytimes.com
-127.0.0.1 meter.actnx.com
-127.0.0.1 metric-agent.i10c.net
-127.0.0.1 metrics1.citibank.com
-127.0.0.1 mind.tweenazine.com
-127.0.0.1 ministryofads.com
-127.0.0.1 mixmadie.com	
-127.0.0.1 ml-links.com
-127.0.0.1 mm74mc.com 
-127.0.0.1 mnfioew.info
-127.0.0.1 mobair.com
-127.0.0.1 mobile.eum-appdynamics.com
-127.0.0.1 mobilefuse.com
-127.0.0.1 mobilemajority.disqus.com
-127.0.0.1 mobilestrike-r0sw2caio29cd5q9thq.netdna-ssl.com
-127.0.0.1 monetizus.com
-127.0.0.1 mortgageapi.zillow.com
-127.0.0.1 mortgagerates.icanbuy.com
-127.0.0.1 mp-app.info
-127.0.0.1 ms-trackingapi.phenompeople.com
-127.0.0.1 ms.m.yelp.my
-127.0.0.1 msales.com
-127.0.0.1 mspy.go2cloud.org
-127.0.0.1 mtalk.google.com
-127.0.0.1 mx.connectzone.in
-127.0.0.1 mx1.connectzone.in
-127.0.0.1 mybbc-analytics.files.bbci.co.uk
-127.0.0.1 mydas.mobi
-127.0.0.1 mydsp.io
-127.0.0.1 mymodule.waterfilter.in.ua
-127.0.0.1 myplan-washington-edu-ads.ltm.uw.edu
-127.0.0.1 n1206adserv.xyz
-127.0.0.1 narusnex.info
-127.0.0.1 native.sharethrough.com
-127.0.0.1 navigetionate.com 
-127.0.0.1 new.as.sexad.net
-127.0.0.1 news-youm7.com 
-127.0.0.1 news.iadsdk.apple.com
-127.0.0.1 newsweek.tumblr.com
-127.0.0.1 nexage.com
-127.0.0.1 nexus-websocket-a.intercom.io
-127.0.0.1 ngkciwmnq.info
-127.0.0.1 ninus.ocn.ne.jp
-127.0.0.1 nkywxx.com
-127.0.0.1 nlhosting.nl
-127.0.0.1 noily-on.date
-127.0.0.1 nootracks.eu
-127.0.0.1 notifications.buildmypinnedsite.com
-127.0.0.1 noxrow.eu
-127.0.0.1 ns1.internal-message.app
-127.0.0.1 ns2.internal-message.app
-127.0.0.1 ns3.microsoftonline-secure-login.com
-127.0.0.1 ns4.microsoftonline-secure-login.com
-127.0.0.1 nvewpvnid.info
-127.0.0.1 nycp-hlb.dvgtm.akadns.net
-127.0.0.1 o.aolcdn.com
-127.0.0.1 obiparujudyritow.biz
-127.0.0.1 oca.telemetry.microsoft.com
-127.0.0.1 ocsp.thawte.com
-127.0.0.1 oda.markitondemand.com
-127.0.0.1 odg-ovd-production-api-1241227770.us-west-2.elb.amazonaws.com
-127.0.0.1 offergold.online
-127.0.0.1 officemtr.com
-127.0.0.1 officesuited.com
-127.0.0.1 oggr.ru
-127.0.0.1 oilandgaseng.com
-127.0.0.1 olive.hosting
-127.0.0.1 one2shoppee.com
-127.0.0.1 operamediaworks.com
-127.0.0.1 opinionstage.com
-127.0.0.1 originalcruisegiveaway.com
-127.0.0.1 ot-geolocation-prod.trafficmanager.net
-127.0.0.1 ovnwislxf.info
-127.0.0.1 p5-dxqx4okgfbvos-jvrpldec23gxenbr-274425-i2-v6exp3-ds.metric.ipv6test.com
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 pages.emailrestaurant.com
-127.0.0.1 pal2me.net
-127.0.0.1 pal4u.net
-127.0.0.1 panama2-scanagente-s1cxu3nc0bhm-1292925718.us-east-1.elb.amazonaws.com
-127.0.0.1 paydayloaneveryday.com
-127.0.0.1 pbdeals.com
-127.0.0.1 pdlloans.com
-127.0.0.1 pe-east.intentiq.com
-127.0.0.1 pe.intentiq.com
-127.0.0.1 pe1.intentiq.com
-127.0.0.1 peer39.com
-127.0.0.1 persona.ly
-127.0.0.1 personalization.bloomberg.com
-127.0.0.1 philadelphia.cbslocal.com
-127.0.0.1 phillateemis.iad-03.braze.com
-127.0.0.1 photorankstatics-a.akamaihd.net
-127.0.0.1 phunware.com
-127.0.0.1 pictela.net
-127.0.0.1 pix11.com
-127.0.0.1 plaimedia.com
-127.0.0.1 plantengineering.com
-127.0.0.1 play.google.com
-127.0.0.1 playable.events
-127.0.0.1 plpmlkdsf.live.fr
-127.0.0.1 polystress.com
-127.0.0.1 portal.startapp.com
-127.0.0.1 portals-static.startapp.com
-127.0.0.1 powertradeprofit.com
-127.0.0.1 pr0gramm.com
-127.0.0.1 premium.96.wix.com
-127.0.0.1 prepaidoptions.mobi
-127.0.0.1 prf.hn
-127.0.0.1 prg.kargo.com
-127.0.0.1 private.directinvesting.com
-127.0.0.1 prod-sb-appanalytics-us1.servicebus.windows.net
-127.0.0.1 prod.bidr.io
-127.0.0.1 progressivebusinesssystems.com
-127.0.0.1 ps.pndsn.com
-127.0.0.1 public.sonataplatform.com
-127.0.0.1 publishers.crunchiemedia.com
-127.0.0.1 pulsemgr.com
-127.0.0.1 pwapi.washingtonpost.com
-127.0.0.1 px.adnxsid.com
-127.0.0.1 px.ads.linkedin.com
-127.0.0.1 px.sp0tliteads.com
-127.0.0.1 pxlscpgecom-a.akamaihd.net
-127.0.0.1 q13fox.com
-127.0.0.1 qsearch-a.akamaihd.net
-127.0.0.1 quezstresser.com
-127.0.0.1 r4xga.x.incapdns.net
-127.0.0.1 raidfourms.com
-127.0.0.1 rainbowanalytics-a.wpdigital.net
-127.0.0.1 readnotify.com
-127.0.0.1 recleague.com	
-127.0.0.1 redirect800.us
-127.0.0.1 regaming.com
-127.0.0.1 registry.api.cnn.io
-127.0.0.1 remoteoilfieldsolutions.com
-127.0.0.1 reports-crashlytics-900287362.us-east-1.elb.amazonaws.com
-127.0.0.1 ritsoperrol.ru
-127.0.0.1 rnfiphone.com
-127.0.0.1 roboinside.me
-127.0.0.1 ronesio.xyz
-127.0.0.1 royalasian.ee
-127.0.0.1 rtbp-pixel.us.metanetwork.net
-127.0.0.1 rules2.aatkit.com
-127.0.0.1 s-adobeanalytics.vice.com
-127.0.0.1 s.salecycle.com
-127.0.0.1 s.w-x.co
-127.0.0.1 s3-1.amazonaws.com
-127.0.0.1 s4.pornolub.xyz
-127.0.0.1 sanfrancisco.cbslocal.com
-127.0.0.1 santander.com.br
-127.0.0.1 scotiabank.com
-127.0.0.1 sdk.persona.ly
-127.0.0.1 secure.bridge2solutions.com.internal-message.app
-127.0.0.1 secure.elavon.com.internal-message.app
-127.0.0.1 secure.expediagroup.com.internal-message.app
-127.0.0.1 secure.marketinghub.opentext.com
-127.0.0.1 secure.rackspace.com.internal-message.app
-127.0.0.1 secure.track2mobile.com
-127.0.0.1 secure.wipro.com.internal-message.app
-127.0.0.1 secureimage.securedataimages.com
-127.0.0.1 securemail.avanade.com.internal-message.app
-127.0.0.1 securemail.capgemini.com.internal-message.app
-127.0.0.1 securemail.cognizant.com.internal-message.app
-127.0.0.1 securemail.greendotcorp.com.internal-message.app
-127.0.0.1 securemail.infosys.com.internal-message.app
-127.0.0.1 securemail.pcm.com.internal-message.app
-127.0.0.1 securemail.searshc.com.internal-message.app
-127.0.0.1 securemail.slalom.com.internal-message.app
-127.0.0.1 securemail.virginpulse.com.internal-message.app
-127.0.0.1 securemail.wipro.com.internal-message.app
-127.0.0.1 selfsigned.ueiwsp.com
-127.0.0.1 sema.cz
-127.0.0.1 sentitlement2.mobile.att.net
-127.0.0.1 server.fuse.analytics-engine.com
-127.0.0.1 servers.skiptherealitors.com
-127.0.0.1 service.gracenote.com
-127.0.0.1 service.weather.microsoft.com
-127.0.0.1 servicenow-godaddy.com
-127.0.0.1 settings-win.data.microsoft.com
-127.0.0.1 sexad.net
-127.0.0.1 shop8d.net
-127.0.0.1 shwarts.tv
-127.0.0.1 sidsidebottom.com
-127.0.0.1 sitebooster.com
-127.0.0.1 siteimproveanalytics.com
-127.0.0.1 slashdot.com
-127.0.0.1 smartasset.com
-127.0.0.1 snap.licdn.com
-127.0.0.1 snapsnapgo.com
-127.0.0.1 solvemedia.com
-127.0.0.1 sonicmedia.com
-127.0.0.1 sosalaboratorio.com	
-127.0.0.1 spartamobile.com
-127.0.0.1 splicky.com
-127.0.0.1 srv-2017-10-23-06.pixel.parsely.com
-127.0.0.1 srv-2017-12-14-05.pixel.parsely.com
-127.0.0.1 srv-2017-12-18-17.pixel.parsely.com
-127.0.0.1 srv.dc-1.net
-127.0.0.1 srv.pixel.parsely.com
-127.0.0.1 ssl.track2mobile.com
-127.0.0.1 sspintrafmsmt.com
-127.0.0.1 sstats.vizergy.com
-127.0.0.1 staging.greatagent.net
-127.0.0.1 star.c10r.facebook.com
-127.0.0.1 stat.ethz.ch
-127.0.0.1 static-adweek-com.cdn.ampproject.org
-127.0.0.1 static.addtoany.com
-127.0.0.1 static.foresee.com
-127.0.0.1 static.intercomassets.com
-127.0.0.1 static.mobzie.com
-127.0.0.1 static.mspy.com
-127.0.0.1 static.parastorage.com
-127.0.0.1 static.persona.ly
-127.0.0.1 static.wixstatic.com
-127.0.0.1 statics-marketingsites-wcus-ms-com.akamaized.net
-127.0.0.1 stats.zotabox.com
-127.0.0.1 status.api.gracenote.com
-127.0.0.1 stimulationserotica.com
-127.0.0.1 sucuri.net
-127.0.0.1 summerhamster.com
-127.0.0.1 sustainablemichigan.org
-127.0.0.1 svist21.cz
-127.0.0.1 sync-tm.everesttech.net
-127.0.0.1 sync1.intentiq.com
-127.0.0.1 t.allitapp.com
-127.0.0.1 t.my.jobs
-127.0.0.1 t1.trackingfall.com
-127.0.0.1 tacoda.at.atwola.com
-127.0.0.1 tag.getdrip.com
-127.0.0.1 tag.segmetrics.io
-127.0.0.1 tagan.adlightning.com
-127.0.0.1 tags.us.onscroll.com
-127.0.0.1 talainine.com
-127.0.0.1 talkable.com
-127.0.0.1 tapestrylabs.com
-127.0.0.1 tapgerine.com
-127.0.0.1 target.mixi.media
-127.0.0.1 targeting.mco.arcpublishing.com
-127.0.0.1 targeting.tgam.arcpublishing.com
-127.0.0.1 targeting.washpost.nile.works
-127.0.0.1 tashabsolutions.xyz
-127.0.0.1 taxi.mktg.2u.com
-127.0.0.1 tealdennen.com	
-127.0.0.1 telemetry-in.battle.net
-127.0.0.1 telemetry.allrecipes.com
-127.0.0.1 telemetry.servers.getgo.com
-127.0.0.1 telemetryhost235.cloudapp.net
-127.0.0.1 test1.diagnostics.monitoring.core.windows.netdummy
-127.0.0.1 thecouponcastle.com
-127.0.0.1 theexpertleverage.com	
-127.0.0.1 theme.co
-127.0.0.1 theonlinebusiness.com
-127.0.0.1 thermofisher.com
-127.0.0.1 thinkgaming.com
-127.0.0.1 thisadsfor.us
-127.0.0.1 tile-service.weather.microsoft.com
-127.0.0.1 time.owlrememberchess.com
-127.0.0.1 titangelx.com
-127.0.0.1 tlx.3lift.com
-127.0.0.1 tmk-secure.smartadserver.com
-127.0.0.1 tr-us.adsmoloco.com
-127.0.0.1 tracedepot-pa.googleapis.com
-127.0.0.1 track.homesconnect.com
-127.0.0.1 track2.sni-dat.com
-127.0.0.1 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
-127.0.0.1 tracker-us.adsmoloco.com
-127.0.0.1 tracking-2.us-east-1.prod.intspot.com
-127.0.0.1 tracking-3.us-east-1.prod.intspot.com
-127.0.0.1 trackinglb-1826511868.us-east-1.elb.amazonaws.com
-127.0.0.1 tradersbrokers.com
-127.0.0.1 traffickingservice.partners.allrecipes.com
-127.0.0.1 travel-pixel-web.us-east-1.trvl-px.com
-127.0.0.1 triplebyte.com
-127.0.0.1 triplelift.com
-127.0.0.1 trk.cp20.com
-127.0.0.1 trksontrks.com
-127.0.0.1 trumpredironstructure.com
-127.0.0.1 trust.com-mobilehealth.biz
-127.0.0.1 trust.com-securitynotice.biz
-127.0.0.1 tt.omtrdc.net
-127.0.0.1 ttd-uswest-match-adsrvr-org-454816348.us-west-1.elb.amazonaws.com
-127.0.0.1 tuan.jinphui.com
-127.0.0.1 tumblr.zendesk.com
-127.0.0.1 tweenazine.com
-127.0.0.1 twer.top
-127.0.0.1 tynt.com
-127.0.0.1 ubmtxe43.tinberpiedie.net
-127.0.0.1 undefined.yelp.systems
-127.0.0.1 unilead.disqus.com
-127.0.0.1 untidyquestion.com
-127.0.0.1 urlfilter2.vmn.net
-127.0.0.1 us-east-1-decisionapi.lift.acquia.com
-127.0.0.1 us-east-adsrv.rtbsuperhub.com
-127.0.0.1 us1.mailchimp.com
-127.0.0.1 us3.admin.mailchimp.com
-127.0.0.1 us7.admin.mailchimp.com
-127.0.0.1 usa.cloud.netacuity.com
-127.0.0.1 uscis.com 
-127.0.0.1 use.fontawesome.com
-127.0.0.1 use.typekit.net
-127.0.0.1 usermatch.krxd.net
-127.0.0.1 usermatch.targeting.unrulymedia.com
-127.0.0.1 usw-lax.adsrvr.org
-127.0.0.1 uswest-analytics.constant.co
-127.0.0.1 ut.iadsdk.apple.com
-127.0.0.1 uy81rb.wraug5vv72b28fch.pro
-127.0.0.1 v.vfgtb.com
-127.0.0.1 v10.vortex-win.data.microsoft.com
-127.0.0.1 v12group.com
-127.0.0.1 v60nf4oj-07af2d997294c9d13728bc088a0be951d09e9403-sac.d.aa.online-metrix.net
-127.0.0.1 v60nf4oj-11f646baa1b82fb1b8eebc76ad842f05d96a06e1-sac.d.aa.online-metrix.net
-127.0.0.1 vastyhealthcarefoundation.com
-127.0.0.1 videotracker.washingtonpost.com
-127.0.0.1 viewcount-1964976613.us-east-1.elb.amazonaws.com
-127.0.0.1 violetataylor.ru
-127.0.0.1 viper.analytics.carbonite.com
-127.0.0.1 viragostudio.com	
-127.0.0.1 virustotal.com
-127.0.0.1 vjs.zencdn.net
-127.0.0.1 voidingwarranties.org	
-127.0.0.1 vungle.com
-127.0.0.1 vzwfindthe8.com
-127.0.0.1 w.usabilla.com
-127.0.0.1 waterfilter.in.ua
-127.0.0.1 watson.telemetry.microsoft.com
-127.0.0.1 weather.api.cnn.io
-127.0.0.1 web-listings.net
-127.0.0.1 web-listingsinc.com
-127.0.0.1 weblistingservices.com
-127.0.0.1 weblistingsinc.net
-127.0.0.1 weblistingsreports.net
-127.0.0.1 webmail.csum.edu
-127.0.0.1 webpanel.sk
-127.0.0.1 webservicescorp.net
-127.0.0.1 websiteservicescorp.com
-127.0.0.1 widget.intercom.io
-127.0.0.1 widgets.tree.com
-127.0.0.1 wilcarobbe.com
-127.0.0.1 wildcard.marketo.com.edgekey.net
-127.0.0.1 wildcard.media.net.edgekey.net
-127.0.0.1 wildcard.peer39.com.edgekey.net
-127.0.0.1 win1710.ipv6.microsoft.com
-127.0.0.1 wingoads.com
-127.0.0.1 workingulf.net
-127.0.0.1 wqnym.adsb4all.com
-127.0.0.1 wradish.com
-127.0.0.1 ws.api.drift.com
-127.0.0.1 ws.batch.com
-127.0.0.1 wv.inner-active.mobi
-127.0.0.1 www-google-analytics.l.google.com
-127.0.0.1 www-googletagmanager.l.google.com
-127.0.0.1 www-shoppable-com-1433464798.us-west-2.elb.amazonaws.com
-127.0.0.1 www.3gporn.biz
-127.0.0.1 www.adatha.com
-127.0.0.1 www.addictivemobility.com
-127.0.0.1 www.adgooroo.com
-127.0.0.1 www.aditic.com
-127.0.0.1 www.admoda.com
-127.0.0.1 www.adpushup.com
-127.0.0.1 www.adstract.com
-127.0.0.1 www.adswithsalt.com
-127.0.0.1 www.adtilt.com
-127.0.0.1 www.adtiming.com
-127.0.0.1 www.adzmedia.com
-127.0.0.1 www.alwayscashloans.com
-127.0.0.1 www.ammuburyqlhsjx.bid
-127.0.0.1 www.amobee.com
-127.0.0.1 www.appnext.com
-127.0.0.1 www.appreciate.mobi
-127.0.0.1 www.autonet.ca
-127.0.0.1 www.azfamily.com
-127.0.0.1 www.backgroundtask.eu
-127.0.0.1 www.bangcreatives.com
-127.0.0.1 www.bb.com.br
-127.0.0.1 www.bbthat.com
-127.0.0.1 www.bidsopt.com
-127.0.0.1 www.bitporno.com
-127.0.0.1 www.black6adv.com
-127.0.0.1 www.britbox.com
-127.0.0.1 www.buzzcity.com
-127.0.0.1 www.cbeebies.com
-127.0.0.1 www.cderlearn.com
-127.0.0.1 www.cellhub.us
-127.0.0.1 www.celtra.com
-127.0.0.1 www.chupamobile.com
-127.0.0.1 www.clickorlando.com
-127.0.0.1 www.cmcm.com
-127.0.0.1 www.comparecards.com
-127.0.0.1 www.controleng.com
-127.0.0.1 www.creditcardexpert.co.uk
-127.0.0.1 www.csemag.com
-127.0.0.1 www.debijenkorf.nl
-127.0.0.1 www.dianomi.com
-127.0.0.1 www.directeducationcenter.com
-127.0.0.1 www.doblevialatam.com
-127.0.0.1 www.drawbrid.com
-127.0.0.1 www.drawbrid.ge
-127.0.0.1 www.drugs.com
-127.0.0.1 www.everyads.com
-127.0.0.1 www.example.net
-127.0.0.1 www.example.org
-127.0.0.1 www.ezmob.com
-127.0.0.1 www.fingertipads.com
-127.0.0.1 www.fmprc.gov.cn
-127.0.0.1 www.getdrip.com
-127.0.0.1 www.go2mobi.com
-127.0.0.1 www.goodlucknow.xyz
-127.0.0.1 www.google-analytics.com
-127.0.0.1 www.googleadservices.com
-127.0.0.1 www.googletagmanager.com
-127.0.0.1 www.googletagservices.com
-127.0.0.1 www.gotinder.com
-127.0.0.1 www.headwaydigital.com
-127.0.0.1 www.healthgrades.com
-127.0.0.1 www.homepowerprofits.com
-127.0.0.1 www.hubeicoal-safety.gov.cn
-127.0.0.1 www.huntmads.com
-127.0.0.1 www.iicdn.com
-127.0.0.1 www.imageliners.com
-127.0.0.1 www.immigrationdirect.com
-127.0.0.1 www.kargo.com
-127.0.0.1 www.kidsafeseal.com
-127.0.0.1 www.kiip.me
-127.0.0.1 www.lansrv020.com
-127.0.0.1 www.magazinedoadesivo.com.br
-127.0.0.1 www.majority.co
-127.0.0.1 www.mastersrecipes.com	
-127.0.0.1 www.milfplay.com
-127.0.0.1 www.millennialmedia.com
-127.0.0.1 www.mnixpixel.com
-127.0.0.1 www.mobilecore.com
-127.0.0.1 www.mobilefuse.com
-127.0.0.1 www.mobiles4all.com
-127.0.0.1 www.mobusi.com
-127.0.0.1 www.mobyaffiliates.com
-127.0.0.1 www.mobzie.com
-127.0.0.1 www.monetizer.co
-127.0.0.1 www.monetizer.com
-127.0.0.1 www.msales.com
-127.0.0.1 www.mspy.com
-127.0.0.1 www.mwxurdlzjbuvh.bid
-127.0.0.1 www.new.alionis.net
-127.0.0.1 www.ogury.co
-127.0.0.1 www.ogury.com
-127.0.0.1 www.oilandgaseng.com
-127.0.0.1 www.onlyformen.nl
-127.0.0.1 www.opinionstage.com
-127.0.0.1 www.parachutedigital.com.au.nicer3.com
-127.0.0.1 www.parachutedigitalmarketing.com.au
-127.0.0.1 www.passionteck.com
-127.0.0.1 www.persona.ly
-127.0.0.1 www.plantengineering.com
-127.0.0.1 www.queuemetrics-live.com
-127.0.0.1 www.raidfourms.com
-127.0.0.1 www.refinancemortgagerates.org
-127.0.0.1 www.sdad.guru
-127.0.0.1 www.shopstyle.com
-127.0.0.1 www.sizmek.com
-127.0.0.1 www.smaato.com
-127.0.0.1 www.splicky.com
-127.0.0.1 www.startapp.com
-127.0.0.1 www.strikead.com
-127.0.0.1 www.summerhamster.com
-127.0.0.1 www.talkable.com
-127.0.0.1 www.tapjoy.com
-127.0.0.1 www.taptapnetworks.com
-127.0.0.1 www.tashabsolutions.xyz
-127.0.0.1 www.theexpertleverage.com	
-127.0.0.1 www.thermofisher.com
-127.0.0.1 www.thg.ru
-127.0.0.1 www.tickets.songkick.com
-127.0.0.1 www.todacell.com
-127.0.0.1 www.torpedo7.co.nz
-127.0.0.1 www.triplelift.com
-127.0.0.1 www.turnerjobs.com
-127.0.0.1 www.tyroo.com
-127.0.0.1 www.unileadnetwork.com
-127.0.0.1 www.urbanconnection.co
-127.0.0.1 www.vserv.com
-127.0.0.1 www.vserv.mobi
-127.0.0.1 www.vungle.com
-127.0.0.1 www.website-hit-counters.com
-127.0.0.1 www.wfsb.com
-127.0.0.1 www.wix.com
-127.0.0.1 www.wooboo.com.cn
-127.0.0.1 www.wxyz.com
-127.0.0.1 www.zergnet.com
-127.0.0.1 x.ss2.us
-127.0.0.1 xd.engagesciences.com
-127.0.0.1 xk4-a.tlnk.io
-127.0.0.1 xv-dns-leaks-debian-production-1236358895.us-east-1.elb.amazonaws.com
-127.0.0.1 xx.dc-1.net
-127.0.0.1 y.analytics.yahoo.com
-127.0.0.1 yahoo.uservoice.com
-127.0.0.1 yahoofinanceamscryptosf.splashthat.com
-127.0.0.1 yastatic.net
-127.0.0.1 yhoo.it
-127.0.0.1 yhoo.itms-trackingapi.phenompeople.com
-127.0.0.1 yrtas.btrll.com
-127.0.0.1 yt3.ggpht.com
-127.0.0.1 ytimg.l.google.com
-127.0.0.1 ywt2xn.win
-127.0.0.1 zahonynet.hu
-127.0.0.1 zenit.io
-127.0.0.1 zillow.zendesk.com
-127.0.0.1 zstress.net
-127.0.0.1 zxcvvcxv.com
-
-## New tests as of 6/25
-127.0.0.1 appsrv.display.io
-127.0.0.1 cs1143.wpc.chicdn.net
-127.0.0.1 fcmtoken.googleapis.com
-127.0.0.1 api.parse.buddy.com
-
-## New tests as of 7/2
-127.0.0.1 goooooooooooooooooooooooooooooooooooooooogle.com
-127.0.0.1 dns.google.com
-127.0.0.1 mail.aol.de
+067.cz
+0914.global.ssl.fastly.net
+0aqpqdju.me
+109114.synergyxpress.com
+192.168.112.2O7.net
+1x1.a-mo.net
+2.ecom.attccc.com 
+20754664p.rfihub.com
+247rtb.com
+250analytics.com
+3.ecom.attccc.com 
+3k47cets51vuu9.wb22f-1c7b.stynjs.tk
+4.bp.blogspot.com
+68.media.tumblr.com
+6tsbe1zs.me
+7elements.affise.com
+8e81f51f.api.splkmobile.com
+Cowner.net
+Login.fa151.com
+My.vip.ypuxidun.com
+Rsload.net
+U.teknik.io
+a.erogaliv.com
+a.kulkerbolda.com
+a.singleplatform.com
+a.thumbs.redditmedia.com
+a.vidora.com
+a0a28d3c97a4e566.com
+a1.ue.analytics.yql.b.g03.yahoodns.net
+a2017-security.com
+a23281.actonsoftware.com
+aa.agkn.com
+aboutads.info
+acd-cidra.com	
+activity.alibaba.com
+affiliate.placed.com
+affle.com
+africhoice.website	
+airbnb.longterm-airbnb.co.uk
+alert.com–securitynotice.us
+alibabadownload.org
+alliance4media.com
+alluorine.info
+alphonso.tv
+amazonadsi-a.akamaihd.net
+amazones.com
+ameliesporthleven.com	
+amoh.2tack.info
+ampmetrics.allrecipes.com
+ams-ads-creative-assets-na.s3.amazonaws.com
+amz.onl
+amzn.asia
+anionlive.com	
+antivirus-out.net
+anvhls-jite.cdn.anvato.net
+ap-odc.tizenstore.com
+api-cointelegraph-com.cdn.ampproject.org
+api-profit.com
+api.altmetric.com
+api.at.getsocial.io
+api.buddyplatform.com
+api.drift.com
+api.parse.buddy.com
+api.permutive.com
+api.shopstyle.com
+api.whycompete.com
+app-3qcmwoxuw2.marketingautomation.services
+app-analytics.snapchat.com
+app-measurement.com
+app-sj10.marketo.com
+app-sjh.marketo.com
+app.segmetrics.io
+apple.com-findlocation.id
+apple.com-isupport.in
+apple.com-sign.in
+apple.com-support.id
+apple.comscoreresearch.com
+apples.com
+apps.bazaarvoice.com
+appsamurai.wpengine.com
+appsamuraicomblog.disqus.com
+appsrv.display.io
+ar1d.net
+areabis.com
+as.2020mustang.com
+as.catsnbootsncats2020.com
+as.sexad.net
+assets-jpcust.jwpsrv.com
+assets.bounceexchange.com
+assets.guim.co.uk
+assets.persona.ly
+assets.vidora.com
+audiusedcar.com
+augur.io
+autocapital.pw
+axiatraders.com
+b-graph.facebook.com
+b.measuread.com
+b.thumbs.redditmedia.com
+b823s.com
+badges.altmetric.com
+badges.twitch.tv
+badlandsarts.com	
+balancer.wixdns.net
+balihoo.aclients.com
+bangcreatives.com
+bc.pdx.sp-prod.net
+bc.sp-prod.net
+bdbzq.com
+be.wtf
+bestonpyrolysisplant.com	
+besttrackingapps.com
+betabooter.com
+bhtp.in
+bid.contextweb.com
+bigsharkmedia.com
+bikelawok.com
+bleacherreport.com
+blog.smaato.com
+boomerangberrima.com.au
+bowel-dj.date
+bpjy.com
+bradesco.com.br
+brain.foresee.com
+buy.tinypass.com
+buzzclicks.com
+by.marketinghub.opentext.com
+c.a.epqog.com
+c.a.vghjc.com
+c.dfgyw.com
+c.hwoxt.com
+c.pfgbc.com
+c.statcounter.com
+c.uzjvh.com
+c9msvr1.com
+caixa.gov.br
+calendar-api.aviasales.ru
+cannabisacclimatized.com
+cap2017kyoto.sjdf.org
+careerpage.multiposting.fr
+cas.criteo.com
+cash1234.biz
+catrg.peer39.com
+cderlearn
+cdn.88-f.net
+cdn.adswizz.com
+cdn.atlanticinsights.com
+cdn.comparecards.com
+cdn.contactatonce.com
+cdn.engine.addroplet.com
+cdn.fosterwebmarketing.com
+cdn.gotraffic.net
+cdn.headwayapp.co
+cdn.images.express.co.uk
+cdn.inner-active.mobi
+cdn.newsapi.com.au
+cdn.roiq-vice.ranker.com
+cdn.speedcurve.com
+cdn.trackjs.com
+cdn01.net
+cdn01.smartling.com
+cdn1.inner-active.mobi
+cdn2.inner-active.mobi
+cdn2.phunware.com
+cdnpps.us
+cdsgg.com
+celltrackingapps.com
+centralcoasttogether.com
+centsiblefinance.com	
+cf.iadsdk.apple.com
+chacomedia.com
+chat.api.drift.com
+choices-or.trustarc.com
+ck.lendingtree.com
+clean-application.com
+clickopon.com
+clickserv.basis.net
+clicxy.com
+client.reactrjs.com
+clk.taptica.com
+cloky-if.date
+cloudflare.solutions
+cnd-socal.janrain.com
+cnd.cookielaw.com
+cnn.it
+com.gethornet.hornet
+com.tenjin.ios.api
+comcast-www.baynote.net
+comcastcom.d1.sc.omtrdc.net
+comeconnect.com
+community.amztracker.com
+con.tent.network
+config.88-f.net
+connect.facebook.com
+connect.facebook.net
+connectzone.in
+console.adpushup.com
+consumernotifynow.com
+content.balihoo.com
+control.kochava.com
+controleng.com
+conversation.api.drift.com
+convertro.com
+corp-mktg.s3.amazonaws.com
+corp.com
+cortex.vidora.com
+cp.abbp1.com
+cps-static.rovicorp.com
+creativegapminding.com
+creditcardguide.com
+crossmark-cdn.crossref.org
+crsspxl.com
+cs1143.wpc.chicdn.net
+csemag.com
+cseo-secure-hardware-telem.servicebus.windows.net
+customer.api.drift.com
+d.reddit.com
+d3a510xmpll7o6.cloudfront.net
+d3p8zr0ffa9t17.cloudfront.net
+data.dianomi.com
+data.tmsapi.com
+databooter.com
+dcsocialsports.com	
+deals.slashdot.org
+defenderdevicebiz.biz
+deshmedia.com
+dev.appboy.com
+dev.visualwebsiteoptimizer.com
+digprjsurvey.amazon.com
+dikwdxi.com
+dinclinx.com
+directeducationcenter.com
+discovercard.ugc.bazaarvoice.com
+dl.phncdn.com
+dns.google.com
+doublepimpssl.com
+download.prizesbook.online
+downloads.mailchimp.com
+drawbridge.com
+dsp.adzmedia.com
+dsx.weather.com
+dt.scpge.com
+dv.phncdn.com
+dyn-beacon.akamaized.net
+dzc-v6exp3-ds.metric.ipv6test.com
+e-ssl.apsalar.com
+e.reddit.com
+easysop.net
+ec2-52-27-8-169.us-west-2.compute.amazonaws.com
+ecfsapi.fcc.gov
+echo.internetat.tv
+edge.adcolony.top.comcast.net
+edge.g.yimg.jp
+edge.quantserve.com
+edge.static-assets.top.comcast.net
+edge.steam-dns-2.top.comcast.net
+edge.steam-dns.top.comcast.net
+edigitalsurvey.com
+editprod.waterfilter.in.ua
+efax.pdfregistry.net
+effec.tv
+effective-ads.com
+efprp.com
+eggameappa.wonderlandorganicfood.com
+elixmedia.com
+email.triggermail.io
+email.vzwshop.com
+emails.insidehornet.com
+employmentcalling.com
+employmentsearchusa.com
+en.yeahmobi.com
+enatimedia.com
+endpoint1.collection.us2.sumologic.com
+engine.addroplet.com
+entitlements.jwplayer.com
+espreadc04.despreinte.local
+essencecannabisdelivery.com
+etiqeti.com
+eu-odc.tizenstore.com
+euclidanalytics.com
+events-endpoint-b-1623273513.us-east-1.elb.amazonaws.com
+events.bouncex.net
+exelator.com
+exostress.in
+experience.tinypass.com
+fabulousmatadorjackets.com
+face2trade.com
+fast.getsocial.io
+fastclick.net
+favywav.com
+fcmtoken.googleapis.com
+fdsvtrwda.info
+feeds.tmsapi.com
+filecoauth.exe
+filezilla.freeandgratis.com
+film.austinappliancesolutions.us
+firebasedynamiclinks-ipv4.googleapis.com
+firebasedynamiclinks-ipv6.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
+fixdevice.biz
+flagshipapi.boomtownroi.com
+fnb.co.za
+followgram.me
+forgrantsmag.eu
+fox13now.com
+fox2now.com
+fox40.com
+freeinfosys.com
+freerewardcenter.com
+funeralforbird.com
+gallery.plyexchange.com
+gate.server.wajinwajin.com
+gateway.foresee.com
+gcs-asia-00002.content-storage-upload.googleapis.com
+gdaxbtc.com
+geo-applefinance-cache.internal.query.g03.yahoodns.net
+geo-prod.do.dsp.mp.microsoft.com
+geo.mktg.2u.com
+geo.paypalobjects.com.akadns.net
+geoced.smartadserver.com
+geoip.alm.com
+geoip.solarleadfactory.com
+geolocation.onetrust.com
+geoscripts.meredith.services
+geriatricsforcaregivers.com
+getamoneyadvance.com
+gfwsl.geforce.com
+gigabiteapp.com
+global.proper.io
+globalsiteanalytics.com
+gn5449-oc-alertra-lb-elb-118551561.us-west-2.elb.amazonaws.com
+go.revmobmobileadnetwork.com
+go6.mobrain.xyz
+golangwq.info
+googleadapis.l.google.com
+googletagmanager.com
+goprimer.com
+grandonmedia.com
+graph-custom.whisk.com
+guessinfosys.com
+gwallet.com
+happy.hipstarclub.com
+happy.luckstarclub.com
+headway-widget.net
+health.foresee.com
+healthguides.cnn.com
+healthguides.healthgrades.com
+heart.ocn.ne.jp
+help.salesforce.com
+highspeard.eu
+hits-i.iubenda.com
+hoffmanbroker.com
+holtclark.net
+home-hme01-stable-1827399529.us-east-1.elb.amazonaws.com
+home.tapjoy.com
+homepowerprofits.com
+hopper.onelink.me
+host.themediaads.com
+howmanypizzasdoineed.com
+hoxdownload.eu
+hstatic.criteo.net
+ht-small.centrofiles.com
+http.ps
+hubeicoal-safety.gov.cn
+i.bangassets.com
+i.vimeocdn.com
+ib-ibi.com
+icloud.com-site-log.in
+icontent.us
+idiagnostics.apple.com
+iicdn.com
+imageliners.com
+img.bidsopt.com
+img.bleacherreport.net
+imgclck.com
+in.treasuredata.com
+indiaonclick.com
+info.cspserver.net
+inhealth.cnn.com
+innercultivar.com
+insights.alphonso.tv
+insta.reduct.ru
+instabooter.com
+instal.com
+instantcheckmate.com
+int.api.shoppable.co
+interactive.guim.co.uk
+intljs.rmtag.com
+intomore.com
+itau.com.br
+jabox.ru
+jailbreaksiphones.com
+jerusalem.netfirms.com
+js-api.bytegain.com
+js-ssl.bbystatic.com
+js.appboycdn.com
+js.braintreegateway.com
+js.cnbcfm.com
+js.driftt.com
+js.hs-scripts.com
+js.hscta.net
+js.hsforms.net
+js.intercomcdn.com
+js.pusher.com
+js.washingtonpost.com
+jsc.idealmedia.com
+jumptap.com
+jungletap.com
+jw.salon.com
+k5market.com
+kargo-blog-dev.disqus.com
+kargodfpnew803390365855.s.moatpixel.com
+kargovideojstag.s.moatpixel.com
+keepass.freeandgratis.com
+kelloggsdisplay532610806396.s.moatpixel.com
+kfgn8s24-b38e455b9b1034510404951388b5ca1a8aee3e44-sac.d.aa.online-metrix.net
+kimia.mobi
+kinstruments-measurements.s3-external-1.amazonaws.com
+klkviral.org
+kobenetwork.com
+koi-3qcmwoxuw2.marketingautomation.services
+koolmediaoffers.com
+kr.ixiaa.com
+krasti.us
+krg-tracker-production.elasticbeanstalk.com
+krnwhyvq.info
+krystalkeys.com	
+kujath.com
+landlordz.site
+levels1.com	
+liberty4nj.org
+lilybrook.ru
+linkojager.org
+linktest.50mango.com
+littjohnwihap.ru
+loadbalancer.visitor-analytics.io
+log-ingestion.samsungacr.com
+logrocket.auth0.com
+lt501.tritondigital.com
+luckylending.com
+luna1.co
+lwf.cc.gslb.ic.ac.uk
+m.soojd.com
+m2.nsimg.net
+mab.chartbeat.com
+macys.ugc.bazaarvoice.com
+madisonlogic.com
+mads.amazon.com
+madvertise.com
+mail.comeconnect.com
+mail.internal-message.app
+mail.robyla.com
+mail.yahoo.com
+mainnet.infura.io
+manage.umiqo.com
+mancortz.info
+mediaparade.net
+messaging-notifications.api.nytimes.com
+meter.actnx.com
+mind.tweenazine.com
+ministryofads.com
+mixmadie.com	
+ml-links.com
+mm74mc.com 
+mnfioew.info
+mobair.com
+mobile.eum-appdynamics.com
+mobilefuse.com
+mobilemajority.disqus.com
+mobilestrike-r0sw2caio29cd5q9thq.netdna-ssl.com
+monetizus.com
+mortgageapi.zillow.com
+mortgagerates.icanbuy.com
+mp-app.info
+ms.m.yelp.my
+msales.com
+mspy.go2cloud.org
+mtalk.google.com
+mx.connectzone.in
+mx1.connectzone.in
+mybbc-analytics.files.bbci.co.uk
+mydas.mobi
+mydsp.io
+mymodule.waterfilter.in.ua
+myplan-washington-edu-ads.ltm.uw.edu
+n1206adserv.xyz
+narusnex.info
+native.sharethrough.com
+navigetionate.com 
+new.as.sexad.net
+news-youm7.com 
+news.iadsdk.apple.com
+newsweek.tumblr.com
+nexage.com
+nexus-websocket-a.intercom.io
+ngkciwmnq.info
+ninus.ocn.ne.jp
+nkywxx.com
+nlhosting.nl
+noily-on.date
+nootracks.eu
+notifications.buildmypinnedsite.com
+noxrow.eu
+nvewpvnid.info
+nycp-hlb.dvgtm.akadns.net
+o.aolcdn.com
+obiparujudyritow.biz
+oca.telemetry.microsoft.com
+ocsp.thawte.com
+oda.markitondemand.com
+odg-ovd-production-api-1241227770.us-west-2.elb.amazonaws.com
+offergold.online
+officemtr.com
+officesuited.com
+oggr.ru
+oilandgaseng.com
+olive.hosting
+one2shoppee.com
+operamediaworks.com
+opinionstage.com
+originalcruisegiveaway.com
+ot-geolocation-prod.trafficmanager.net
+ovnwislxf.info
+p5-dxqx4okgfbvos-jvrpldec23gxenbr-274425-i2-v6exp3-ds.metric.ipv6test.com
+pagead2.googlesyndication.com
+pages.emailrestaurant.com
+pal2me.net
+pal4u.net
+panama2-scanagente-s1cxu3nc0bhm-1292925718.us-east-1.elb.amazonaws.com
+paydayloaneveryday.com
+pbdeals.com
+pdlloans.com
+pe-east.intentiq.com
+pe.intentiq.com
+pe1.intentiq.com
+peer39.com
+persona.ly
+personalization.bloomberg.com
+philadelphia.cbslocal.com
+phillateemis.iad-03.braze.com
+photorankstatics-a.akamaihd.net
+phunware.com
+pictela.net
+pix11.com
+plaimedia.com
+plantengineering.com
+play.google.com
+playable.events
+plpmlkdsf.live.fr
+polystress.com
+portal.startapp.com
+portals-static.startapp.com
+powertradeprofit.com
+pr0gramm.com
+premium.96.wix.com
+prepaidoptions.mobi
+prf.hn
+prg.kargo.com
+private.directinvesting.com
+prod-sb-appanalytics-us1.servicebus.windows.net
+prod.bidr.io
+progressivebusinesssystems.com
+ps.pndsn.com
+public.sonataplatform.com
+publishers.crunchiemedia.com
+pulsemgr.com
+pwapi.washingtonpost.com
+px.adnxsid.com
+px.ads.linkedin.com
+px.sp0tliteads.com
+pxlscpgecom-a.akamaihd.net
+q13fox.com
+qsearch-a.akamaihd.net
+quezstresser.com
+r4xga.x.incapdns.net
+raidfourms.com
+rainbowanalytics-a.wpdigital.net
+readnotify.com
+recleague.com	
+redirect800.us
+regaming.com
+registry.api.cnn.io
+remoteoilfieldsolutions.com
+reports-crashlytics-900287362.us-east-1.elb.amazonaws.com
+ritsoperrol.ru
+rnfiphone.com
+roboinside.me
+ronesio.xyz
+rtbp-pixel.us.metanetwork.net
+rules2.aatkit.com
+s-adobeanalytics.vice.com
+s.salecycle.com
+s.w-x.co
+s3-1.amazonaws.com
+s4.pornolub.xyz
+sanfrancisco.cbslocal.com
+santander.com.br
+scotiabank.com
+sdk.persona.ly
+selfsigned.ueiwsp.com
+sema.cz
+sentitlement2.mobile.att.net
+server.fuse.analytics-engine.com
+servers.skiptherealitors.com
+service.gracenote.com
+service.weather.microsoft.com
+servicenow-godaddy.com
+settings-win.data.microsoft.com
+sexad.net
+shop8d.net
+shwarts.tv
+sidsidebottom.com
+sitebooster.com
+siteimproveanalytics.com
+slashdot.com
+smartasset.com
+snap.licdn.com
+snapsnapgo.com
+solvemedia.com
+sonicmedia.com
+sosalaboratorio.com	
+spartamobile.com
+splicky.com
+srv.dc-1.net
+sspintrafmsmt.com
+sstats.vizergy.com
+staging.greatagent.net
+star.c10r.facebook.com
+stat.ethz.ch
+static-adweek-com.cdn.ampproject.org
+static.addtoany.com
+static.foresee.com
+static.intercomassets.com
+static.mobzie.com
+static.mspy.com
+static.parastorage.com
+static.persona.ly
+static.wixstatic.com
+statics-marketingsites-wcus-ms-com.akamaized.net
+stats.zotabox.com
+status.api.gracenote.com
+stimulationserotica.com
+sucuri.net
+summerhamster.com
+sustainablemichigan.org
+svist21.cz
+sync-tm.everesttech.net
+sync1.intentiq.com
+t.allitapp.com
+t.my.jobs
+t1.trackingfall.com
+tacoda.at.atwola.com
+tag.getdrip.com
+tag.segmetrics.io
+tagan.adlightning.com
+tags.us.onscroll.com
+talainine.com
+talkable.com
+tapestrylabs.com
+tapgerine.com
+tashabsolutions.xyz
+taxi.mktg.2u.com
+tealdennen.com	
+test1.diagnostics.monitoring.core.windows.netdummy
+thecouponcastle.com
+theexpertleverage.com	
+theme.co
+theonlinebusiness.com
+thermofisher.com
+thinkgaming.com
+thisadsfor.us
+tile-service.weather.microsoft.com
+time.owlrememberchess.com
+titangelx.com
+tlx.3lift.com
+tmk-secure.smartadserver.com
+tr-us.adsmoloco.com
+tracedepot-pa.googleapis.com
+track.homesconnect.com
+track2.sni-dat.com
+tradersbrokers.com
+traffickingservice.partners.allrecipes.com
+travel-pixel-web.us-east-1.trvl-px.com
+triplebyte.com
+triplelift.com
+trk.cp20.com
+trksontrks.com
+trumpredironstructure.com
+tt.omtrdc.net
+ttd-uswest-match-adsrvr-org-454816348.us-west-1.elb.amazonaws.com
+tuan.jinphui.com
+tumblr.zendesk.com
+tweenazine.com
+twer.top
+tynt.com
+ubmtxe43.tinberpiedie.net
+undefined.yelp.systems
+unilead.disqus.com
+untidyquestion.com
+urlfilter2.vmn.net
+us-east-1-decisionapi.lift.acquia.com
+us-east-adsrv.rtbsuperhub.com
+us1.mailchimp.com
+us3.admin.mailchimp.com
+us7.admin.mailchimp.com
+usa.cloud.netacuity.com
+uscis.com 
+use.fontawesome.com
+use.typekit.net
+usermatch.krxd.net
+usermatch.targeting.unrulymedia.com
+usw-lax.adsrvr.org
+uswest-analytics.constant.co
+ut.iadsdk.apple.com
+uy81rb.wraug5vv72b28fch.pro
+v.vfgtb.com
+v10.vortex-win.data.microsoft.com
+v12group.com
+v60nf4oj-07af2d997294c9d13728bc088a0be951d09e9403-sac.d.aa.online-metrix.net
+v60nf4oj-11f646baa1b82fb1b8eebc76ad842f05d96a06e1-sac.d.aa.online-metrix.net
+vastyhealthcarefoundation.com
+videotracker.washingtonpost.com
+viewcount-1964976613.us-east-1.elb.amazonaws.com
+violetataylor.ru
+viper.analytics.carbonite.com
+viragostudio.com	
+virustotal.com
+vjs.zencdn.net
+voidingwarranties.org	
+vungle.com
+vzwfindthe8.com
+w.usabilla.com
+waterfilter.in.ua
+watson.telemetry.microsoft.com
+weather.api.cnn.io
+web-listings.net
+web-listingsinc.com
+weblistingservices.com
+weblistingsinc.net
+weblistingsreports.net
+webmail.csum.edu
+webpanel.sk
+webservicescorp.net
+websiteservicescorp.com
+widget.intercom.io
+widgets.tree.com
+wilcarobbe.com
+wildcard.marketo.com.edgekey.net
+wildcard.media.net.edgekey.net
+wildcard.peer39.com.edgekey.net
+win1710.ipv6.microsoft.com
+wingoads.com
+workingulf.net
+wqnym.adsb4all.com
+wradish.com
+ws.api.drift.com
+ws.batch.com
+wv.inner-active.mobi
+www-google-analytics.l.google.com
+www-googletagmanager.l.google.com
+www-shoppable-com-1433464798.us-west-2.elb.amazonaws.com
+www.3gporn.biz
+www.adatha.com
+www.addictivemobility.com
+www.adgooroo.com
+www.aditic.com
+www.admoda.com
+www.adpushup.com
+www.adstract.com
+www.adswithsalt.com
+www.adtilt.com
+www.adtiming.com
+www.adzmedia.com
+www.alwayscashloans.com
+www.ammuburyqlhsjx.bid
+www.amobee.com
+www.appnext.com
+www.appreciate.mobi
+www.autonet.ca
+www.azfamily.com
+www.backgroundtask.eu
+www.bangcreatives.com
+www.bb.com.br
+www.bbthat.com
+www.bidsopt.com
+www.bitporno.com
+www.black6adv.com
+www.britbox.com
+www.buzzcity.com
+www.cbeebies.com
+www.cderlearn.com
+www.cellhub.us
+www.celtra.com
+www.chupamobile.com
+www.clickorlando.com
+www.cmcm.com
+www.comparecards.com
+www.controleng.com
+www.creditcardexpert.co.uk
+www.csemag.com
+www.debijenkorf.nl
+www.dianomi.com
+www.directeducationcenter.com
+www.doblevialatam.com
+www.drawbrid.com
+www.drawbrid.ge
+www.drugs.com
+www.everyads.com
+www.example.net
+www.example.org
+www.ezmob.com
+www.fingertipads.com
+www.fmprc.gov.cn
+www.getdrip.com
+www.go2mobi.com
+www.goodlucknow.xyz
+www.google-analytics.com
+www.googleadservices.com
+www.googletagmanager.com
+www.googletagservices.com
+www.gotinder.com
+www.headwaydigital.com
+www.healthgrades.com
+www.homepowerprofits.com
+www.hubeicoal-safety.gov.cn
+www.huntmads.com
+www.iicdn.com
+www.imageliners.com
+www.immigrationdirect.com
+www.kargo.com
+www.kidsafeseal.com
+www.kiip.me
+www.lansrv020.com
+www.magazinedoadesivo.com.br
+www.majority.co
+www.mastersrecipes.com	
+www.milfplay.com
+www.millennialmedia.com
+www.mnixpixel.com
+www.mobilecore.com
+www.mobilefuse.com
+www.mobiles4all.com
+www.mobusi.com
+www.mobyaffiliates.com
+www.mobzie.com
+www.monetizer.co
+www.monetizer.com
+www.msales.com
+www.mspy.com
+www.mwxurdlzjbuvh.bid
+www.new.alionis.net
+www.ogury.co
+www.ogury.com
+www.oilandgaseng.com
+www.onlyformen.nl
+www.opinionstage.com
+www.parachutedigital.com.au.nicer3.com
+www.parachutedigitalmarketing.com.au
+www.passionteck.com
+www.persona.ly
+www.plantengineering.com
+www.queuemetrics-live.com
+www.raidfourms.com
+www.refinancemortgagerates.org
+www.sdad.guru
+www.shopstyle.com
+www.sizmek.com
+www.smaato.com
+www.splicky.com
+www.startapp.com
+www.strikead.com
+www.summerhamster.com
+www.talkable.com
+www.tapjoy.com
+www.taptapnetworks.com
+www.tashabsolutions.xyz
+www.theexpertleverage.com	
+www.thermofisher.com
+www.thg.ru
+www.tickets.songkick.com
+www.todacell.com
+www.torpedo7.co.nz
+www.triplelift.com
+www.turnerjobs.com
+www.tyroo.com
+www.unileadnetwork.com
+www.urbanconnection.co
+www.vserv.com
+www.vserv.mobi
+www.vungle.com
+www.website-hit-counters.com
+www.wfsb.com
+www.wix.com
+www.wooboo.com.cn
+www.wxyz.com
+www.zergnet.com
+x.ss2.us
+xd.engagesciences.com
+xk4-a.tlnk.io
+xv-dns-leaks-debian-production-1236358895.us-east-1.elb.amazonaws.com
+xx.dc-1.net
+y.analytics.yahoo.com
+yahoo.uservoice.com
+yahoofinanceamscryptosf.splashthat.com
+yastatic.net
+yhoo.it
+yhoo.itms-trackingapi.phenompeople.com
+yrtas.btrll.com
+yt3.ggpht.com
+ytimg.l.google.com
+ywt2xn.win
+zahonynet.hu
+zenit.io
+zillow.zendesk.com
+zstress.net
+zxcvvcxv.com

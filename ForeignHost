@@ -5,10 +5,10 @@
 
 127.0.0.1 abc13.com
 127.0.0.1 ac.opentable.com
+127.0.0.1 af-music-prod.betc.fr
 127.0.0.1 alexa.amazon.co.uk
 127.0.0.1 alexa.amazon.fr
 127.0.0.1 alexa.amazon.it
-127.0.0.1 amazon.ca
 127.0.0.1 amazon.ca
 127.0.0.1 amazon.cn
 127.0.0.1 amazon.co.jp
@@ -51,7 +51,6 @@
 127.0.0.1 downdetector.co.nz
 127.0.0.1 downdetector.co.uk
 127.0.0.1 downdetector.co.za
-127.0.0.1 downdetector.com
 127.0.0.1 downdetector.com.ar
 127.0.0.1 downdetector.dk
 127.0.0.1 downdetector.es
@@ -122,6 +121,7 @@
 127.0.0.1 m.yelp.pl
 127.0.0.1 m.yelp.pt
 127.0.0.1 m.yelp.se
+127.0.0.1 mail.aol.de
 127.0.0.1 maps.google.ca
 127.0.0.1 maps.google.ch
 127.0.0.1 maps.google.co.jp
@@ -287,4 +287,3 @@
 127.0.0.1 za.linkedin.com
 127.0.0.1 zh.m.yelp.com.hk
 127.0.0.1 zh.yelp.com.hk
-127.0.0.1 af-music-prod.betc.fr
