@@ -1,4 +1,4 @@
-## Last Updated 01 July 2020 ##
+## Last Updated 03 July 2020 ##
 ## Regex Blacklist ##
 #########
 (.*\.|^)((think)?with)?google($|((adservices|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
@@ -38,33 +38,16 @@
 (^|\.|-)aakit\.com$
 (^|\.|-)acrcloud\.com$
 (^|\.|-)ad(x|v)?[0-9]*[-_\.]
-(^|\.|-)adacts\.com$
-(^|\.|-)adblade\.com$
-(^|\.|-)adclickservice\.com$
-(^|\.|-)adcolony\.com$
 (^|\.|-)addressinggifts\.in$
-(^|\.|-)adfo((nic)|(rm))\.net$
-(^|\.|-)adfront\.org$
 (^|\.|-)adiquity\.com$
 (^|\.|-)adition\.com$
-(^|\.|-)adjust\.com$
-(^|\.|-)adk2x?\.com?$
-(^|\.|-)adkmob\.com$
-(^|\.|-)adluxe\.ru$
-(^|\.|-)adnxs\.com$
 (^|\.|-)ado((cean)|(hana)|(tmob))\.((pl)|(com))$
-(^|\.|-)adrise\.tv$
-(^|\.|-)adroll\.com$
-(^|\.|-)adrunnr\.com$
-(^|\.|-)ads?((cale)|(cat))[-_\.]
 (^|\.|-)ads?[0-9]*[-_\.]
 (^|\.|-)adsafeprotected\.com$
 (^|\.|-)adse?rv(e(rs?)?|ices?)?[0-9]*[-_\.]
 (^|\.|-)adsp\.ruce\.com$
 (^|\.|-)adsrvr\.org$
 (^|\.|-)adswizz\.com$
-(^|\.|-)adtech((us)|(jp))?[-_\.]
-(^|\.|-)adups\.((com)|(net))$
 (^|\.|-)adventurefeeds\.com$
 (^|\.|-)adviva\.net$
 (^|\.|-)adzmedia\.com$
@@ -222,7 +205,6 @@
 (^|\.|-)flirtcafe\.de$
 (^|\.|-)flurry\.com$
 (^|\.|-)focalink\.com$
-(^|\.|-)footprintdns\.com$
 (^|\.|-)for((ce)|(see))\.com$
 (^|\.|-)free-counter\.co\.uk$
 (^|\.|-)freshmarketer\.com$
@@ -265,7 +247,6 @@
 (^|\.|-)impressionmonster\.com$
 (^|\.|-)imprev\.net
 (^|\.|-)imrworldwide\.com
-(^|\.|-)imrworldwide\.com$
 (^|\.|-)indeed\.com$
 (^|\.|-)info-apps\.xyz$
 (^|\.|-)innovid\.com$
@@ -313,7 +294,7 @@
 (^|\.|-)localytics\.com$
 (^|\.|-)location(-services?)?[-_\.]
 (^|\.|-)locators?\.
-(^|\.|-)logfiles(.*)\.zoom\.us
+(^|\.|-)logfiles(.*)\.zoom\.
 (^|\.|-)logrocket\.com$
 (^|\.|-)lot-1-u\.com$
 (^|\.|-)love4single\.com$
@@ -340,7 +321,6 @@
 (^|\.|-)moatads\.com$
 (^|\.|-)mobfox\.com$
 (^|\.|-)mobile(click)?offer(type)?\.com$
-(^|\.|-)mobileanalytics[-_\.]
 (^|\.|-)mobo((genie)|(promo)\.((com)|(biz))$
 (^|\.|-)moengage\.com$
 (^|\.|-)monetizer?\[-_\.]
@@ -395,13 +375,9 @@
 (^|\.|-)police\.((com)|(net))$
 (^|\.|-)polyfill\.io$
 (^|\.|-)poptm\.com$
-(^|\.|-)popupad\.net$
-(^|\.|-)pornmd\.phncdn\.com$
+(^|\.|-)popupad\.
 (^|\.|-)preisauswahl\.club$
 (^|\.|-)pro-market\.net$
-(^|\.|-)pubmatic\.com$
-(^|\.|-)pubnative\.net$
-(^|\.|-)pubnub\.com$
 (^|\.|-)puserving\.com$
 (^|\.|-)pushcrew\.com$
 (^|\.|-)pushsissmc\.com$
@@ -411,8 +387,6 @@
 (^|\.|-)quasargaming?\.com$
 (^|\.|-)quebec-bin\.com$
 (^|\.|-)rayjump\.com$
-(^|\.|-)real-prizes\.de$
-(^|\.|-)reallifecam\.com$
 (^|\.|-)redshell\.io$
 (^|\.|-)releaseyourreturns\.com$
 (^|\.|-)reporo\.net$
@@ -431,19 +405,17 @@
 (^|\.|-)salemove\.com$
 (^|\.|-)samsung(otn|grm)\.net$
 (^|\.|-)scientificrevenue\.com$
-(^|\.|-)scorecardresearch\.com$
+(^|\.|-)scorecardresearch\.com
 (^|\.|-)select-reward\.club$
 (^|\.|-)servedbyopenx\.com
 (^|\.|-)sessioncam\.com$
 (^|\.|-)seventynine\.mobi$
-(^|\.|-)sexfriendfinder\.club$
+(^|\.|-)sexfriendfinder\.
 (^|\.|-)sexybabesx\.com$
 (^|\.|-)sftapi\.com$
-(^|\.|-)sharethis\.com$
-(^|\.|-)sharethrough\.com$
-(^|\.|-)silverpush\.com?$
+(^|\.|-)silverpush[-_\.]
 (^|\.|-)sind\.da$
-(^|\.|-)site(meter|count)\.com$
+(^|\.|-)site(meter|count)[-_\.]
 (^|\.|-)siteintercept[-_\.]
 (^|\.|-)skimresources\.com$
 (^|\.|-)sleeknote\.com$
@@ -454,15 +426,9 @@
 (^|\.|-)soflopxl\.com$
 (^|\.|-)solvemedia\.com$
 (^|\.|-)specialprizes\.club$
-(^|\.|-)specificclick\.net$
-(^|\.|-)specificmedia\.com$
 (^|\.|-)sponsorpay\.com$
 (^|\.|-)spot(ad)?\.((im)|(com))$
 (^|\.|-)spring((er)|(serve))\.com$
-(^|\.|-)spy(f|p)h?one[-_\.]
-(^|\.|-)spyhuman[-_\.]
-(^|\.|-)spylog\.com$
-(^|\.|-)spymasterpro[-_\.]
 (^|\.|-)stake7\.com$
 (^|\.|-)stargames\.com$
 (^|\.|-)startapp(exchange|network|service)\.com
@@ -544,7 +510,7 @@
 (^|\.|-)xiti\.com$
 (^|\.|-)xpanama\.net$
 (^|\.|-)xpressunblock\.com$
-(^|\.|-)yandex\.((com)|(ru))$
+(^|\.|-)yandex\.
 (^|\.|-)yield((mo)|(optimizer))\.com$
 (^|\.|-)yieldify\.com$
 (^|\.|-)yimg\.com$
@@ -553,7 +519,7 @@
 (^|\.|-)yumenetworks\.com$
 (^|\.|-)zen?((mxapps)|(trick)|(do)|(roredirect1))\.com$
 (^|\.|-)zopim\.com$
-(^|\.|-)(info|ads)\.yahoo\.com$
+(^|\.|-)(info|ads)\.yahoo\.
 (^|\.|-)(mobile)?analytics?[-_\.]
 (^|\.|-)clicks\.beap(.\*)?
 (^|\.|-)dns-leaks[-_\.]
@@ -569,37 +535,83 @@
 ^www-?[:alpha:]+\.com$
 
 ## New
-(^|\.|-)contentabc.com$
-(^|\.|-)adsrv.rtbsuperhub.com$
-(^|\.|-)naiadsystems.com$
-(^|\.|-)2u.com$
+(^|\.|-)contentabc\.com
+(^|\.|-)adsrv\.rtbsuperhub\.com
+(^|\.|-)naiadsystems?\.com
+(^|\.|-)2u\.com$
 
-#new 2
-(^|\.|-)bytecdn\.cn$
+#new 2 - tiktok
+(^|\.|-)bytecdn(\.|-)
 (^|\.|-)bytedance(\.|-)
-(^|\.|-)bytedns\.net$
+(^|\.|-)bytedns(\.|-)
 (^|\.|-)byteimg\.com$
 (^|\.|-)byteoversea\.((com)|(net))(\.|-)?
-(^|\.|-)bytetcdn\.com$
-(^|\.|-)hypstarcdn\.com$
+(^|\.|-)hypstarcdn(\.|-)
 (^|\.|-)ibyte((dtos)|(img))\.com(\.|-)?
 (^|\.|-)ipstatp\.com$
 (^|\.|-)isnssdk\.com(\.|-)?
-(^|\.|-)muscdn\.com$
+(^|\.|-)muscdn(\.|-)
 (^|\.|-)musemuse\.cn$
 (^|\.|-)musical\.ly(\.|-)?
-(^|\.|-)myqcloud\.com$
-(^|\.|-)ovscdns\.net$
+(^|\.|-)myqcloud(\.|-)
+(^|\.|-)ovscdns(\.|-)
 (^|\.|-)pstatp\.com$
 (^|\.|-)sgsnssdk\.com$
 (^|\.|-)tiktok((cdn)|(v))?\.((com)|(org))(\.|-)?
 (^|\.|-)snssdk\.com(\.|-)?
 (^|\.|-)toutiao\.com$
-(^|\.|-)worldfcdn\.com$
-(^|\.|-)tiktokv.com(\.|-)
-(^|\.|-)zwtianshangm.com
+(^|\.|-)worldfcdn(\.|-)
+(^|\.|-)tiktokv.com(\.|-)?
+(^|\.|-)zwtianshangm(\.|-)
 
-#new 3
+#new 3 - DNS
 (^|\.|-)bolt-?dns(\.|-)
 (^|\.|-)footprint-?dns(\.|-)
 (^|\.|-)net-?(dna|dns|doh)(\.|-)?
+
+# new 4
+(^|\.|-)*mobile-?collect(s|er|or|ed|ing|ion)?.*\.
+(^|\.|-)ad(x|v|s)?([0-9]*)?k?((acts)|(blade)|(ups?)|(just)|(2x?)|(mob)|(colony)|(cale)|(cat)|(luxe)|(nxs)|(tech(us|jp)?))?[-_\.]
+(^|\.|-)adr((oll)|(ise)|(unnr))[-_\.]
+(^|\.|-)adclickservices?[-_\.]
+(^|\.|-)adfo?(nic|rm|ront)[-_\.]
+(^|\.|-)firebaseinstallations[-_\.]
+(^|\.|-)pub((matic)|(native)|(nub))[-_\.]
+(^|\.|-)real-?((prizes)|(lifecams?))[-_\.]
+(^|\.|-)shareth((is)|(rough?))[-_\.]
+(^|\.|-)specific((media)|(click))[-_\.]
+(^|\.|-)spy(f|p)?h?((uman)|(log)|(masterpro)|(one)|(app))[-_\.]
+
+## To Remove
+#(^|\.|-)adrise\.tv$
+#(^|\.|-)adroll\.com$
+#(^|\.|-)adrunnr\.com$
+#(^|\.|-)adjust\.com$
+#(^|\.|-)adk2x?\.com?$
+#(^|\.|-)adkmob\.com$
+#(^|\.|-)adluxe\.ru$
+#(^|\.|-)adnxs\.com$
+#(^|\.|-)adtech((us)|(jp))?[-_\.]
+#(^|\.|-)adups\.((com)|(net))$
+#(^|\.|-)ads?((cale)|(cat))[-_\.]
+#(^|\.|-)adacts\.com$
+#(^|\.|-)adblade\.com$
+#(^|\.|-)adclickservice\.com$
+#(^|\.|-)adcolony\.com$
+#(^|\.|-)adfo((nic)|(rm))\.net$
+#(^|\.|-)adfront\.org$
+#(^|\.|-)footprintdns\.com$
+#(^|\.|-)pornmd\.phncdn\.com$
+#(^|\.|-)pubmatic\.com$
+#(^|\.|-)pubnative\.net$
+#(^|\.|-)pubnub\.com$
+#(^|\.|-)real-prizes\.de$
+#(^|\.|-)reallifecam\.com$
+#(^|\.|-)sharethis\.com$
+#(^|\.|-)sharethrough\.com$
+#(^|\.|-)specificclick\.net$
+#(^|\.|-)specificmedia\.com$
+#(^|\.|-)spy(f|p)h?one[-_\.]
+#(^|\.|-)spyhuman[-_\.]
+#(^|\.|-)spylog\.com$
+#(^|\.|-)spymasterpro[-_\.]
