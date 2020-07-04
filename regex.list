@@ -1,7 +1,7 @@
 ## Last Updated 03 July 2020 ##
 ## Regex Blacklist ##
 #########
-(.*\.|^)((think)?with)?google($|((adservices|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
+(.*\.|^)((think)?with)?google($|((adservices|mail|static|syndication|tagmanager|tagservices|zip|-analytics)($|\..+)))
 (^|\.|-)((boom)|(dynamo)|(ket)|(max)|(moat)|(pop)|(snap)|(te))ads?[-_\.]
 (^|\.|-)((in)|(kr)|(ks))mobi(le)?\.((com)|(net))$
 (^|\.|-)((moat)|(traking))?pixel[-_\.]
@@ -580,6 +580,11 @@
 (^|\.|-)internet((at)|(brands?))\.((tv)|(com))
 (^|\.|-)phenompeople[-_\.]
 (^|\.|-)nsogroup[-_\.]
+
+# New 5 from others
+^tiles\..*services\.mozilla\.com$
+(^|\.)xbcs\.net$
+(^|\.)tplinkra\.com$
 
 ## To Remove
 #(^|\.|-)adrise\.tv$

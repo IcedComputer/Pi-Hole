@@ -4,287 +4,288 @@
 ## Re-Organized: 04 July 2020
 ## Last Updated: 04 July 2020
 
-127.0.0.1 abc13.com
-127.0.0.1 ac.opentable.com
-127.0.0.1 af-music-prod.betc.fr
-127.0.0.1 alexa.amazon.co.uk
-127.0.0.1 alexa.amazon.fr
-127.0.0.1 alexa.amazon.it
-127.0.0.1 amazon.ca
-127.0.0.1 amazon.cn
-127.0.0.1 amazon.co.jp
-127.0.0.1 amazon.co.uk
-127.0.0.1 amazon.com.br
-127.0.0.1 amazon.com.mx
-127.0.0.1 amazon.de
-127.0.0.1 amazon.es
-127.0.0.1 amazon.fr
-127.0.0.1 amazon.in
-127.0.0.1 amazon.it
-127.0.0.1 api.docodoco.jp
-127.0.0.1 au.linkedin.com
-127.0.0.1 aussieoutages.com
-127.0.0.1 be.linkedin.com
-127.0.0.1 br.linkedin.com
-127.0.0.1 ca.linkedin.com
-127.0.0.1 canadianoutages.com
-127.0.0.1 cbsaustin.com
-127.0.0.1 ch.linkedin.com
-127.0.0.1 citibank.com.br
-127.0.0.1 cn.linkedin.com
-127.0.0.1 commbank.com.au
-127.0.0.1 de.linkedin.com
-127.0.0.1 de.m.yelp.ch
-127.0.0.1 de.yelp.ch
-127.0.0.1 dl.amazon.ca
-127.0.0.1 dl.amazon.cn
-127.0.0.1 dl.amazon.co.jp
-127.0.0.1 dl.amazon.co.uk
-127.0.0.1 dl.amazon.com.br
-127.0.0.1 dl.amazon.com.mx
-127.0.0.1 dl.amazon.de
-127.0.0.1 dl.amazon.es
-127.0.0.1 dl.amazon.fr
-127.0.0.1 dl.amazon.in
-127.0.0.1 dl.amazon.it
-127.0.0.1 downdetector.ae
-127.0.0.1 downdetector.cl
-127.0.0.1 downdetector.co.nz
-127.0.0.1 downdetector.co.uk
-127.0.0.1 downdetector.co.za
-127.0.0.1 downdetector.com.ar
-127.0.0.1 downdetector.dk
-127.0.0.1 downdetector.es
-127.0.0.1 downdetector.fi
-127.0.0.1 downdetector.fr
-127.0.0.1 downdetector.hk
-127.0.0.1 downdetector.ie
-127.0.0.1 downdetector.in
-127.0.0.1 downdetector.it
-127.0.0.1 downdetector.jp
-127.0.0.1 downdetector.mx
-127.0.0.1 downdetector.no
-127.0.0.1 downdetector.pl
-127.0.0.1 downdetector.pt
-127.0.0.1 downdetector.ru
-127.0.0.1 downdetector.se
-127.0.0.1 downdetector.sg
-127.0.0.1 downdetector.web.tr
-127.0.0.1 en.m.yelp.com.hk
-127.0.0.1 en.m.yelp.com.ph
-127.0.0.1 en.yelp.com.hk
-127.0.0.1 en.yelp.com.ph
-127.0.0.1 es.linkedin.com
-127.0.0.1 fil.m.yelp.com.ph
-127.0.0.1 fil.yelp.com.ph
-127.0.0.1 fr.linkedin.com
-127.0.0.1 gb.linkedin.com
-127.0.0.1 google.com.br
-127.0.0.1 hsbc.com.br
-127.0.0.1 id.linkedin.com
-127.0.0.1 ie.linkedin.com
-127.0.0.1 in.linkedin.com
-127.0.0.1 it.linkedin.com
-127.0.0.1 jp.linkedin.com
-127.0.0.1 losangeles.cbslocal.com
-127.0.0.1 m.opentable.co.uk
-127.0.0.1 m.opentable.com.au
-127.0.0.1 m.opentable.de
-127.0.0.1 m.opentable.fr
-127.0.0.1 m.opentable.ie
-127.0.0.1 m.opentable.it
-127.0.0.1 m.opentable.jp
-127.0.0.1 m.opentable.nl
-127.0.0.1 m.yelp.co.nz
-127.0.0.1 m.yelp.co.uk
-127.0.0.1 m.yelp.com.ar
-127.0.0.1 m.yelp.com.au
-127.0.0.1 m.yelp.com.br
-127.0.0.1 m.yelp.com.hk
-127.0.0.1 m.yelp.com.mx
-127.0.0.1 m.yelp.com.ph
-127.0.0.1 m.yelp.com.sg
-127.0.0.1 m.yelp.com.tr
-127.0.0.1 m.yelp.com.tr.cdn.cloudflare.net
-127.0.0.1 m.yelp.com.tw
-127.0.0.1 m.yelp.cz
-127.0.0.1 m.yelp.de
-127.0.0.1 m.yelp.dk
-127.0.0.1 m.yelp.es
-127.0.0.1 m.yelp.fi
-127.0.0.1 m.yelp.fi.cdn.cloudflare.net
-127.0.0.1 m.yelp.fr
-127.0.0.1 m.yelp.ie
-127.0.0.1 m.yelp.it
-127.0.0.1 m.yelp.my
-127.0.0.1 m.yelp.nl
-127.0.0.1 m.yelp.no
-127.0.0.1 m.yelp.pl
-127.0.0.1 m.yelp.pt
-127.0.0.1 m.yelp.se
-127.0.0.1 mail.aol.de
-127.0.0.1 maps.google.ca
-127.0.0.1 maps.google.ch
-127.0.0.1 maps.google.co.jp
-127.0.0.1 maps.google.co.th
-127.0.0.1 maps.google.com.au
-127.0.0.1 maps.google.com.br
-127.0.0.1 maps.google.com.mx
-127.0.0.1 maps.google.com.tw
-127.0.0.1 maps.google.de
-127.0.0.1 maps.google.dk
-127.0.0.1 maps.google.es
-127.0.0.1 maps.google.it
-127.0.0.1 maps.google.nl
-127.0.0.1 maps.google.se
-127.0.0.1 miami.cbslocal.com
-127.0.0.1 mx.linkedin.com
-127.0.0.1 newyork.cbslocal.com
-127.0.0.1 nl.linkedin.com
-127.0.0.1 nz.m.yelp.com
-127.0.0.1 nz.yelp.com
-127.0.0.1 opentable.ae
-127.0.0.1 opentable.ca
-127.0.0.1 opentable.co.uk
-127.0.0.1 opentable.com.au
-127.0.0.1 opentable.de
-127.0.0.1 opentable.es
-127.0.0.1 opentable.ie
-127.0.0.1 opentable.it
-127.0.0.1 opentable.jp
-127.0.0.1 opentable.nl
-127.0.0.1 outagereport.ca
-127.0.0.1 outagereport.co.ke
-127.0.0.1 outagereport.co.nz
-127.0.0.1 outagereport.co.za
-127.0.0.1 outagereport.com.au
-127.0.0.1 outagereport.com.my
-127.0.0.1 outagereport.in
-127.0.0.1 outagereport.ng
-127.0.0.1 outagereport.ph
-127.0.0.1 outagereport.sg
-127.0.0.1 outagereport.ug
-127.0.0.1 paypal.de
-127.0.0.1 reportoutage.co.uk
-127.0.0.1 se.linkedin.com
-127.0.0.1 sg.linkedin.com
-127.0.0.1 tr.linkedin.com
-127.0.0.1 www.amazon.ca
-127.0.0.1 www.amazon.cn
-127.0.0.1 www.amazon.co.uk
-127.0.0.1 www.amazon.com.br
-127.0.0.1 www.amazon.fr
-127.0.0.1 www.amazon.it
-127.0.0.1 www.bbckids.ca
-127.0.0.1 www.cbs46.com
-127.0.0.1 www.express.co.uk
-127.0.0.1 www.google.ae
-127.0.0.1 www.google.at
-127.0.0.1 www.google.be
-127.0.0.1 www.google.ch
-127.0.0.1 www.google.co.id
-127.0.0.1 www.google.co.in
-127.0.0.1 www.google.co.jp
-127.0.0.1 www.google.co.kr
-127.0.0.1 www.google.co.nz
-127.0.0.1 www.google.co.th
-127.0.0.1 www.google.co.uk
-127.0.0.1 www.google.co.za
-127.0.0.1 www.google.com.ar
-127.0.0.1 www.google.com.au
-127.0.0.1 www.google.com.br
-127.0.0.1 www.google.com.hk
-127.0.0.1 www.google.com.mx
-127.0.0.1 www.google.com.sg
-127.0.0.1 www.google.com.tw
-127.0.0.1 www.google.com.ua
-127.0.0.1 www.google.de
-127.0.0.1 www.google.dk
-127.0.0.1 www.google.es
-127.0.0.1 www.google.fi
-127.0.0.1 www.google.gr
-127.0.0.1 www.google.hu
-127.0.0.1 www.google.ie
-127.0.0.1 www.google.it
-127.0.0.1 www.google.nl
-127.0.0.1 www.google.no
-127.0.0.1 www.google.pl
-127.0.0.1 www.google.pt
-127.0.0.1 www.google.ro
-127.0.0.1 www.google.ru
-127.0.0.1 www.google.se
-127.0.0.1 www.groupon.ae
-127.0.0.1 www.groupon.at
-127.0.0.1 www.groupon.be
-127.0.0.1 www.groupon.ca
-127.0.0.1 www.groupon.ch
-127.0.0.1 www.groupon.cl
-127.0.0.1 www.groupon.co.uk
-127.0.0.1 www.groupon.com.br
-127.0.0.1 www.groupon.com.mx
-127.0.0.1 www.groupon.com.pe
-127.0.0.1 www.groupon.de
-127.0.0.1 www.groupon.es
-127.0.0.1 www.groupon.fr
-127.0.0.1 www.groupon.ie
-127.0.0.1 www.groupon.it
-127.0.0.1 www.groupon.nl
-127.0.0.1 www.groupon.pl
-127.0.0.1 www.groupon.pt
-127.0.0.1 www.grouponnz.co.nz
-127.0.0.1 www.newsweek.rs
-127.0.0.1 www.newsweekjapan.jp
-127.0.0.1 www.opentable.au
-127.0.0.1 www.opentable.com.au
-127.0.0.1 www.opentable.de
-127.0.0.1 www.opentable.es
-127.0.0.1 www.opentable.fr
-127.0.0.1 www.opentable.ie
-127.0.0.1 www.opentable.it
-127.0.0.1 www.opentable.jp
-127.0.0.1 www.opentable.nl
-127.0.0.1 www.pinterest.co.uk
-127.0.0.1 www.pinterest.com.mx
-127.0.0.1 www.pinterest.de
-127.0.0.1 www.pinterest.dk
-127.0.0.1 www.pinterest.es
-127.0.0.1 www.pinterest.fr
-127.0.0.1 www.pinterest.ie
-127.0.0.1 www.pinterest.jp
-127.0.0.1 www.pinterest.nz
-127.0.0.1 www.pinterest.pt
-127.0.0.1 www.pinterest.se
-127.0.0.1 www.tomshardware.co.uk
-127.0.0.1 www.tomshardware.de
-127.0.0.1 www.tomshardware.fr
-127.0.0.1 www.yelp.com.ar
-127.0.0.1 www.yelp.com.au
-127.0.0.1 www.yelp.com.br
-127.0.0.1 www.yelp.com.hk
-127.0.0.1 www.yelp.com.mx
-127.0.0.1 www.yelp.com.ph
-127.0.0.1 www.yelp.com.sg
-127.0.0.1 www.yelp.com.tr
-127.0.0.1 www.yelp.com.tr.cdn.cloudflare.net
-127.0.0.1 www.yelp.com.tw
-127.0.0.1 www.yelp.cz
-127.0.0.1 www.yelp.de
-127.0.0.1 www.yelp.dk
-127.0.0.1 www.yelp.es
-127.0.0.1 www.yelp.fi
-127.0.0.1 www.yelp.fr
-127.0.0.1 www.yelp.ie
-127.0.0.1 www.yelp.it
-127.0.0.1 www.yelp.my
-127.0.0.1 www.yelp.nl
-127.0.0.1 www.yelp.no
-127.0.0.1 www.yelp.pl
-127.0.0.1 www.yelp.pt
-127.0.0.1 www.yelp.se
-127.0.0.1 www.zdnet.fr
-127.0.0.1 xn--allestrungen-9ib.at
-127.0.0.1 xn--allestrungen-9ib.ch
-127.0.0.1 xn--allestrungen-9ib.de
-127.0.0.1 za.linkedin.com
-127.0.0.1 zh.m.yelp.com.hk
-127.0.0.1 zh.yelp.com.hk
+abc13.com
+ac.opentable.com
+af-music-prod.betc.fr
+alexa.amazon.co.uk
+alexa.amazon.fr
+alexa.amazon.it
+amazon.ca
+amazon.cn
+amazon.co.jp
+amazon.co.uk
+amazon.com.br
+amazon.com.mx
+amazon.de
+amazon.es
+amazon.fr
+amazon.in
+amazon.it
+api.docodoco.jp
+au.linkedin.com
+aussieoutages.com
+be.linkedin.com
+br.linkedin.com
+ca.linkedin.com
+canadianoutages.com
+cbsaustin.com
+ch.linkedin.com
+citibank.com.br
+cn.linkedin.com
+commbank.com.au
+de.linkedin.com
+de.m.yelp.ch
+de.yelp.ch
+dl.amazon.ca
+dl.amazon.cn
+dl.amazon.co.jp
+dl.amazon.co.uk
+dl.amazon.com.br
+dl.amazon.com.mx
+dl.amazon.de
+dl.amazon.es
+dl.amazon.fr
+dl.amazon.in
+dl.amazon.it
+downdetector.ae
+downdetector.cl
+downdetector.co.nz
+downdetector.co.uk
+downdetector.co.za
+downdetector.com.ar
+downdetector.dk
+downdetector.es
+downdetector.fi
+downdetector.fr
+downdetector.hk
+downdetector.ie
+downdetector.in
+downdetector.it
+downdetector.jp
+downdetector.mx
+downdetector.no
+downdetector.pl
+downdetector.pt
+downdetector.ru
+downdetector.se
+downdetector.sg
+downdetector.web.tr
+en.m.yelp.com.hk
+en.m.yelp.com.ph
+en.yelp.com.hk
+en.yelp.com.ph
+es.linkedin.com
+fil.m.yelp.com.ph
+fil.yelp.com.ph
+fr.linkedin.com
+gb.linkedin.com
+google.com.br
+hsbc.com.br
+id.linkedin.com
+ie.linkedin.com
+in.linkedin.com
+it.linkedin.com
+jp.linkedin.com
+knockout.oss-cn-hangzhou.aliyuncs.com
+login.chinacloudapi.cn
+m.opentable.co.uk
+m.opentable.com.au
+m.opentable.de
+m.opentable.fr
+m.opentable.ie
+m.opentable.it
+m.opentable.jp
+m.opentable.nl
+m.yelp.co.nz
+m.yelp.co.uk
+m.yelp.com.ar
+m.yelp.com.au
+m.yelp.com.br
+m.yelp.com.hk
+m.yelp.com.mx
+m.yelp.com.ph
+m.yelp.com.sg
+m.yelp.com.tr
+m.yelp.com.tr.cdn.cloudflare.net
+m.yelp.com.tw
+m.yelp.cz
+m.yelp.de
+m.yelp.dk
+m.yelp.es
+m.yelp.fi
+m.yelp.fi.cdn.cloudflare.net
+m.yelp.fr
+m.yelp.ie
+m.yelp.it
+m.yelp.my
+m.yelp.nl
+m.yelp.no
+m.yelp.pl
+m.yelp.pt
+m.yelp.se
+mail.aol.de
+maps.google.ca
+maps.google.ch
+maps.google.co.jp
+maps.google.co.th
+maps.google.com.au
+maps.google.com.br
+maps.google.com.mx
+maps.google.com.tw
+maps.google.de
+maps.google.dk
+maps.google.es
+maps.google.it
+maps.google.nl
+maps.google.se
+miami.cbslocal.com
+mx.linkedin.com
+newyork.cbslocal.com
+nl.linkedin.com
+nz.m.yelp.com
+nz.yelp.com
+opentable.ae
+opentable.ca
+opentable.co.uk
+opentable.com.au
+opentable.de
+opentable.es
+opentable.ie
+opentable.it
+opentable.jp
+opentable.nl
+outagereport.ca
+outagereport.co.ke
+outagereport.co.nz
+outagereport.co.za
+outagereport.com.au
+outagereport.com.my
+outagereport.in
+outagereport.ng
+outagereport.ph
+outagereport.sg
+outagereport.ug
+paypal.de
+reportoutage.co.uk
+se.linkedin.com
+sg.linkedin.com
+tr.linkedin.com
+www.amazon.ca
+www.amazon.cn
+www.amazon.co.uk
+www.amazon.com.br
+www.amazon.fr
+www.amazon.it
+www.bbckids.ca
+www.cbs46.com
+www.express.co.uk
+www.google.ae
+www.google.at
+www.google.be
+www.google.ch
+www.google.co.id
+www.google.co.in
+www.google.co.jp
+www.google.co.kr
+www.google.co.nz
+www.google.co.th
+www.google.co.uk
+www.google.co.za
+www.google.com.ar
+www.google.com.au
+www.google.com.br
+www.google.com.hk
+www.google.com.mx
+www.google.com.sg
+www.google.com.tw
+www.google.com.ua
+www.google.de
+www.google.dk
+www.google.es
+www.google.fi
+www.google.gr
+www.google.hu
+www.google.ie
+www.google.it
+www.google.nl
+www.google.no
+www.google.pl
+www.google.pt
+www.google.ro
+www.google.ru
+www.google.se
+www.groupon.ae
+www.groupon.at
+www.groupon.be
+www.groupon.ca
+www.groupon.ch
+www.groupon.cl
+www.groupon.co.uk
+www.groupon.com.br
+www.groupon.com.mx
+www.groupon.com.pe
+www.groupon.de
+www.groupon.es
+www.groupon.fr
+www.groupon.ie
+www.groupon.it
+www.groupon.nl
+www.groupon.pl
+www.groupon.pt
+www.grouponnz.co.nz
+www.newsweek.rs
+www.newsweekjapan.jp
+www.opentable.au
+www.opentable.com.au
+www.opentable.de
+www.opentable.es
+www.opentable.fr
+www.opentable.ie
+www.opentable.it
+www.opentable.jp
+www.opentable.nl
+www.pinterest.co.uk
+www.pinterest.com.mx
+www.pinterest.de
+www.pinterest.dk
+www.pinterest.es
+www.pinterest.fr
+www.pinterest.ie
+www.pinterest.jp
+www.pinterest.nz
+www.pinterest.pt
+www.pinterest.se
+www.tomshardware.co.uk
+www.tomshardware.de
+www.tomshardware.fr
+www.yelp.com.ar
+www.yelp.com.au
+www.yelp.com.br
+www.yelp.com.hk
+www.yelp.com.mx
+www.yelp.com.ph
+www.yelp.com.sg
+www.yelp.com.tr
+www.yelp.com.tr.cdn.cloudflare.net
+www.yelp.com.tw
+www.yelp.cz
+www.yelp.de
+www.yelp.dk
+www.yelp.es
+www.yelp.fi
+www.yelp.fr
+www.yelp.ie
+www.yelp.it
+www.yelp.my
+www.yelp.nl
+www.yelp.no
+www.yelp.pl
+www.yelp.pt
+www.yelp.se
+www.zdnet.fr
+xn--allestrungen-9ib.at
+xn--allestrungen-9ib.ch
+xn--allestrungen-9ib.de
+za.linkedin.com
+zh.m.yelp.com.hk
+zh.yelp.com.hk
