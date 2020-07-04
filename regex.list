@@ -580,6 +580,8 @@
 (^|\.|-)internet((at)|(brands?))\.((tv)|(com))
 (^|\.|-)phenompeople[-_\.]
 (^|\.|-)nsogroup[-_\.]
+(^|\.|-)collect((or)|(er))-..........[-_\.]
+(^|\.|-)perimeterx\.net
 
 # New 5 from others
 ^tiles\..*services\.mozilla\.com$
