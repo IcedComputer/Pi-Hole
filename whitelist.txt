@@ -1,3 +1,6 @@
+## Whitelist
+## Last Updated: 04 July 2020
+
 127.0.0.1
 1drv.ms
 accounts.google.com
@@ -10,6 +13,7 @@ assets.coinbase.com
 attestation.xboxlive.com
 bbc.com
 bitbucket.org
+boxcryptor.com 
 browser.pipe.aria.microsoft.com
 cdn.jsdelivr.net
 cert.mgt.xboxlive.com
@@ -72,7 +76,10 @@ redirector.gvt1.com
 s3.amazonaws.com
 scontent.xx.fbcdn.net
 settings-win.data.microsoft.com
+spclient.wg.spotify.com
 spoprod-a.akamaihd.net
+sso.godaddy.com
+suggestqueries.google.com
 sysctl.org
 t.umblr.com
 title.auth.xboxlive.com
@@ -82,8 +89,10 @@ twitter.com
 upload.wikimedia.org
 v.firebog.net
 www.bizjournals.com
+www.boxcryptor.com
 www.coinbase.com
 www.dropbox.com
+www.duluthtrading.com
 www.ecdinterface.philips.com
 www.google.com
 www.instagram.com
@@ -101,7 +110,3 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube.com
 zeustracker.abuse.ch
-www.duluthtrading.com
-sso.godaddy.com
-spclient.wg.spotify.com
-suggestqueries.google.com
