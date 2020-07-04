@@ -12,7 +12,6 @@
 (^|\.)511ny\.gov$
 (^|\.)511tx\.gov$
 (^|\.)511wi\.gov$
-(^|\.)aberdeenwa\.gov$
 (^|\.)abilityone\.gov$
 (^|\.)abingdon-va\.gov$
 (^|\.)abingtonma\.gov$
@@ -135,7 +134,6 @@
 (^|\.)arlington-tx\.gov$
 (^|\.)arlingtonma\.gov$
 (^|\.)arlingtontx\.gov$
-(^|\.)arlingtonwa\.gov$
 (^|\.)artesianm\.gov$
 (^|\.)arthur-il\.gov$
 (^|\.)artreasury\.gov$
@@ -787,8 +785,6 @@
 (^|\.)cityofnewulm-mn\.gov$
 (^|\.)cityofnormandy\.gov$
 (^|\.)cityofnovi-mi\.gov$
-(^|\.)cityofolympia-wa\.gov$
-(^|\.)cityofolympiawa\.gov$
 (^|\.)cityofomaha-ne\.gov$
 (^|\.)cityofpacificwa\.gov$
 (^|\.)cityofpalmvalley-tx\.gov$
@@ -836,8 +832,6 @@
 (^|\.)cityofwheaton-il\.gov$
 (^|\.)cityofworlandwy\.gov$
 (^|\.)cityofyukonok\.gov$
-(^|\.)cityolympia-wa\.gov$
-(^|\.)cityolympiawa\.gov$
 (^|\.)claimittn\.gov$
 (^|\.)clairton-pa\.gov$
 (^|\.)clarkcountynv\.gov$
@@ -2315,7 +2309,6 @@
 (^|\.)mtcrestedbutte-co\.gov$
 (^|\.)mtpleasantwi\.gov$
 (^|\.)mtshastaca\.gov$
-(^|\.)mukilteowa\.gov$
 (^|\.)mundelein-il\.gov$
 (^|\.)mundytwp-mi\.gov$
 (^|\.)murfreesborotn\.gov$
@@ -3200,8 +3193,6 @@
 (^|\.)shirley-ma\.gov$
 (^|\.)shivelyky\.gov$
 (^|\.)shoalwaterbay-nsn\.gov$
-(^|\.)shoreline-wa\.gov$
-(^|\.)shorelinewa\.gov$
 (^|\.)shoreviewmn\.gov$
 (^|\.)showlowaz\.gov$
 (^|\.)shreveportla\.gov$
@@ -3531,15 +3522,12 @@
 (^|\.)ttd\.gov$
 (^|\.)tualatinoregon\.gov$
 (^|\.)tucsonaz\.gov$
-(^|\.)tukwila-wa\.gov$
-(^|\.)tukwilawa\.gov$
 (^|\.)tulalip-nsn\.gov$
 (^|\.)tulalipair-nsn\.gov$
 (^|\.)tulaliptribes-nsn\.gov$
 (^|\.)tulerivertribe-nsn\.gov$
 (^|\.)tulia-tx\.gov$
 (^|\.)tullahomatn\.gov$
-(^|\.)tumwaterwa\.gov$
 (^|\.)tupeloms\.gov$
 (^|\.)tupperlakeny\.gov$
 (^|\.)tusayan-az\.gov$
@@ -3665,7 +3653,6 @@
 (^|\.)waldocountyme\.gov$
 (^|\.)walker-la\.gov$
 (^|\.)walkersvillemd\.gov$
-(^|\.)wallawallawa\.gov$
 (^|\.)wallingfordct\.gov$
 (^|\.)walpole-ma\.gov$
 (^|\.)waltoncountyga\.gov$
@@ -3722,7 +3709,6 @@
 (^|\.)wellfleet-ma\.gov$
 (^|\.)wellingtonfl\.gov$
 (^|\.)wellsburgwv\.gov$
-(^|\.)wenatcheewa\.gov$
 (^|\.)wenhamma\.gov$
 (^|\.)weslacotx\.gov$
 (^|\.)wessonms\.gov$
@@ -3891,7 +3877,6 @@
 (^|\.)yadkincountync\.gov$
 (^|\.)yakamafish-nsn\.gov$
 (^|\.)yakamanation-nsn\.gov$
-(^|\.)yakimawa\.gov$
 (^|\.)yamhillcounty-or\.gov$
 (^|\.)yanceycountync\.gov$
 (^|\.)yanceyvillenc\.gov$

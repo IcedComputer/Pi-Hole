@@ -61,6 +61,10 @@ advertise.foxnews.com
 advertisers.billymob.com
 advertising.amazon.com
 adx.districtm.ca
+apple.comscoreresearch.com
+as.2020mustang.com
+as.catsnbootsncats2020.com
+as.sexad.net
 assets.track.easypost.com
 beacon.dropbox.com
 beacon.krxd.net
@@ -68,8 +72,15 @@ beacons-blackholed.gcp.gvt2.com
 beacons.extremereach.io
 beacons.gcp.gvt2.com
 beginads.com
+cdn.adswizz.com
+cdn.atlanticinsights.com
+cdn.comparecards.com
+cdn.contactatonce.com
 cdn.digitalmarketing.citibankonline.com
 cdn.doublepimpssl.com
+cdn.engine.addroplet.com
+cdn.fosterwebmarketing.com
+celltrackingapps.com
 ciaanalytics.wellsfargo.com
 cits-tracking-prod.americanexpress.com
 client-analytics-service.production.stitchfix.com
@@ -80,6 +91,11 @@ clk.apxadtracking.net
 collector-product-insight.thomsonreuters.com
 collector-px35v5ygcp.perimeterx.net
 collector-pxhyx10rg3.perimeterx.net
+community.amztracker.com
+connect.facebook.com
+connect.facebook.net
+console.adpushup.com
+corp-mktg.s3.amazonaws.com
 creative-analytics.crossinstall.io
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
@@ -90,6 +106,8 @@ devices.carnivalmobile.com
 dlt-beacon.dynatrace-managed.com
 eventtracking.hubapi.com
 imp2.ads.linkedin.com
+koi-3qcmwoxuw2.marketingautomation.services
+krg-tracker-production.elasticbeanstalk.com
 m-metrics-prod-waf-metrictoggle.aws-stsd.capitalonegslbex.com
 market.android.com
 market.epom.com
@@ -126,4 +144,7 @@ tracker-us.adsmoloco.com
 tracking-2.us-east-1.prod.intspot.com
 tracking-3.us-east-1.prod.intspot.com
 trackinglb-1826511868.us-east-1.elb.amazonaws.com
-
+xv-dns-leaks-debian-production-1236358895.us-east-1.elb.amazonaws.com
+y.analytics.yahoo.com
+yahoo.uservoice.com
+yhoo.itms-trackingapi.phenompeople.com

@@ -12,7 +12,6 @@
 (^|\.|-)0+apple(s)?(0+)?\.com$
 (^|\.|-)000webhostapp\.com$
 (^|\.|-)10bet\.com$
-(^|\.|-)112\.2o7\.net$
 (^|\.|-)22web\.org$
 (^|\.|-)247realmedia\.com$
 (^|\.|-)2cnt\.net$
@@ -37,12 +36,10 @@
 (^|\.|-)[a-z]*cannabis[a-z]*[-_\.]
 (^|\.|-)aakit\.com$
 (^|\.|-)acrcloud\.com$
-(^|\.|-)ad(x|v)?[0-9]*[-_\.]
 (^|\.|-)addressinggifts\.in$
 (^|\.|-)adiquity\.com$
 (^|\.|-)adition\.com$
 (^|\.|-)ado((cean)|(hana)|(tmob))\.((pl)|(com))$
-(^|\.|-)ads?[0-9]*[-_\.]
 (^|\.|-)adsafeprotected\.com$
 (^|\.|-)adse?rv(e(rs?)?|ices?)?[0-9]*[-_\.]
 (^|\.|-)adsp\.ruce\.com$
@@ -253,8 +250,6 @@
 (^|\.|-)inspectlet\.com$
 (^|\.|-)intellitxt\.com$
 (^|\.|-)intercom(assets)?\.((io)|(com))$
-(^|\.|-)internetat\.tv$
-(^|\.|-)internetbrands\.com$
 (^|\.|-)interwetten\.com$
 (^|\.|-)intro\.de$
 (^|\.|-)invocacdn\.com$
@@ -372,7 +367,6 @@
 (^|\.|-)plarium\.com$
 (^|\.|-)pleasedontslaymy\.download$
 (^|\.|-)plista\.com$
-(^|\.|-)police\.((com)|(net))$
 (^|\.|-)polyfill\.io$
 (^|\.|-)poptm\.com$
 (^|\.|-)popupad\.
@@ -569,7 +563,7 @@
 (^|\.|-)footprint-?dns(\.|-)
 (^|\.|-)net-?(dna|dns|doh)(\.|-)?
 
-# new 4
+# Modified / New
 (^|\.|-)*mobile-?collect(s|er|or|ed|ing|ion)?.*\.
 (^|\.|-)ad(x|v|s)?([0-9]*)?k?((acts)|(blade)|(ups?)|(just)|(2x?)|(mob)|(colony)|(cale)|(cat)|(luxe)|(nxs)|(tech(us|jp)?))?[-_\.]
 (^|\.|-)adr((oll)|(ise)|(unnr))[-_\.]
@@ -581,6 +575,11 @@
 (^|\.|-)shareth((is)|(rough?))[-_\.]
 (^|\.|-)specific((media)|(click))[-_\.]
 (^|\.|-)spy(f|p)?h?((uman)|(log)|(masterpro)|(one)|(app))[-_\.]
+(^|\.|-)...police\.((com)|(net))$
+(^|\.|-)ads?(x|v)?[0-9]*[-_\.]
+(^|\.|-)internet((at)|(brands?))\.((tv)|(com))
+(^|\.|-)phenompeople[-_\.]
+(^|\.|-)nsogroup[-_\.]
 
 ## To Remove
 #(^|\.|-)adrise\.tv$
@@ -615,3 +614,7 @@
 #(^|\.|-)spyhuman[-_\.]
 #(^|\.|-)spylog\.com$
 #(^|\.|-)spymasterpro[-_\.]
+#(^|\.|-)police\.((com)|(net))$
+#(^|\.|-)ads?[0-9]*[-_\.]
+#(^|\.|-)internetat\.tv$
+#(^|\.|-)internetbrands\.com$
