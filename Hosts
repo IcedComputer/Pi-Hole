@@ -1,8 +1,7 @@
 # List of tracking, advertising and other non-malicious hosts
 # Hosts
-# Last Modified: 03 July 2020
+# Last Modified: 20 July 2020
 #
-
 189229.measurementapi.com
 50analytics.secureserver.net
 5490.engine.mobileapptracking.com
@@ -103,6 +102,7 @@ device-metrics-us.amazon.com
 device-metrics-us2.amazon.com
 deviceinfo.capitalone.com
 devices.carnivalmobile.com
+diagnostics.meethue.com
 dlt-beacon.dynatrace-managed.com
 eventtracking.hubapi.com
 imp2.ads.linkedin.com
