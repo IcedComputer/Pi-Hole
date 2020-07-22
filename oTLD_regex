@@ -1,5 +1,5 @@
 ## Random Other TLD ##
-## Updated 20 July 2020 ##
+## Updated 22 July 2020 ##
 #####
 (^|\.)XN--11B4C3D$
 (^|\.)XN--1CK2E1B$
@@ -228,6 +228,7 @@
 (^|\.)scholarships$
 (^|\.)science$
 (^|\.)scloud$
+(^|\.)services$
 (^|\.)shop$
 (^|\.)shouji$
 (^|\.)site$
@@ -247,7 +248,7 @@
 (^|\.)webcam$
 (^|\.)weibo$
 (^|\.)win$
-(^|\.)work$
+(^|\.)works?$
 (^|\.)world$
 (^|\.)wow$
 (^|\.)wtf$
@@ -262,7 +263,7 @@
 (^|\.)yokohama$
 (^|\.)you$
 (^|\.)ytT$
-(^|\.)za.com$
+(^|\.)za(\.com)?
 (^|\.)zero$
 (^|\.)zip$
 (^|\.)zone$

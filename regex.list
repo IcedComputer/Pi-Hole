@@ -1,4 +1,4 @@
-## Last Updated 20 July 2020 ##
+## Last Updated 22 July 2020 ##
 ## Regex Blacklist ##
 #########
 (.*\.|^)((think)?with)?google($|((adservices|mail|static|syndication|tagmanager|tagservices|zip|-analytics)($|\..+)))
@@ -585,3 +585,18 @@
 # This is a test spam regex - may be too broad
 (^|\.|-)..............\.w[a-z,0-9]*-?([a-z,0-9]*)?\........(.)?...
 \......................\.us$
+
+# New 7/22/2020
+(^|\.|-)leadpages\.co$
+(^|\.|-)ensighten\.com$
+(^|\.|-)infusionsoft\.com$
+(^|\.|-)gigazu\.net$
+(^|\.|-)adj\.st$
+(^|\.|-)i?((ris)|(spotx?))\.tv$
+(^|\.|-)samplicio\.us$
+(^|\.|-)ss2\.us$
+(^|\.|-)teads(\.|-))
+(^|\.|-)rfihub\.net$
+(^|\.|-)smartstream(\.|-)
+(^|\.|-)syndicaster(\.|-)
+(^|\.|-)superawesome\.tv$
