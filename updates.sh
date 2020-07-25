@@ -1,11 +1,18 @@
 #!/bin/bash
 
-## Updated 17 June 2020
+## Updated 25 July 2020
 
 #Vars
 FINISHED=/scripts/Finished
 TEMPDIR=/scripts/temp
 PIDIR=/etc/pihole
+
+
+#cleanup
+function base()
+{
+ apt-get update && apt-get dist-upgrade -y
+}
 
 #download files
 function download()
@@ -115,6 +122,7 @@ function clean()
  sudo systemctl restart cloudflared
 }
 
+base
 download
 #download_additional
 modify
