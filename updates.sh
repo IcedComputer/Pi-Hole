@@ -89,19 +89,19 @@ function whitelists()
 	#Public
 	curl -o $TEMPDIR/whitelist.temp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/whitelist.txt'
 	wait
-	curl -o $TEMPDIR/adlist_whitelist.txt.tmp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/addlist_whitelist.txt'
+	curl -o $TEMPDIR/adlist_whitelist.txt.temp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/addlist_whitelist.txt'
 	#On System
 	cp $PIDIR/whitelist.txt $TEMPDIR/current.wl.temp
 	
 		#Private
-		#curl -o $TEMPDIR/whitelist.encrypt.gpg 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/whitelist.encrypt'
+		#curl -o $TEMPDIR/whitelist.encrypt..temp.gpg 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/whitelist.encrypt'
 	
 		#decrypt Private list
-		#gpg $TEMPDIR/whitelist.encrypt.gpg
+		#gpg $TEMPDIR/whitelist.encrypt.temp.gpg
 
 	##make whitelist
-		#cat $TEMPDIR/current.wl.temp $TEMPDIR/whitelist.temp $TEMPDIR/whitelist.encrypt| sort | uniq > $TEMPDIR/final.wl.temp
-	cat $TEMPDIR/current.wl.temp $TEMPDIR/whitelist.temp $TEMPDIR/adlist_whitelist.txt.tmp | sort | uniq > $TEMPDIR/final.wl.temp
+		#cat $TEMPDIR/current.wl.temp $TEMPDIR/whitelist.temp $TEMPDIR/adlist_whitelist.txt.temp $TEMPDIR/whitelist.encrypt.temp| sort | uniq > $TEMPDIR/final.wl.temp
+	cat $TEMPDIR/current.wl.temp $TEMPDIR/whitelist.temp $TEMPDIR/adlist_whitelist.txt.temp | sort | uniq > $TEMPDIR/final.wl.temp
 	mv $TEMPDIR/final.wl.temp $PIDIR/whitelist.txt
 
 
