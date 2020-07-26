@@ -18,6 +18,9 @@ PIDIR=/etc/pihole
 function base()
 {
  apt-get update && apt-get dist-upgrade -y
+ wait
+ apt autoremove -y
+ wait
 }
 
 #download files
