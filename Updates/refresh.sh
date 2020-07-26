@@ -11,7 +11,6 @@
 #Vars
 FINISHED=/scripts/Finished
 TEMPDIR=/scripts/temp
-PIDIR=/etc/pihole
 
 
 #download files
