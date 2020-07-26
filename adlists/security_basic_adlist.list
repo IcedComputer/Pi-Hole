@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-trac
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 
 ## Fake News
-https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/fakenews.txt
+https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/fakenews.blocklist
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
 
 # Crypto Mining

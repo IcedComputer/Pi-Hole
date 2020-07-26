@@ -1,8 +1,8 @@
-## ForeignHost
+## ForeignHost.blocklist
 ## A list of likely valid domains (non-ad / non-malicious)
 ## I just do not want them on my network(s)
 ## Re-Organized: 04 July 2020
-## Last Updated: 04 July 2020
+## Last Updated: 25 July 2020
 
 abc13.com
 ac.opentable.com
