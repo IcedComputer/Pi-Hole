@@ -44,7 +44,7 @@ https://v.firebog.net/hosts/static/SamsungSmart.txt
 
 # Ads
 https://gist.githubusercontent.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/raw/87378f77179722c227b7813faddab53df6a38708/blacklist.txt
-https://icedcomputer.github.io/Personal-Pi-Hole-configs/Hosts
+https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/adHosts.blocklist
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt

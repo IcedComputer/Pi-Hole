@@ -4,9 +4,9 @@
 # Last Updated: 25 July 2020
 
 
-## To Hosts (tracking, advertising and other non-malicious hosts)
+## To adHosts.blocklist (tracking, advertising and other non-malicious hosts)
 
-## To MalBlock (malware, randsomware, spam, phishing, etc.)
+## To MalBlock.blocklist (malware, randsomware, spam, phishing, etc.)
 rencyce.com
 ppehnyzdinkzbtdtzfeec.us 
 zebvzyxfditynacqfcqdp.us
@@ -22,6 +22,11 @@ hennaie.com
 serial.nartiort.com
 
 
-## To MyBlock (Other)
+## To custom.blocklist (Other)
 use-application-dns.net
 conservativedirect.com
+
+
+## To fakenews.blocklist (Fake News)
+
+## To ForeignHost.blocklist (Non-Malicious / Non-ad Foreign Hosts)
