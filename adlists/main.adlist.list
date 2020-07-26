@@ -17,8 +17,7 @@ https://icedcomputer.github.io/Personal-Pi-Hole-configs/OtherBlocks
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/Block_Lists/Static/all-hosts-files.net_domains
 https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/Static/f2bblocks
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/fixes
-https://icedcomputer.github.io/Personal-Pi-Hole-configs/old_pre-regex
-https://icedcomputer.github.io/Personal-Pi-Hole-configs/uslocal
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/Block_Lists/Static/old_pre-regex
 https://isc.sans.edu/feeds/suspiciousdomains_High.txt
 https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
