@@ -42,7 +42,7 @@ function download()
 	curl -o $TEMPDIR/CFconfig 'https://raw.githubusercontent.com/IcedComputer/Azure-Pihole-VPN-setup/master/Configuration%20Files/CFconfig'
 	
 	#download a new refresh.sh
-	curl -o $TEMPDIR/refresh.sh ''
+	curl -o $TEMPDIR/refresh.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Updates/refresh.sh'
 
 
 }
