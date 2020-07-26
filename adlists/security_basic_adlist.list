@@ -1,6 +1,6 @@
 # This adlist is a bit more lax than the standard list used
 # This is largely just security and basic ads
-# Last Updated 04 July 2020
+# Last Updated 25 July 2020
 
 # TikTok (State Sponsored Malware & RAT)
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt
@@ -12,9 +12,7 @@ https://raw.githubusercontent.com/superover/TikTok-Blocklist/master/tiktok.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-https://icedcomputer.github.io/Personal-Pi-Hole-configs/MalBlock
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/Block_Lists/Static/all-hosts-files.net_domains
-https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/Static/f2bblocks
 https://isc.sans.edu/feeds/suspiciousdomains_High.txt
 https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
@@ -26,6 +24,8 @@ https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
 https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/malwarelist.txt
+https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/MalBlock.blocklist
+https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/Static/f2bblocks
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/quidsup_malicious-sites/master/domains.list
@@ -44,8 +44,8 @@ https://v.firebog.net/hosts/static/SamsungSmart.txt
 
 # Ads
 https://gist.githubusercontent.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/raw/87378f77179722c227b7813faddab53df6a38708/blacklist.txt
-https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/adHosts.blocklist
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
+https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/adHosts.blocklist
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
