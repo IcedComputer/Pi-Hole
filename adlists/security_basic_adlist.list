@@ -14,7 +14,7 @@ https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/MalBlock
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/Block_Lists/Static/all-hosts-files.net_domains
-https://icedcomputer.github.io/Personal-Pi-Hole-configs/Block_Lists/Static/f2bblocks
+https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/Static/f2bblocks
 https://isc.sans.edu/feeds/suspiciousdomains_High.txt
 https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-trac
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 
 ## Fake News
-https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/fakenews.txt
+https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/fakenews.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
 
 # Crypto Mining
