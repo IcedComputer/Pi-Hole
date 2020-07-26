@@ -13,7 +13,7 @@ https://icedcomputer.github.io/Personal-Pi-Hole-configs/ForeignHost
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/Hosts
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/MalBlock
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/MyBlocking
-https://icedcomputer.github.io/Personal-Pi-Hole-configs/OtherBlocks
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/Block_Lists/Static/OtherBlocks
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/Block_Lists/Static/all-hosts-files.net_domains
 https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/Static/f2bblocks
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/fixes
