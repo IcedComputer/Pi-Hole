@@ -13,8 +13,8 @@ https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d
 https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/MalBlock
-https://icedcomputer.github.io/Personal-Pi-Hole-configs/all-hosts-files.net_domains
-https://icedcomputer.github.io/Personal-Pi-Hole-configs/f2bblocks
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/Block_Lists/Static/all-hosts-files.net_domains
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/Block_Lists/Static/f2bblocks
 https://isc.sans.edu/feeds/suspiciousdomains_High.txt
 https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt

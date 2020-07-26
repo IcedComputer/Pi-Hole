@@ -14,8 +14,8 @@ https://icedcomputer.github.io/Personal-Pi-Hole-configs/Hosts
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/MalBlock
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/MyBlocking
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/OtherBlocks
-https://icedcomputer.github.io/Personal-Pi-Hole-configs/all-hosts-files.net_domains
-https://icedcomputer.github.io/Personal-Pi-Hole-configs/f2bblocks
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/Block_Lists/Static/all-hosts-files.net_domains
+https://icedcomputer.github.io/Personal-Pi-Hole-configs/Block_Lists/Static/f2bblocks
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/fixes
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/old_pre-regex
 https://icedcomputer.github.io/Personal-Pi-Hole-configs/uslocal
