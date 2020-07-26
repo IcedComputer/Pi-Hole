@@ -1,7 +1,7 @@
 ## Created 25 July 2020
 ## Updated 25 July 2020
 ## refresh.sh
-## This script simply updates the "updater.sh" script to ensure the local copy on the machine is up to date
+## This script simply updates the "updates.sh" script to ensure the local copy on the machine is up to date
 ##
 
 

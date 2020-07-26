@@ -1,5 +1,6 @@
-## Last Updated 22 July 2020 ##
+## Last Updated 25 July 2020 ##
 ## Regex Blacklist ##
+## main.regex
 #########
 (.*\.|^)((think)?with)?google($|((adservices|mail|static|syndication|tagmanager|tagservices|zip|-analytics)($|\..+)))
 (^|\.)tplinkra\.com$

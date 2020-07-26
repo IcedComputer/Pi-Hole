@@ -1,7 +1,7 @@
 ## Created 25 July 2020
 ## Updated 25 July 2020
-## refresh.sh
-## This script simply updates the "updater.sh" script to ensure the local copy on the machine is up to date
+## security_refresh.sh
+## This script simply updates the "security_updates.sh" script to ensure the local copy on the machine is up to date
 ##
 
 
@@ -18,7 +18,7 @@ function download()
 {
 
 	#download an updated update.sh
-	curl -o $TEMPDIR/updates.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Updates/updates.sh'
+	curl -o $TEMPDIR/security_updates.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Updates/security_updates.sh'
 	
 }
 
@@ -28,8 +28,8 @@ function move()
 {
 
 	## change permisions
-	chmod 777 $TEMPDIR/updates.sh
-	mv $TEMPDIR/updates.sh $FINISHED/updates.sh
+	chmod 777 $TEMPDIR/security_updates.sh
+	mv $TEMPDIR/security_updates.sh $FINISHED/security_updates.sh
 	
 }
 

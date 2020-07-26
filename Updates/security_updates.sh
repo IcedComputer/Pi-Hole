@@ -1,7 +1,7 @@
 ## Last Updated 25 July 2020
-## updates.sh
+## security_updates.sh
 ## This script is designed to keep the pihole updated and linked to any changes made
-## This version is for the full blocking functionality
+## This version is for the security blocking functionality only
 ##
 
 
@@ -28,24 +28,23 @@ function download()
 {
 
 	#adlists.list 
-	curl -o $TEMPDIR/adlists.list 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/adlists/main.adlist.list'
+	curl -o $TEMPDIR/adlists.list 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/adlists/security_basic_adlist.list'
 
 	# Regex Lists
 	curl -o $TEMPDIR/main.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/main.regex'
 	wait
-	curl -o $TEMPDIR/country.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/country.regex'
+	curl -o $TEMPDIR/basic_country.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/basic_country.regex'
 	wait
 	curl -o $TEMPDIR/oTLD.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/oTLD.regex'
 	wait
-	curl -o $TEMPDIR/uslocal.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/uslocal.regex'
-	wait
+
 	
 		
 	#download new cloudflared configs
 	curl -o $TEMPDIR/CFconfig 'https://raw.githubusercontent.com/IcedComputer/Azure-Pihole-VPN-setup/master/Configuration%20Files/CFconfig'
 	
 	#download a new refresh.sh
-	curl -o $TEMPDIR/refresh.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Updates/refresh.sh'
+	curl -o $TEMPDIR/security_refresh.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Updates/security_refresh.sh'
 
 
 }
@@ -54,11 +53,11 @@ function download()
 function modify()
 {
 	## Create Regex 
-	cat $TEMPDIR/main.regex $TEMPDIR/country.regex $TEMPDIR/oTLD.regex $TEMPDIR/uslocal.regex | grep -v '#' | sort | uniq > $TEMPDIR/regex.list
+	cat $TEMPDIR/main.regex $TEMPDIR/basic_country.regex $TEMPDIR/oTLD.regex | grep -v '#' | sort | uniq > $TEMPDIR/regex.list
 	wait
 	
 	#refresh.sh
-	chmod 777 $TEMPDIR/refresh.sh
+	chmod 777 $TEMPDIR/security_refresh.sh
 	
 }
 
@@ -70,7 +69,7 @@ function move()
 	mv $TEMPDIR/adlists.list $PIDIR/adlists.list
 	mv $TEMPDIR/regex.list  $PIDIR/regex.list
 	mv $TEMPDIR/CFconfig $FINISHED/cloudflared
-	mv $TEMPDIR/refresh.sh $FINISHED/refresh.sh
+	mv $TEMPDIR/security_refresh.sh $FINISHED/security_refresh.sh
 	
 }
 
@@ -92,6 +91,9 @@ function allowlist()
 	curl -o $TEMPDIR/basic.allow.temp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Allow%20Lists/basic.allow'
 	wait
 	curl -o $TEMPDIR/adlist.allow.temp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Allow%20Lists/adlist.allow'
+	wait
+	curl -o $TEMPDIR/security_only.allow.temp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Allow%20Lists/security_only.allow'
+	
 	#On System
 	cp $PIDIR/whitelist.txt $TEMPDIR/current.wl.temp
 	
@@ -102,8 +104,8 @@ function allowlist()
 		#gpg $TEMPDIR/whitelist.encrypt.temp.gpg
 
 	##make whitelist
-		#cat $TEMPDIR/current.wl.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp $TEMPDIR/whitelist.encrypt.temp| sort | uniq > $TEMPDIR/final.wl.temp
-	cat $TEMPDIR/current.wl.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp | sort | uniq > $TEMPDIR/final.wl.temp
+		#cat $TEMPDIR/current.wl.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp $TEMPDIR/whitelist.encrypt.temp $TEMPDIR/security_only.allow.temp | sort | uniq > $TEMPDIR/final.wl.temp
+	cat $TEMPDIR/current.wl.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp $TEMPDIR/security_only.allow.temp | sort | uniq > $TEMPDIR/final.wl.temp
 	mv $TEMPDIR/final.wl.temp $PIDIR/whitelist.txt
 
 
