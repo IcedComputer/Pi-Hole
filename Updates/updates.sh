@@ -95,14 +95,14 @@ function allowlist()
 	#On System
 	cp $PIDIR/whitelist.txt $TEMPDIR/current.wl.temp
 	
-		#Private
-		#curl -o $TEMPDIR/whitelist.encrypt..temp.gpg 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/whitelist.encrypt'
+	#Private
+	#curl -o $TEMPDIR/encrypt.allow.temp.gpg 'https://github.com/IcedComputer/Personal-Pi-Hole-configs/raw/master/Allow%20Lists/encrypt.allow.gpg'
 	
-		#decrypt Private list
-		#gpg $TEMPDIR/whitelist.encrypt.temp.gpg
+	#decrypt Private list
+	#gpg $TEMPDIR/encrypt.allow.temp.gpg
 
 	##make whitelist
-		#cat $TEMPDIR/current.wl.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp $TEMPDIR/whitelist.encrypt.temp| sort | uniq > $TEMPDIR/final.wl.temp
+	#cat $TEMPDIR/current.wl.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp $TEMPDIR/encrypt.allow.temp | sort | uniq > $TEMPDIR/final.wl.temp
 	cat $TEMPDIR/current.wl.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp | sort | uniq > $TEMPDIR/final.wl.temp
 	mv $TEMPDIR/final.wl.temp $PIDIR/whitelist.txt
 
@@ -114,6 +114,7 @@ function clean()
 {
  rm -f $TEMPDIR/*.regex
  rm -f $TEMPDIR/*.temp
+ rm -f $TEMPDIR/*.gpg
  sudo systemctl restart cloudflared
 }
 
