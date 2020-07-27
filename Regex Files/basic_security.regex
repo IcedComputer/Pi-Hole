@@ -1,3 +1,7 @@
 ## basic_security.regex
 ## Last Updated 7/26/2020
 
+(^|\.|-)tiktok((cdn)|(v))?\.((com)|(org))(\.|-)?
+(^|\.|-)tiktokv.com(\.|-)?
+(^|\.|-)spy(f|p)?h?((uman)|(log)|(masterpro)|(one)|(app))[-_\.]
+(^|\.|-)silverpush[-_\.]
