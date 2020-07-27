@@ -1,4 +1,4 @@
-## Last Updated 25 July 2020
+## Last Updated 26 July 2020
 ## security_updates.sh
 ## This script is designed to keep the pihole updated and linked to any changes made
 ## This version is for the security blocking functionality only
@@ -31,7 +31,7 @@ function download()
 	curl -o $TEMPDIR/adlists.list 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/adlists/security_basic_adlist.list'
 
 	# Regex Lists
-	curl -o $TEMPDIR/main.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/main.regex'
+	curl -o $TEMPDIR/basic_security.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/basic)security.regex'
 	wait
 	curl -o $TEMPDIR/basic_country.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/basic_country.regex'
 	wait
@@ -53,7 +53,7 @@ function download()
 function modify()
 {
 	## Create Regex 
-	cat $TEMPDIR/main.regex $TEMPDIR/basic_country.regex $TEMPDIR/oTLD.regex | grep -v '#' | sort | uniq > $TEMPDIR/regex.list
+	cat $TEMPDIR/basic_security.regex $TEMPDIR/basic_country.regex $TEMPDIR/oTLD.regex | grep -v '#' | sort | uniq > $TEMPDIR/regex.list
 	wait
 	
 	#refresh.sh
@@ -76,8 +76,6 @@ function move()
 
 function scripts()
 {
- bash $FINISHED/ListUpdater.sh
- wait
  killall -SIGHUP pihole-FTL
  wait
  pihole -g
