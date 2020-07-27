@@ -1,4 +1,4 @@
-## Last Updated 26 July 2020
+## Last Updated 27 July 2020
 ## security_updates.sh
 ## This script is designed to keep the pihole updated and linked to any changes made
 ## This version is for the security blocking functionality only
