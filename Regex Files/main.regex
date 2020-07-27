@@ -465,7 +465,7 @@
 (^|\.|-)skimresources\.com$
 (^|\.|-)sleeknote\.com$
 (^|\.|-)smaato\.net$
-(^|\.|-)smart((asset)|(look)).com$
+(^|\.|-)smart((asset)|(look))\.com$
 (^|\.|-)smoozed\.rocks$
 (^|\.|-)snssdk\.com(\.|-)?
 (^|\.|-)sociomantic\.com$
@@ -601,3 +601,8 @@
 (^|\.|-)smartstream(\.|-)
 (^|\.|-)syndicaster(\.|-)
 (^|\.|-)superawesome\.tv$
+
+# 7/26/2020
+(^|\.|-)cgi6\.ebay\.de\.ws\.ebayisapi\.dll\.sellerdashboard
+(^|\.|-)elbavietnam\.com$
+(^|\.|-)sextracker\.((com)|(de))
