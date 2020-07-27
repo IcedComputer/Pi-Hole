@@ -96,7 +96,7 @@ function allowlist()
 	cp $PIDIR/whitelist.txt $TEMPDIR/current.wl.temp
 	
 		#Private
-		#curl -o $TEMPDIR/whitelist.encrypt..temp.gpg 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/whitelist.encrypt'
+		#curl -o $TEMPDIR/whitelist.encrypt.temp.gpg 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/whitelist.encrypt'
 	
 		#decrypt Private list
 		#gpg $TEMPDIR/whitelist.encrypt.temp.gpg
