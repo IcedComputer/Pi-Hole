@@ -1,31 +1,21 @@
 # A list of test items
 # test.blocklist
 # Re-Organized: 03 July 2020
-# Last Updated: 25 July 2020
+# Last Updated: 07 Aug 2020
 
 
 ## To adHosts.blocklist (tracking, advertising and other non-malicious hosts)
 
 ## To MalBlock.blocklist (malware, randsomware, spam, phishing, etc.)
-rencyce.com
-ppehnyzdinkzbtdtzfeec.us 
-zebvzyxfditynacqfcqdp.us
-qsjdaglghydwxjsjhkenw.us 
-2lwslksx2xt7bjej.com
-idaean.supernobyl.com 
-jweese.drivefact.org 
-prefolon.com 
-xwkx.reactivisible.com 
-manational.com 
-rocksa.tabiont.com 
-hennaie.com
-serial.nartiort.com
+
 
 
 ## To custom.blocklist (Other)
-use-application-dns.net
-conservativedirect.com
-
+www.anomalysix.com
+anomalysix.com
+an0malys1x.com
+an0malysix.com
+anomalys1x.com
 
 ## To fakenews.blocklist (Fake News)
 
