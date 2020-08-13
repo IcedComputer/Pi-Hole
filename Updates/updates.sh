@@ -12,7 +12,7 @@
 FINISHED=/scripts/Finished
 TEMPDIR=/scripts/temp
 PIDIR=/etc/pihole
-
+#CONFIG=/scripts/Finished/CONFIG
 
 #Based update and upgrade on the box
 function base()
