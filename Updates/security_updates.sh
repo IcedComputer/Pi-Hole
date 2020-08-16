@@ -93,7 +93,7 @@ function allowlist()
 	curl -o $TEMPDIR/security_only.allow.temp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Allow%20Lists/security_only.allow'
 	
 	#On System
-	cp $PIDIR/whitelist.txt $TEMPDIR/current.wl.temp
+	cp $PIDIR/whitelist.txt $TEMPDIR/current.allow.temp
 	
 	#Private
 	#curl -o $TEMPDIR/encrypt_basic.allow.temp.gpg 'https://github.com/IcedComputer/Personal-Pi-Hole-configs/raw/master/Allow%20Lists/encrypt_basic.allow.gpg'
@@ -103,8 +103,8 @@ function allowlist()
 
 	##make whitelist
 	#cat $TEMPDIR/current.wl.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp $TEMPDIR/encrypt_basic.allow.temp $TEMPDIR/security_only.allow.temp | sort | uniq > $TEMPDIR/final.wl.temp
-	cat $TEMPDIR/current.wl.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp $TEMPDIR/security_only.allow.temp | sort | uniq > $TEMPDIR/final.wl.temp
-	mv $TEMPDIR/final.wl.temp $PIDIR/whitelist.txt
+	cat $TEMPDIR/current.allow.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp $TEMPDIR/security_only.allow.temp | sort | uniq > $TEMPDIR/final.allow.temp
+	mv $TEMPDIR/final.allow.temp $PIDIR/whitelist.txt
 
 
 }

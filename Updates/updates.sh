@@ -1,4 +1,4 @@
-## Last Updated 27 July 2020
+## Last Updated 15 Aug 2020
 ## updates.sh
 ## This script is designed to keep the pihole updated and linked to any changes made
 ## This version is for the full blocking functionality
@@ -14,7 +14,7 @@ TEMPDIR=/scripts/temp
 PIDIR=/etc/pihole
 #CONFIG=/scripts/Finished/CONFIG
 
-#Based update and upgrade on the box
+#Base update and upgrade on the box
 function base()
 {
  apt-get update && apt-get dist-upgrade -y
@@ -40,7 +40,7 @@ function download()
 	curl -o $TEMPDIR/uslocal.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/uslocal.regex'
 	wait
 	
-		
+	
 	#download new cloudflared configs
 	curl -o $TEMPDIR/CFconfig 'https://raw.githubusercontent.com/IcedComputer/Azure-Pihole-VPN-setup/master/Configuration%20Files/CFconfig'
 	
@@ -93,7 +93,7 @@ function allowlist()
 	wait
 	curl -o $TEMPDIR/adlist.allow.temp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Allow%20Lists/adlist.allow'
 	#On System
-	cp $PIDIR/whitelist.txt $TEMPDIR/current.wl.temp
+	cp $PIDIR/whitelist.txt $TEMPDIR/current.allow.temp
 	
 	#Private
 	#curl -o $TEMPDIR/encrypt.allow.temp.gpg 'https://github.com/IcedComputer/Personal-Pi-Hole-configs/raw/master/Allow%20Lists/encrypt.allow.gpg'
@@ -103,8 +103,8 @@ function allowlist()
 
 	##make whitelist
 	#cat $TEMPDIR/current.wl.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp $TEMPDIR/encrypt.allow.temp | sort | uniq > $TEMPDIR/final.wl.temp
-	cat $TEMPDIR/current.wl.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp | sort | uniq > $TEMPDIR/final.wl.temp
-	mv $TEMPDIR/final.wl.temp $PIDIR/whitelist.txt
+	cat $TEMPDIR/current.allow.temp $TEMPDIR/basic.allow.temp $TEMPDIR/adlist.allow.temp | sort | uniq > $TEMPDIR/final.allow.temp
+	mv $TEMPDIR/final.allow.temp $PIDIR/whitelist.txt
 
 
 }
