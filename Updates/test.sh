@@ -73,18 +73,7 @@ function test_list()
  cat $TEMPDIR/adlists.list.trial.temp $TEMPDIR/adlists.list | sort | uniq > $TEMPDIR/adlists.list.temp
  mv $TEMPDIR/adlists.list.temp $TEMPDIR/adlists.list
  
- 
- 
- 
-}
-
-function move()
-{
-	
-	mv $TEMPDIR/adlists.list $PIDIR/adlists.list
-	mv $TEMPDIR/CFconfig $FINISHED/cloudflared
-	mv $TEMPDIR/refresh.sh $FINISHED/refresh.sh
-	
+ curl -o $TEMPDIR/test.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/test.regex'
 }
 
 function scripts()
@@ -128,6 +117,10 @@ function assemble()
 	
 	cat $TEMPDIR/*.regex | grep -v '#' | sort | uniq > $TEMPDIR/regex.list
 	mv $TEMPDIR/regex.list  $PIDIR/regex.list
+	
+	mv $TEMPDIR/adlists.list $PIDIR/adlists.list
+	mv $TEMPDIR/CFconfig $FINISHED/cloudflared
+	mv $TEMPDIR/refresh.sh $FINISHED/refresh.sh
 }
 
 #cleanup
@@ -141,16 +134,14 @@ function clean()
 
 
 ## Main Script
-#base
+base
 
 if [ $Type = "security" ]
 	then
 		security
 		security_allowlist
-		echo "SECURITY \n\n"
 	else
 		full
-		echo "FULL \n\n"
 		if [ $test_system = "yes" ]
 			then
 				test_list
@@ -159,7 +150,6 @@ if [ $Type = "security" ]
 fi
 
 
-move
 scripts
 public_allowlist
 #encrypted_allowlist
