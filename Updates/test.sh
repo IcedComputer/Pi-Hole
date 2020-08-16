@@ -48,9 +48,7 @@ function full()
 	wait
 	curl -o $TEMPDIR/uslocal.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/uslocal.regex'
 	wait
-	
-	## Create Regex 
-	cat $TEMPDIR/main.regex $TEMPDIR/country.regex $TEMPDIR/oTLD.regex $TEMPDIR/uslocal.regex | grep -v '#' | sort | uniq > $TEMPDIR/regex.list
+
 }
 
 function security()
@@ -66,8 +64,7 @@ function security()
 	wait
 	curl -o $TEMPDIR/oTLD.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/oTLD.regex'
 	wait
-	## Create Regex 
-	cat $TEMPDIR/basic_security.regex $TEMPDIR/basic_country.regex $TEMPDIR/oTLD.regex | grep -v '#' | sort | uniq > $TEMPDIR/regex.list
+
 }
 
 function test_list()
@@ -75,13 +72,16 @@ function test_list()
  curl -o $TEMPDIR/adlists.list.trial.temp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/adlists/trial.adlist.list'
  cat $TEMPDIR/adlists.list.trial.temp $TEMPDIR/adlists.list | sort | uniq > $TEMPDIR/adlists.list.temp
  mv $TEMPDIR/adlists.list.temp $TEMPDIR/adlists.list
+ 
+ 
+ 
+ 
 }
 
 function move()
 {
 	
 	mv $TEMPDIR/adlists.list $PIDIR/adlists.list
-	mv $TEMPDIR/regex.list  $PIDIR/regex.list
 	mv $TEMPDIR/CFconfig $FINISHED/cloudflared
 	mv $TEMPDIR/refresh.sh $FINISHED/refresh.sh
 	
@@ -121,10 +121,13 @@ function security_allowlist()
 	#gpg $TEMPDIR/encrypt.allow.temp.gpg
 #}
 
-function assemble_allowlist()
+function assemble()
 {
 	cat $TEMPDIR/*.allow.temp  | sort | uniq > $TEMPDIR/final.allow.temp
 	mv $TEMPDIR/final.allow.temp $PIDIR/whitelist.txt
+	
+	cat $TEMPDIR/*.regex | grep -v '#' | sort | uniq > $TEMPDIR/regex.list
+	mv $TEMPDIR/regex.list  $PIDIR/regex.list
 }
 
 #cleanup
@@ -160,5 +163,5 @@ move
 scripts
 public_allowlist
 #encrypted_allowlist
-assemble_allowlist
+assemble
 clean

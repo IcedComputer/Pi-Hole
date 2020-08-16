@@ -1,0 +1,12 @@
+# This is a test spam regex - may be too broad
+(^|\.|-)..............\.w[a-z,0-9]*-?([a-z,0-9]*)?\........(.)?...
+\......................\.us$
+
+8/15/2020
+(^|\.)ibs\.lgappstv\.com
+(^|\.)lgsmartad\.com
+(^|\.)rdx2\.lgtvsdp\.com
+(^|\.)samsung(electronics|cloudcdn)\.com$
+(^|\.)samsungcloudsolution\.(com|net)$
+(^|\.)smartshare\.lgtvsdp\.com
+^api\..*\.hismarttv\.com$

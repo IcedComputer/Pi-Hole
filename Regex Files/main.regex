@@ -1,4 +1,4 @@
-## Last Updated 25 July 2020 ##
+## Last Updated 15 Aug 2020 ##
 ## Regex Blacklist ##
 ## main.regex
 #########
@@ -51,6 +51,7 @@
 (^|\.|-)adfo?(nic|rm|ront)[-_\.]
 (^|\.|-)adiquity\.com$
 (^|\.|-)adition\.com$
+(^|\.|-)adj\.st$
 (^|\.|-)ado((cean)|(hana)|(tmob))\.((pl)|(com))$
 (^|\.|-)adr((oll)|(ise)|(unnr))[-_\.]
 (^|\.|-)ads?(x|v)?[0-9]*[-_\.]
@@ -134,6 +135,7 @@
 (^|\.|-)casino((city)|(fantasia)|(withdraw))\.com$
 (^|\.|-)catchmedia\.com$
 (^|\.|-)cedexis-radar\.net$
+(^|\.|-)cgi6\.ebay\.de\.ws\.ebayisapi\.dll\.sellerdashboard
 (^|\.|-)chartb((eat)|(oost))\.((com)|(net))$
 (^|\.|-)chatango\.com$
 (^|\.|-)checkm8\.com$
@@ -208,9 +210,11 @@
 (^|\.|-)eduads?[-_\.]
 (^|\.|-)effectivemeasure\.net$
 (^|\.|-)egomsl\.com$
+(^|\.|-)elbavietnam\.com$
 (^|\.|-)elitepartner\.de$
 (^|\.|-)eloqua\.com$
 (^|\.|-)emetriq\.de$
+(^|\.|-)ensighten\.com$
 (^|\.|-)epiphanyai\.com$
 (^|\.|-)ersatzteilecenter\.de$
 (^|\.|-)esomniture\.com$
@@ -247,6 +251,7 @@
 (^|\.|-)get((chrome)|(jaco)|(tally))\.com$
 (^|\.|-)getpromo2[0-9][0-9][0-9]\.info$
 (^|\.|-)getsi((decar)|(tecontrol).com$
+(^|\.|-)gigazu\.net$
 (^|\.|-)gigya\.com$
 (^|\.|-)gimbal\.com$
 (^|\.|-)giraffic\.com$
@@ -270,6 +275,7 @@
 (^|\.|-)hsleadflows\.net$
 (^|\.|-)hypestat\.com$
 (^|\.|-)hypstarcdn(\.|-)
+(^|\.|-)i?((ris)|(spotx?))\.tv$
 (^|\.|-)ibm\.xtify\.com$
 (^|\.|-)ibyte((dtos)|(img))\.com(\.|-)?
 (^|\.|-)ifood\.tv$
@@ -278,6 +284,7 @@
 (^|\.|-)imrworldwide\.com
 (^|\.|-)indeed\.com$
 (^|\.|-)info-apps\.xyz$
+(^|\.|-)infusionsoft\.com$
 (^|\.|-)inner-active\.mobi[-_\.]
 (^|\.|-)innovid\.com$
 (^|\.|-)inspectlet\.com$
@@ -308,6 +315,7 @@
 (^|\.|-)l2\.io$
 (^|\.|-)language\.herokuapp\.com$
 (^|\.|-)lapalingo\.com$
+(^|\.|-)leadpages\.co$
 (^|\.|-)lenovomm\.com$
 (^|\.|-)leovegas\.com$
 (^|\.|-)letreach\.com$
@@ -438,6 +446,7 @@
 (^|\.|-)retargetly\.com$
 (^|\.|-)retina-?x[-_\.]
 (^|\.|-)returnpath\.net$
+(^|\.|-)rfihub\.net$
 (^|\.|-)rlcontrol\.de$
 (^|\.|-)royalvegascasino\.com$
 (^|\.|-)rqtrk\.eu$
@@ -446,7 +455,8 @@
 (^|\.|-)s?(eg)?metrics?[-_\.]
 (^|\.|-)salecycle\.com$
 (^|\.|-)salemove\.com$
-(^|\.|-)samsung(otn|grm)\.net$
+(^|\.|-)samplicio\.us$
+(^|\.|-)samsung(otn|rm)\.net$
 (^|\.|-)scientificrevenue\.com$
 (^|\.|-)scorecardresearch\.com
 (^|\.|-)select-reward\.club$
@@ -454,6 +464,7 @@
 (^|\.|-)sessioncam\.com$
 (^|\.|-)seventynine\.mobi$
 (^|\.|-)sexfriendfinder\.
+(^|\.|-)sextracker\.((com)|(de))
 (^|\.|-)sexybabesx\.com$
 (^|\.|-)sftapi\.com$
 (^|\.|-)sgsnssdk\.com$
@@ -466,6 +477,7 @@
 (^|\.|-)sleeknote\.com$
 (^|\.|-)smaato\.net$
 (^|\.|-)smart((asset)|(look))\.com$
+(^|\.|-)smartstream(\.|-)
 (^|\.|-)smoozed\.rocks$
 (^|\.|-)snssdk\.com(\.|-)?
 (^|\.|-)sociomantic\.com$
@@ -477,6 +489,7 @@
 (^|\.|-)spot(ad)?\.((im)|(com))$
 (^|\.|-)spring((er)|(serve))\.com$
 (^|\.|-)spy(f|p)?h?((uman)|(log)|(masterpro)|(one)|(app))[-_\.]
+(^|\.|-)ss2\.us$
 (^|\.|-)stake7\.com$
 (^|\.|-)stargames\.com$
 (^|\.|-)startapp(exchange|network|service)\.com
@@ -488,12 +501,14 @@
 (^|\.|-)stroeerdigitalgroup\.de$
 (^|\.|-)sunmaker\.com$
 (^|\.|-)sunnyplayer\.com$
+(^|\.|-)superawesome\.tv$
 (^|\.|-)supergaminator[0-9]*\.com$
 (^|\.|-)supersonicads\.com$
 (^|\.|-)swappa\.com$
 (^|\.|-)swiship\.de$
 (^|\.|-)swrve\.com$
 (^|\.|-)symc(b|d)\.com$
+(^|\.|-)syndicaster(\.|-)
 (^|\.|-)taboola\.com$
 (^|\.|-)tagular\.com$
 (^|\.|-)tango-deg\.com$
@@ -504,6 +519,7 @@
 (^|\.|-)tausend-euro-gutschein\.de$
 (^|\.|-)tbccint\.com$
 (^|\.|-)tclclouds\.com$
+(^|\.|-)teads(\.|-))
 (^|\.|-)telemetry[-_\.]
 (^|\.|-)thebestoffer\.gq$
 (^|\.|-)thefuncoolstuff\.com$
@@ -582,27 +598,15 @@
 ^tiles\..*services\.mozilla\.com$
 ^www-?[:alpha:]+\.com$
 
-
 # This is a test spam regex - may be too broad
 (^|\.|-)..............\.w[a-z,0-9]*-?([a-z,0-9]*)?\........(.)?...
 \......................\.us$
 
-# New 7/22/2020
-(^|\.|-)leadpages\.co$
-(^|\.|-)ensighten\.com$
-(^|\.|-)infusionsoft\.com$
-(^|\.|-)gigazu\.net$
-(^|\.|-)adj\.st$
-(^|\.|-)i?((ris)|(spotx?))\.tv$
-(^|\.|-)samplicio\.us$
-(^|\.|-)ss2\.us$
-(^|\.|-)teads(\.|-))
-(^|\.|-)rfihub\.net$
-(^|\.|-)smartstream(\.|-)
-(^|\.|-)syndicaster(\.|-)
-(^|\.|-)superawesome\.tv$
-
-# 7/26/2020
-(^|\.|-)cgi6\.ebay\.de\.ws\.ebayisapi\.dll\.sellerdashboard
-(^|\.|-)elbavietnam\.com$
-(^|\.|-)sextracker\.((com)|(de))
+8/15/2020
+(^|\.)ibs\.lgappstv\.com
+(^|\.)lgsmartad\.com
+(^|\.)rdx2\.lgtvsdp\.com
+(^|\.)samsung(electronics|cloudcdn)\.com$
+(^|\.)samsungcloudsolution\.(com|net)$
+(^|\.)smartshare\.lgtvsdp\.com
+^api\..*\.hismarttv\.com$
