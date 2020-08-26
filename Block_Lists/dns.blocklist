@@ -1,0 +1,15 @@
+# List of DNS servers
+# dns.blocklist
+# Last Modified: 25 Aug 2020
+#
+
+use-application-dns.net
+dig.bdurl.net
+doh.opendns.com
+doh.familyshield.opendns.com
+dns.quad9.net
+dns.google
+dot.xfinity.com
+dns.adguard.com
+dns-family.adguard.com
+mozilla.cloudflare-dns.com
