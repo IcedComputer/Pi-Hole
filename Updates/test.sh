@@ -27,7 +27,7 @@ function base()
 	curl -o $TEMPDIR/CFconfig 'https://raw.githubusercontent.com/IcedComputer/Azure-Pihole-VPN-setup/master/Configuration%20Files/CFconfig'
 		
 	#download a new refresh.sh
-	curl -o $TEMPDIR/security_refresh.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Updates/security_refresh.sh'
+	curl -o $TEMPDIR/refresh.sh 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Updates/refresh.sh'
 	
 	#refresh.sh
 	chmod 777 $TEMPDIR/refresh.sh
@@ -70,7 +70,7 @@ function security()
 function test_list()
 {
  curl -o $TEMPDIR/adlists.list.trial.temp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/adlists/trial.adlist.list'
- cat $TEMPDIR/adlists.list.trial.temp $TEMPDIR/adlists.list | sort | uniq > $TEMPDIR/adlists.list.temp
+ cat $TEMPDIR/adlists.list.trial.temp $TEMPDIR/adlists.list | grep -v "##" | sort | uniq > $TEMPDIR/adlists.list.temp
  mv $TEMPDIR/adlists.list.temp $TEMPDIR/adlists.list
  
  curl -o $TEMPDIR/test.regex 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Regex%20Files/test.regex'

@@ -1,6 +1,6 @@
 # This adlist is a bit more lax than the standard list used
-# This is largely just security
-# Last Updated 13 AUG 2020
+## This is largely just security
+## Last Updated 27 AUG 2020
 
 ## TikTok (State Sponsored Malware & RAT)
 https://raw.githubusercontent.com/blocklistproject/Lists/master/tiktok.txt
@@ -42,6 +42,7 @@ https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 ## Scams and Redirects
 https://raw.githubusercontent.com/blocklistproject/Lists/master/redirect.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt
+https://raw.githubusercontent.com/dnsblocklistnet/blocklists/master/multilevelmarketing.list
 
 ## Other
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
@@ -57,6 +58,7 @@ https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 ## Fake News
 https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/fakenews.blocklist
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+https://raw.githubusercontent.com/dnsblocklistnet/blocklists/master/conspiracy.list
 
 ## Crypto Mining
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
@@ -67,7 +69,4 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/crypto.txt
 
 ## DNS
 https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/dns.blocklist
-
-
-
 

@@ -1,6 +1,5 @@
 # This adlist is the full blocking list
-# Last Updated 25 AUG 2020
-
+# Last Updated 27 AUG 2020
 
 ## Ads
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
@@ -18,6 +17,7 @@ https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/crypto.txt
 
 ## DNS
 https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/dns.blocklist
@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/B
 ## Fake News
 https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/fakenews.blocklist
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+https://raw.githubusercontent.com/dnsblocklistnet/blocklists/master/conspiracy.list
 
 ## Malware
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
@@ -36,6 +37,7 @@ https://mirror1.malwaredomains.com/files/justdomains
 https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/malwarelist.txt
 https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/MalBlock.blocklist
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/quidsup_malicious-sites/master/domains.list
+https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://v.firebog.net/hosts/Airelle-hrsk.txt
 https://v.firebog.net/hosts/Prigent-Malware.txt
@@ -45,6 +47,7 @@ https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
 ## Phishing
 https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt
 https://v.firebog.net/hosts/Prigent-Phishing.txt
 
@@ -54,9 +57,12 @@ https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt
 
 ## Scams & Redirects
-
+https://raw.githubusercontent.com/blocklistproject/Lists/master/redirect.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt
+https://raw.githubusercontent.com/dnsblocklistnet/blocklists/master/multilevelmarketing.list
 
 ## Smart TV
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
@@ -66,12 +72,11 @@ https://v.firebog.net/hosts/static/SamsungSmart.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 
-
 ## TikTok
+https://raw.githubusercontent.com/blocklistproject/Lists/master/tiktok.txt
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt
 https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block
 https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
-https://raw.githubusercontent.com/superover/TikTok-Blocklist/master/tiktok.txt
 https://raw.githubusercontent.com/superover/TikTok-Blocklist/master/tiktok.txt
 
 ## Tracking
@@ -83,10 +88,10 @@ https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/t
 https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/quidsup_notrack_trackers/master/domains.list
+https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-tracking/list.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-
 
 ## Other & Hosts
 http://127.0.0.1/alist.txt
@@ -124,21 +129,3 @@ https://v.firebog.net/hosts/AdguardDNS.txt
 https://v.firebog.net/hosts/Airelle-trc.txt
 https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
-
-
-
-#### Trial Lists
-
-## 8/13/2020
-https://raw.githubusercontent.com/blocklistproject/Lists/master/crypto.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/redirect.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/tiktok.txt
-https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt
-
-## 08/25/2020
-https://raw.githubusercontent.com/dnsblocklistnet/blocklists/master/conspiracy.list
-https://raw.githubusercontent.com/dnsblocklistnet/blocklists/master/multilevelmarketing.list

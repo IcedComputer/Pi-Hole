@@ -1,6 +1,6 @@
-## Last Updated 25 Aug 2020 ##
-## Trial Blocklists ##
-## trial.adlist.list
+# Trial Blocklists Included 
+# trial.adlist.list
+## Last Updated 27 Aug 2020
 ## Items that are still in testing
 #########
 
@@ -19,6 +19,3 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/piracy.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/torrent.txt
 http://someonewhocares.org/hosts/hosts
 
-## 25 Aug 2020
-https://raw.githubusercontent.com/dnsblocklistnet/blocklists/master/conspiracy.list
-https://raw.githubusercontent.com/dnsblocklistnet/blocklists/master/multilevelmarketing.list
