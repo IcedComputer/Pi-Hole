@@ -150,8 +150,8 @@ if [ $Type = "security" ]
 fi
 
 
-scripts
 public_allowlist
 #encrypted_allowlist
 assemble
+scripts
 clean
