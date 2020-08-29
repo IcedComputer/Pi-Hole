@@ -1,7 +1,7 @@
 # A list of test items
 # test.blocklist
 # Re-Organized: 03 July 2020
-# Last Updated: 27 Aug 2020
+# Last Updated: 29 Aug 2020
 
 
 ## To adHosts.blocklist (tracking, advertising and other non-malicious hosts)
@@ -9,8 +9,10 @@
 
 
 ## To MalBlock.blocklist (malware, randsomware, spam, phishing, etc.)
-
-
+Gayfun.org
+Grindersex.com
+Baxy.org
+Grindersex.org
 
 ## To custom.blocklist (Other)
 
