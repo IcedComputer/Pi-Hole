@@ -1,20 +1,9 @@
-## Last Updated 15 Aug 2020 ##
+## Last Updated 29 Aug 2020 ##
 ## Regex Blacklist ##
 ## test.regex
 ## This regex is designed to test various features before they get added to the master list
 #########
 
 
-# 25 July 2020
-# This is a test spam regex - may be too broad
-(^|\.|-)..............\.w[a-z,0-9]*-?([a-z,0-9]*)?\........(.)?...
-\......................\.us$
-
-## 15 Aug 2020
-(^|\.)ibs\.lgappstv\.com
-(^|\.)lgsmartad\.com
-(^|\.)rdx2\.lgtvsdp\.com
-(^|\.)samsung(electronics|cloudcdn)\.com$
-(^|\.)samsungcloudsolution\.(com|net)$
-(^|\.)smartshare\.lgtvsdp\.com
-^api\..*\.hismarttv\.com$
+## 8/29/20
+## Items moved into master regex

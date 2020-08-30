@@ -3,6 +3,12 @@
 ## main.regex
 #########
 (.*\.|^)((think)?with)?google($|((adservices|mail|static|syndication|tagmanager|tagservices|zip|-analytics)($|\..+)))
+(^|\.)ibs\.lgappstv\.com
+(^|\.)lgsmartad\.com
+(^|\.)rdx2\.lgtvsdp\.com
+(^|\.)samsung(electronics|cloudcdn)\.com$
+(^|\.)samsungcloudsolution\.(com|net)$
+(^|\.)smartshare\.lgtvsdp\.com
 (^|\.)tplinkra\.com$
 (^|\.)xbcs\.net$
 (^|\.|-)((boom)|(dynamo)|(ket)|(max)|(moat)|(pop)|(snap)|(te))ads?[-_\.]
@@ -15,6 +21,7 @@
 (^|\.|-)(mobile)?analytics?[-_\.]
 (^|\.|-)(mobile)?apptrack(ing)?[-_\.]
 (^|\.|-)*mobile-?collect(s|er|or|ed|ing|ion)?.*\.
+(^|\.|-)..............\.w[a-z,0-9]*-?([a-z,0-9]*)?\........(.)?...
 (^|\.|-)......\.drivefact.org$
 (^|\.|-)...police\.((com)|(net))$
 (^|\.|-)0+apple(s)?(0+)?\.com$
@@ -592,21 +599,10 @@
 (^|\.|-)zopim\.com$
 (^|\.|-)zwtianshangm(\.|-)
 .*\.g[0-9]+\..*
+\......................\.us$
 ^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com
 ^(www\.)?itunes-[:alnum:]*\.
 ^..businessdaily\.com$
+^api\..*\.hismarttv\.com$
 ^tiles\..*services\.mozilla\.com$
 ^www-?[:alpha:]+\.com$
-
-# This is a test spam regex - may be too broad
-(^|\.|-)..............\.w[a-z,0-9]*-?([a-z,0-9]*)?\........(.)?...
-\......................\.us$
-
-# 15 Aug 2020
-(^|\.)ibs\.lgappstv\.com
-(^|\.)lgsmartad\.com
-(^|\.)rdx2\.lgtvsdp\.com
-(^|\.)samsung(electronics|cloudcdn)\.com$
-(^|\.)samsungcloudsolution\.(com|net)$
-(^|\.)smartshare\.lgtvsdp\.com
-^api\..*\.hismarttv\.com$
