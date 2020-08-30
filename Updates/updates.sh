@@ -1,4 +1,4 @@
-## Last Updated 15 Aug 2020
+## Last Updated 29 Aug 2020
 ## updates.sh
 ## This script is designed to keep the pihole updated and linked to any changes made
 ##
