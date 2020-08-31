@@ -1,7 +1,7 @@
 # A list of test items
 # test.blocklist
 # Re-Organized: 03 July 2020
-# Last Updated: 30 Aug 2020
+# Last Updated: 3 Aug 2020
 
 
 ## To adHosts.blocklist (tracking, advertising and other non-malicious hosts)
@@ -25,12 +25,17 @@ api-tealeaf.goacoustic.com
 dolro.club
 www.dolro.club
 
+# 31 August 2020
+kindepend.com
+
 
 ## To MalBlock.blocklist (malware, randsomware, spam, phishing, etc.)
 234sdfnbhu23bud.blogspot.com
 
 ## To custom.blocklist (Other)
 
+# 31 Aug 2020
+usatestprep.com
 
 
 ## To fakenews.blocklist (Fake News)
