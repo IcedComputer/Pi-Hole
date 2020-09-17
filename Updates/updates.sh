@@ -69,6 +69,8 @@ function security()
 
 function test_list()
 {
+
+echo "******This is test server********"
  curl -o $TEMPDIR/adlists.list.trial.temp 'https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/adlists/trial.adlist.list'
  cat $TEMPDIR/adlists.list.trial.temp $TEMPDIR/adlists.list | grep -v "##" | sort | uniq > $TEMPDIR/adlists.list.temp
  mv $TEMPDIR/adlists.list.temp $TEMPDIR/adlists.list
