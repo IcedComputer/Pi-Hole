@@ -1,15 +1,19 @@
 # A list of test items
 # test.blocklist
 # Re-Organized: 03 July 2020
-# Last Updated: 13 Sep 2020
+# Last Updated: 17 Sep 2020
 
 
 ## To adHosts.blocklist (tracking, advertising and other non-malicious hosts)
+
+# 17 Sep 2020
 media-router-flurry8.prod.media.wg1.b.yahoo.com
 vip0x08e.ssl.rncdn5.com
 ai.phncdn.com.rncdn1.com
 
 ## To MalBlock.blocklist (malware, randsomware, spam, phishing, etc.)
+
+# 13 Sep 2020
 234sdfnbhu23bud.blogspot.com
 responder.iwantquest.net
 iwantquest.net
