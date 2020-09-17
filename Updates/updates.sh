@@ -14,6 +14,7 @@ PIDIR=/etc/pihole
 CONFIG=/scripts/Finished/CONFIG
 Type=$(<"$CONFIG/type.conf")
 test_system=$(<"$CONFIG/test.conf") 
+is_cloudflared=$(<"$CONFIG/dns_type.conf")
 
 #Some basic functions including updating the box & getting new configuration files
 function base()
@@ -131,7 +132,11 @@ function clean()
  rm -f $TEMPDIR/*.regex
  rm -f $TEMPDIR/*.temp
  rm -f $TEMPDIR/*.gpg
- sudo systemctl restart cloudflared
+ 
+ if [ $is_cloudflared = "cloudflared" ]
+	then
+		sudo systemctl restart cloudflared
+fi
 }
 
 
