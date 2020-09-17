@@ -1,9 +1,10 @@
-## Last Updated 29 Aug 2020 ##
+## Last Updated 17 Sep 2020 ##
 ## Regex Blacklist ##
 ## test.regex
 ## This regex is designed to test various features before they get added to the master list
 #########
 
 
-## 8/29/20
-## Items moved into master regex
+#17 Sep 2020
+(^|\.|-)rncdn[1-9]\.com
+(^|\.|-)flurry[1-9]\.prod\.media\.wg1\.b\.yahoo\.com
