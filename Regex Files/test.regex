@@ -7,8 +7,9 @@
 
 #17 Sep 2020
 #(^|\.|-)rncdn[1-9]\.com
+#(^|\.|-)cs[1-9]*\.wpc\.
+
 (^|\.|-)flurry[1-9]\.prod\.media\.wg1\.b\.yahoo\.com
 (^|\.|-)hwcdn\.net
 (^|\.|-)traffichaus\.com
-(^|\.|-)cs[1-9]*\.wpc\.
 (^|\.|-)vip0x0[1-9]*\.
