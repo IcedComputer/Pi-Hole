@@ -3,39 +3,33 @@
 # Re-Organized: 03 July 2020
 # Last Updated: 17 Sep 2020
 
-
 ## To adHosts.blocklist (tracking, advertising and other non-malicious hosts)
 
 # 17 Sep 2020
-dat.itsup.com
+adiktivebanners.b-cdn.net
+adultdates.com
+ai.phncdn.com.rncdn1.com
 blkditsup.com
-dat3.its-up.com
-media.servingmillions.com
+dat.itsup.com
 dat3.its-up.com
 gredgar-prevalid.com
-adiktivebanners.b-cdn.net
-ai.phncdn.com.rncdn1.com
-ssl-ccstatic.highwebmedia.com
+media.servingmillions.com
 roomimg.stream.highwebmedia.com
+ssl-ccstatic.highwebmedia.com
 t.bdwafx.com
-www.imglnke.com
+tour.eplay.com
 v.vfgte.com
+vz-cdn.trafficjunky.net
+www.imglnke.com
 
 ## To MalBlock.blocklist (malware, randsomware, spam, phishing, etc.)
-
-
 
 ## To custom.blocklist (Other)
 m.chaturbate.com
 
-
 ## To fakenews.blocklist (Fake News)
 
-
-
 ## To ForeignHost.blocklist (Non-Malicious / Non-ad Foreign Hosts)
-
-
 
 ## To dns.blocklist (DNS)
 
