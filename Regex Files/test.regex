@@ -11,5 +11,6 @@
 
 (^|\.|-)flurry[1-9]\.prod\.media\.wg1\.b\.yahoo\.com
 (^|\.|-)hwcdn\.net
+(^|\.|-)itsup\.com
 (^|\.|-)traffichaus\.com
-(^|\.|-)vip0x0[1-9]*\.
+(^|\.|-)vip0x0(8e)?(4f)?\.ssl\.
