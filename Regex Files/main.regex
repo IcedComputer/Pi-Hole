@@ -1,4 +1,4 @@
-## Last Updated 15 Aug 2020 ##
+## Last Updated 17 Sep 2020 ##
 ## Regex Blacklist ##
 ## main.regex
 #########
@@ -75,7 +75,6 @@
 (^|\.|-)aff(iliat(es?|ion))?[-_\.]
 (^|\.|-)affpartners\.com$
 (^|\.|-)agarioskins\.pw$
-(^|\.|-)yahoodns\.net$
 (^|\.|-)agkn\.com$
 (^|\.|-)agof\.de$
 (^|\.|-)aliyuncs\.com$
@@ -457,6 +456,7 @@
 (^|\.|-)rlcontrol\.de$
 (^|\.|-)royalvegascasino\.com$
 (^|\.|-)rqtrk\.eu$
+(^|\.|-)rsc\.cdn77\.org
 (^|\.|-)rubiconproject\.com$
 (^|\.|-)rxthdr\.com$
 (^|\.|-)s?(eg)?metrics?[-_\.]
@@ -588,6 +588,7 @@
 (^|\.|-)xiti\.com$
 (^|\.|-)xpanama\.net$
 (^|\.|-)xpressunblock\.com$
+(^|\.|-)yahoodns\.net$
 (^|\.|-)yandex\.
 (^|\.|-)yield((mo)|(optimizer))\.com$
 (^|\.|-)yieldify\.com$
