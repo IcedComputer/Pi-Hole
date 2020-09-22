@@ -1,44 +1,20 @@
 # A list of test items
 # test.blocklist
 # Re-Organized: 03 July 2020
-# Last Updated: 20 Sep 2020
+# Last Updated: 21 Sep 2020
 
 ## To adHosts.blocklist (tracking, advertising and other non-malicious hosts)
 
-# 17 Sep 2020
-adiktivebanners.b-cdn.net
-adultdates.com
-ai.phncdn.com.rncdn1.com
-blkditsup.com
-dat.itsup.com
-dat3.its-up.com
-gredgar-prevalid.com
-media.servingmillions.com
-roomimg.stream.highwebmedia.com
-ssl-ccstatic.highwebmedia.com
-t.bdwafx.com
-tour.eplay.com
-v.vfgte.com
-vfthr.com
-vz-cdn.trafficjunky.net
-wetrackyourback.com
-www.imglnke.com
-www.vfthr.com
-cdn.itsup.com
-www.pstreetex.com
-if.psmimg.com
-i.psmimg.com
-cdn.asf4f.us
 
 # 20 Sep 2020
 cpxy.a-mo.net.cdn.cloudflare.net
-domestic-static.duolingo.cn.w.kunlungr.com
+
 
 
 ## To MalBlock.blocklist (malware, randsomware, spam, phishing, etc.)
 
 ## To custom.blocklist (Other)
-m.chaturbate.com
+
 
 ## To fakenews.blocklist (Fake News)
 
