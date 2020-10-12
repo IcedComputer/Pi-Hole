@@ -1,30 +1,18 @@
 # A list of test items
 # test.blocklist
 # Re-Organized: 03 July 2020
-# Last Updated: 27 Sep 2020
+# Last Updated: 12 October 2020
 
 ## To adHosts.blocklist (tracking, advertising and other non-malicious hosts)
 
 
-# 20 Sep 2020
-cpxy.a-mo.net.cdn.cloudflare.net
-
-
-# 24 Sep 2020
-az725175.vo.msecnd.net
-e4805.dsca.akamaiedge.net
-
-# 27 Sep 2020
-events.bouncex.net
-onsiterecs.api.boomtrain.com
-cnn.bounceexchange.com
-onetag-geo.s-onetag.com
-get.s-onetag.com
-tag.bounceexchange.com
-consumer.krxd.net
 
 
 ## To MalBlock.blocklist (malware, randsomware, spam, phishing, etc.)
+votik.org
+guysdowntf.com
+studsnearby.com
+
 
 ## To custom.blocklist (Other)
 

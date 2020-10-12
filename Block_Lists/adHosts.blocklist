@@ -1,6 +1,6 @@
 # List of tracking, advertising and other non-malicious hosts
 # adHosts.blocklist
-# Last Modified: 21 Sep 2020
+# Last Modified: 12 October 2020
 #
 189229.measurementapi.com
 50analytics.secureserver.net
@@ -75,6 +75,7 @@ as.sexad.net
 assets.track.easypost.com
 auth.samsungosp.com
 az43064.vo.msecnd.net
+az725175.vo.msecnd.net
 beacon.dropbox.com
 beacon.krxd.net
 beacons-blackholed.gcp.gvt2.com
@@ -101,6 +102,7 @@ client-analytics.braintreegateway.com
 clientmetrics-augmentum.kik.com
 clientmetrics.kik.com
 clk.apxadtracking.net
+cnn.bounceexchange.com
 collector-product-insight.thomsonreuters.com
 collector-px35v5ygcp.perimeterx.net
 collector-pxhyx10rg3.perimeterx.net
@@ -108,7 +110,9 @@ community.amztracker.com
 connect.facebook.com
 connect.facebook.net
 console.adpushup.com
+consumer.krxd.net
 corp-mktg.s3.amazonaws.com
+cpxy.a-mo.net.cdn.cloudflare.net
 creative-analytics.crossinstall.io
 dat.itsup.com
 dat3.its-up.com
@@ -121,11 +125,14 @@ devices.carnivalmobile.com
 diagnostics.meethue.com
 dlt-beacon.dynatrace-managed.com
 dolro.club
+e4805.dsca.akamaiedge.net
+events.bouncex.net
 eventtracking.hubapi.com
 fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
 game.internetat.tv
 geoclue.smaato.net
+get.s-onetag.com
 gld.samsungosp.com
 gredgar-prevalid.com
 hw-cdn-ap.trafficjunky.net
@@ -154,22 +161,11 @@ marketing-webhooks.generalassemb.ly
 marketing.dropbox.com
 marketing.triplelift.com
 marriott-booking-vacationsbymarriott-com.ezrez.net
-media.servingmillions.com
-roomimg.stream.highwebmedia.com
-ssl-ccstatic.highwebmedia.com
-t.bdwafx.com
-tour.eplay.com
-v.vfgte.com
-vfthr.com
-vz-cdn.trafficjunky.net
-wetrackyourback.com
-www.imglnke.com
-www.pstreetex.com
-www.vfthr.com
 mas-ssr-ad.amazon.com
 mastersrecipes.com	
 media.promogogo.com
 media.propellerads.com
+media.servingmillions.com
 media.trafficjunky.com
 mediabarterexchange.com
 mediadirectx.com
@@ -181,16 +177,22 @@ noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
 ns11.whois.co.kr
 oempprd.samsungcloudsolution.com
+onetag-geo.s-onetag.com
+onsiterecs.api.boomtrain.com
 openapi.samsung.com
 premium-videos.telly.com
 redirect.viglink.com
+roomimg.stream.highwebmedia.com
 srv-2017-10-23-06.pixel.parsely.com
 srv-2017-12-14-05.pixel.parsely.com
 srv-2017-12-18-17.pixel.parsely.com
 srv.pixel.parsely.com
+ssl-ccstatic.highwebmedia.com
 ssl.track2mobile.com
 sso.internetat.tv
 syncplusconfig.s3.amazonaws.com
+t.bdwafx.com
+tag.bounceexchange.com
 target.mixi.media
 targeted-config-test.samsungacr.com
 targeting.mco.arcpublishing.com
@@ -205,19 +207,27 @@ telemetry.allrecipes.com
 telemetry.servers.getgo.com
 telemetryhost235.cloudapp.net
 time.samsungcloudsolution.com
+tour.eplay.com
 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracker-us.adsmoloco.com
 tracking-2.us-east-1.prod.intspot.com
 tracking-3.us-east-1.prod.intspot.com
 trackinglb-1826511868.us-east-1.elb.amazonaws.com
 v.vfgtb.com
+v.vfgte.com
 vd.emp.prd.s3.amazonaws.com
 vdterms.samsungcloudsolution.com
+vfthr.com
 viglink.go2cloud.org
+vz-cdn.trafficjunky.net
+wetrackyourback.com
 www.dolro.club
+www.imglnke.com
 www.link.trkngnow.com
+www.pstreetex.com
 www.samsungotn.net
 www.samsungrm.net
+www.vfthr.com
 xv-dns-leaks-debian-production-1236358895.us-east-1.elb.amazonaws.com
 y.analytics.yahoo.com
 yahoo.uservoice.com
