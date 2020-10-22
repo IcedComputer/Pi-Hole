@@ -6,7 +6,7 @@
 
 
 #17 Sep 2020
-(^|\.|-)flurry[1-9]\.prod\.media\.wg1\.b\.yahoo\.com
+#(^|\.|-)flurry[1-9]\.prod\.media\.wg1\.b\.yahoo\.com
 (^|\.|-)hwcdn\.net
 (^|\.|-)itsup\.com
 (^|\.|-)traffichaus\.com
