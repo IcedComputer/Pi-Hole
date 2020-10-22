@@ -1,4 +1,4 @@
-## Last Updated 27 Sep 2020 ##
+## Last Updated 22 Oct 2020 ##
 ## Regex Blacklist ##
 ## test.regex
 ## This regex is designed to test various features before they get added to the master list
@@ -6,8 +6,6 @@
 
 
 #17 Sep 2020
-#(^|\.|-)rncdn[1-9]\.com
-#(^|\.|-)cs[1-9]*\.wpc\.
 (^|\.|-)flurry[1-9]\.prod\.media\.wg1\.b\.yahoo\.com
 (^|\.|-)hwcdn\.net
 (^|\.|-)itsup\.com
@@ -17,3 +15,7 @@
 # 27 Sep 2020
 (^|\.|-)s-onetag\.com$
 (^|\.|-)krxd\.net
+
+## 22 Oct 2020
+(^|\.|-)apple-dns\.net
+(^|\.|-)icloud\.com\.akadns\.net
