@@ -18,14 +18,18 @@ www.goodreads.com
 www.acx.com
 shops.myshopify.com
 
+
 ## To fakenews.blocklist (Fake News)
 
 ## To ForeignHost.blocklist (Non-Malicious / Non-ad Foreign Hosts)
+cdn.xuansiwei.com.w.kunlunar.com
+cdn.xuansiwei.com
 
 ## To dns.blocklist (DNS)
 doh.dns.apple.com
 usqas5.ce.apple-dns.net
 www-cdn.icloud.com.akadns.net
+
 
 
 
