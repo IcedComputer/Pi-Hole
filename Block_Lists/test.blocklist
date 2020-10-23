@@ -9,20 +9,20 @@ tag.device9.com
 
 
 ## To MalBlock.blocklist (malware, randsomware, spam, phishing, etc.)
-votik.org
-guysdowntf.com
-studsnearby.com
-def.dev-nano.com
+cadef.dev-nano.com
 
 ## To custom.blocklist (Other)
-
+www.dpreview.com
+www.pillpack.com
+www.goodreads.com
+www.acx.com
+shops.myshopify.com
 
 ## To fakenews.blocklist (Fake News)
 
 ## To ForeignHost.blocklist (Non-Malicious / Non-ad Foreign Hosts)
 
 ## To dns.blocklist (DNS)
-
 doh.dns.apple.com
 usqas5.ce.apple-dns.net
 www-cdn.icloud.com.akadns.net
