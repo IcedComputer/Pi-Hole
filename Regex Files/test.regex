@@ -1,4 +1,4 @@
-## Last Updated 23 Oct 2020 ##
+## Last Updated 01 November 2020 ##
 ## Regex Blacklist ##
 ## test.regex
 ## This regex is designed to test various features before they get added to the master list
@@ -6,7 +6,6 @@
 
 
 #17 Sep 2020
-#(^|\.|-)flurry[1-9]\.prod\.media\.wg1\.b\.yahoo\.com
 (^|\.|-)hwcdn\.net
 (^|\.|-)itsup\.com
 (^|\.|-)traffichaus\.com
@@ -25,3 +24,7 @@
 
 ## 23 Oct 2020
 (^|\.|-)device\.marketingcloudapis\.com$
+
+## 01 November 2020
+(^|\.|-)chicdn\.net
+
