@@ -3,12 +3,6 @@
 
 ## Ads & Tracking
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
-https://raw.githubusercontent.com/CHEF-KOCH/Canvas-Font-Fingerprinting-pages/master/Canvas.txt
-https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/Canvas.txt
-https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/audio%20fingerprinting%20pages.txt
-https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/trackers.txt
-https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
 https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/iosadlist.txt
 https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/youtubeads.txt
 https://raw.githubusercontent.com/IcedComputer/Personal-Pi-Hole-configs/master/Block_Lists/adHosts.blocklist
