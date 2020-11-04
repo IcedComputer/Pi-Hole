@@ -13,7 +13,6 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/facebook.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-tracking/list.txt
-https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
@@ -115,8 +114,6 @@ https://raw.githubusercontent.com/durablenapkin/block/master/avast.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.risk/list.txt
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts0
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts1
-https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts2
-https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/hosts/hosts3
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
