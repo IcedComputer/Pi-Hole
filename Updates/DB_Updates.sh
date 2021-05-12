@@ -34,12 +34,12 @@ function regex()
 pihole --regex --nuke
 
 #adds regex from following file
-regex='$TEMPDIR/regex.list'
+file3='$TEMPDIR/regex.list'
 
 while read -r regex; do
 	pihole --regex -nr $regex
 	wait
-done < $file
+done < $file3
 }
 
 function allow()
@@ -48,12 +48,12 @@ function allow()
 #pihole -w --nuke
 
 #adds allow list from following file
-file='$TEMPDIR/final.allow.temp'
+file1='$TEMPDIR/final.allow.temp'
 
 while read allow; do
 	pihole -w -nr $allow
 	wait
-done < $file
+done < $file1
 }
 
 function allow_regex()
@@ -62,12 +62,12 @@ function allow_regex()
 pihole --white-regex --nuke
 
 #adds allow list from following file
-file='$TEMPDIR/WL_regex.list'
+file2='$TEMPDIR/WL_regex.list'
 
 while read -r WLallow; do
 	pihole --white-regex -nr $WLallow
 	wait
-done < $file
+done < $file2
 }
 
 ## Main Program
