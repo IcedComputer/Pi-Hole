@@ -31,7 +31,7 @@ done < $file
 function regex()
 {
 # Purge existing regex list
-pihole --regex --nuke
+#pihole --regex --nuke
 
 #adds regex from following file
 file3=$TEMPDIR/regex.list
