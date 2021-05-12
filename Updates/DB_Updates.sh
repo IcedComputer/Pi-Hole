@@ -70,8 +70,14 @@ while read -r WLallow; do
 done < $file2
 }
 
+function cleaup()
+{
+pihole restartdns
+}
+
 ## Main Program
 allow
 #allow_regex
 adlist
 regex
+cleanup
