@@ -22,7 +22,7 @@ cat $PIDIR/adlist.list | grep -v '#' | grep "http" | sort | uniq > $TEMPDIR/form
 # Inserts URLs into the adlist database
 file=$TEMPDIR/formatted_adlist.temp
 i=1
-while read -r line; do
+while read line; do
         sqlite3 "/etc/pihole/gravity.db" "INSERT INTO adlist (id, address, enabled) VALUES($i, $A$line$A, 1)"
         i=$((i+1))
 done < $file
@@ -38,7 +38,8 @@ file3=$TEMPDIR/regex.list
 
 while read -r regex; do
 	pihole --regex -nr $regex
-	wai
+	wait
+done < $file3
 }
 
 function allow()
