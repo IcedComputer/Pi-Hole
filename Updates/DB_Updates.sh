@@ -34,7 +34,7 @@ function regex()
 #pihole --regex --nuke
 
 #adds regex from following file
-file3=$TEMPDIR/regex.list
+file3=$PIDIR/regex.list
 
 while read -r regex; do
 	pihole --regex -nr $regex
@@ -48,7 +48,7 @@ function allow()
 #pihole -w --nuke
 
 #adds allow list from following file
-file1=$TEMPDIR/final.allow.temp
+file1=$PIDIR/whitelist.txt
 
 while read allow; do
 	pihole -w -nr $allow
